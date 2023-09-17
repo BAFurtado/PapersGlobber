@@ -1,5 +1,7 @@
 import json
 from collections import Counter
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
 
 def main(file_address):
@@ -22,9 +24,21 @@ def main(file_address):
         print(f'{tag}: {count}')
 
     all_abstracts = [item['abstractNote'] for item in data if 'abstractNote' in item]
-    return data
+    abstract_words = [' '.join(a.split()) for a in all_abstracts]
+    return data, abstract_words
 
 
 if __name__ == '__main__':
     f = 'results.json'
-    d = main(f)
+    d, abs_words = main(f)
+    combined_text = ' '.join(abs_words)
+
+    # Create a WordCloud object
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(combined_text)
+
+    # Display the word cloud
+    plt.figure(figsize=(10, 5))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.savefig('image.png')
+    plt.show()
