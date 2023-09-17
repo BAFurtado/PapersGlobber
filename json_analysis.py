@@ -19,13 +19,29 @@ def main(file_address):
 
     all_journals = [item['publicationTitle'] for item in data if 'publicationTitle' in item]
     tag_journals = Counter(all_journals)
-    print('-' * 100, 'JOURNALS', '-' * 100)
+    print('-' * 100, len(all_journals), ': JOURNALS', '-' * 100)
     for tag, count in sorted(tag_journals.items(), key=lambda x: x[1], reverse=True):
         print(f'{tag}: {count}')
 
     all_abstracts = [item['abstractNote'] for item in data if 'abstractNote' in item]
     abstract_words = [' '.join(a.split()) for a in all_abstracts]
     return data, abstract_words
+
+
+def getting_authors(data):
+    # Initialize an empty list to store last names
+    last_names = list()
+    for paper in data:
+        # Check the dictionary
+        if 'creators' in paper:
+            for author in paper['creators']:
+                if 'lastName' in author:
+                    last_names.append(author['lastName'])
+    last_names_counter = Counter(last_names)
+    print('-' * 100, len(last_names_counter), ': AUTHORS', '-' * 100)
+    for tag, count in sorted(last_names_counter.items(), key=lambda x: x[1], reverse=True):
+        print(f'{tag}: {count}')
+    return last_names
 
 
 if __name__ == '__main__':
@@ -42,3 +58,5 @@ if __name__ == '__main__':
     plt.axis("off")
     plt.savefig('image.png')
     plt.show()
+
+    last = getting_authors(d)
