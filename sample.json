@@ -1,0 +1,320 @@
+[
+    {
+        "key": "3UYBBYUQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ross",
+                "lastName": "Gore",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Carlos",
+                "lastName": "Lemos",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "F. LeRon",
+                "lastName": "Shults",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Wesley J.",
+                "lastName": "Wildman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Forecasting Changes in Religiosity and Existential Security with an Agent-Based Model",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2018",
+        "volume": "21",
+        "issue": "1",
+        "pages": "4"
+    },
+    {
+        "key": "EFANZKBY",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ben",
+                "lastName": "Fitzpatrick",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jason",
+                "lastName": "Martinez",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-Based Modeling of Ecological Niche Theory and Assortative Drinking",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2011",
+        "volume": "15",
+        "issue": "2",
+        "pages": "4"
+    },
+    {
+        "key": "NKQMZXUW",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Jillian",
+                "lastName": "Student",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Roman",
+                "lastName": "Egger",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modelling (ABM)",
+                "type": 1
+            },
+            {
+                "tag": "Human-environment systems",
+                "type": 1
+            },
+            {
+                "tag": "Agents",
+                "type": 1
+            },
+            {
+                "tag": "Complex adaptive systems",
+                "type": 1
+            }
+        ],
+        "date": "2022",
+        "title": "Agent-Based Modelling",
+        "pages": "481-511",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "This chapter introduces agent-based modelling (ABM), a useful approach for looking at complex interactions between humans and their environment. Tourism is such a complex industry involving many stakeholders like tourists, accommodation providers, travel agencies, etc., working together to create a single tourism experience. Moreover, as tourism is both a global and local phenomenon, ABM helps to improve the understanding of how individual interactions result in larger phenomena. Individual decisions, such as where to go on vacation, influence the state of the destination as well as local and global transportation flows, and these feedbacks are often non-linear. Simultaneously, tourism and its ecosystem are changing through their interactions. ABM can capture heterogeneities in agent characteristics, types, and decisions as well as variations in the environmental context, providing it with the potential to assist researchers in understanding complex tourism challenges, explore potential future scenarios, and support decision-making. In this chapter, tourism as a complex system and the relevance of ABM for studying such emerging challenges will be described. In the practical demonstration, the main steps for developing an agent-based model will also be explained, and the model Coasting will illustrate the process of model building, key components of the model, and analysis tools.",
+        "ISBN": "9783030883898",
+        "url": "https://doi.org/10.1007/978-3-030-88389-8_23",
+        "extra": "DOI: 10.1007/978-3-030-88389-8_23",
+        "bookTitle": "Applied Data Science in Tourism: Interdisciplinary Approaches, Methodologies, and Applications",
+        "place": "Cham",
+        "language": "en",
+        "series": "Tourism on the Verge",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-09-17T13:50:20Z"
+    },
+    {
+        "key": "ZZKV4G72",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Xavier",
+                "lastName": "Peer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Pharmacokinetics and Pharmacodynamics",
+        "journalAbbreviation": "J Pharmacokinet Pharmacodyn",
+        "volume": "41",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "1567-567X, 1573-8744",
+        "date": "10/2014",
+        "pages": "493-507",
+        "DOI": "10.1007/s10928-014-9381-1",
+        "url": "http://link.springer.com/10.1007/s10928-014-9381-1",
+        "title": "Agent-based model of fecal microbial transplant effect on bile acid metabolism on suppressing Clostridium difficile infection: an example of agent-based modeling of intestinal bacterial infection",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-17T13:50:25Z",
+        "shortTitle": "Agent-based model of fecal microbial transplant effect on bile acid metabolism on suppressing Clostridium difficile infection"
+    },
+    {
+        "key": "IFRGK7V4",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Nancy A.",
+                "lastName": "Rigotti",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Robert B.",
+                "lastName": "Wallace",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of Internal Medicine",
+        "journalAbbreviation": "Ann Intern Med",
+        "volume": "163",
+        "issue": "6",
+        "language": "en",
+        "ISSN": "0003-4819, 1539-3704",
+        "date": "2015-09-15",
+        "pages": "469-471",
+        "DOI": "10.7326/M15-1567",
+        "url": "https://www.acpjournals.org/doi/10.7326/M15-1567",
+        "title": "Using Agent-Based Models to Address \u201cWicked Problems\u201d Like Tobacco Use: A Report From the Institute of Medicine",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-17T13:50:27Z",
+        "shortTitle": "Using Agent-Based Models to Address \u201cWicked Problems\u201d Like Tobacco Use"
+    },
+    {
+        "key": "9LADC7H4",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Wenwu",
+                "lastName": "Tang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David A.",
+                "lastName": "Bennett",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of the Association of American Geographers",
+        "journalAbbreviation": "Annals of the Association of American Geographers",
+        "volume": "100",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "0004-5608, 1467-8306",
+        "date": "2010-10-29",
+        "pages": "1128-1155",
+        "DOI": "10.1080/00045608.2010.517739",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/00045608.2010.517739",
+        "title": "The Explicit Representation of Context in Agent-Based Models of Complex Adaptive Spatial Systems",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-17T13:50:30Z"
+    },
+    {
+        "key": "F2F7IQAZ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jo\u00ebl",
+                "lastName": "Foramitti",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Ecological Economics",
+        "journalAbbreviation": "Ecological Economics",
+        "volume": "204",
+        "language": "en",
+        "ISSN": "09218009",
+        "date": "02/2023",
+        "pages": "107651",
+        "DOI": "10.1016/j.ecolecon.2022.107651",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0921800922003123",
+        "title": "A framework for agent-based models of human needs and ecological limits",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-17T13:50:32Z"
+    },
+    {
+        "key": "PV34YJR9",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Noud\u00e9hou\u00e9nou Lionel Jaderne",
+                "lastName": "Houssou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juan Durango",
+                "lastName": "Cordero",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Audren",
+                "lastName": "Bouadjio-Boulic",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lucie",
+                "lastName": "Morin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nicolas",
+                "lastName": "Maestripieri",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sylvain",
+                "lastName": "Ferrant",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mahamadou",
+                "lastName": "Belem",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jose Ignacio",
+                "lastName": "Pelaez Sanchez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Melio",
+                "lastName": "Saenz",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emilie",
+                "lastName": "Lerigoleur",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Arnaud",
+                "lastName": "Elger",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Benoit",
+                "lastName": "Gaudou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Laurence",
+                "lastName": "Maurice",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mehdi",
+                "lastName": "Saqalli",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Synchronizing Histories of Exposure and Demography: The Construction of an Agent-Based Model of the Ecuadorian Amazon Colonization and Exposure to Oil Pollution Hazards",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2019",
+        "volume": "22",
+        "issue": "2",
+        "pages": "1",
+        "shortTitle": "Synchronizing Histories of Exposure and Demography"
+    }
+]
