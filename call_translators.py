@@ -38,17 +38,17 @@ def run_list_translators(data):
                 try:
                     output = json.loads(response_doi)
                 except json.JSONDecodeError:
-                    print('x' * 100, '\n', response_doi)
+                    print('x' * 100, '\n', response_doi, ': ', url_search)
             if output:
                 results += output
                 print(output)
         if i % 10 == 0:
-            with open('results.json', 'w') as json_file:
+            with open(file_address, 'w') as json_file:
                 json.dump(results, json_file, indent=4)
 
 
 if __name__ == '__main__':
     f = 'tweets.csv'
-    d = pd.read_csv('tweets.csv', names=['id', 'address'])
+    d = pd.read_csv(f, names=['id', 'address'])
     d = d.address.to_list()
     run_list_translators(d)

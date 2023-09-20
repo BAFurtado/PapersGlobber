@@ -49840,5 +49840,4092 @@
         "libraryCatalog": "DOI.org (Crossref)",
         "accessDate": "2023-09-17T17:50:10Z",
         "shortTitle": "BioWar"
+    },
+    {
+        "key": "EKVY8FKY",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Nancy A.",
+                "lastName": "Rigotti",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Robert B.",
+                "lastName": "Wallace",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of Internal Medicine",
+        "journalAbbreviation": "Ann Intern Med",
+        "volume": "163",
+        "issue": "6",
+        "language": "en",
+        "ISSN": "0003-4819, 1539-3704",
+        "date": "2015-09-15",
+        "pages": "469-471",
+        "DOI": "10.7326/M15-1567",
+        "url": "https://www.acpjournals.org/doi/10.7326/M15-1567",
+        "title": "Using Agent-Based Models to Address \u201cWicked Problems\u201d Like Tobacco Use: A Report From the Institute of Medicine",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:10:58Z",
+        "shortTitle": "Using Agent-Based Models to Address \u201cWicked Problems\u201d Like Tobacco Use"
+    },
+    {
+        "key": "A3NGY4PZ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Taylor",
+                "lastName": "Anderson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Suzana",
+                "lastName": "Dragi\u0107evi\u0107",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "International Journal of Geographical Information Science",
+        "journalAbbreviation": "International Journal of Geographical Information Science",
+        "volume": "34",
+        "issue": "9",
+        "language": "en",
+        "ISSN": "1365-8816, 1362-3087",
+        "date": "2020-09-01",
+        "pages": "1792-1821",
+        "DOI": "10.1080/13658816.2020.1741000",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1741000",
+        "title": "NEAT approach for testing and validation of geospatial network agent-based model processes: case study of influenza spread",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:00Z",
+        "shortTitle": "NEAT approach for testing and validation of geospatial network agent-based model processes"
+    },
+    {
+        "key": "T5DMGXM2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Wanjie",
+                "lastName": "Hu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jianjun",
+                "lastName": "Dong",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jingfeng",
+                "lastName": "Yuan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rui",
+                "lastName": "Ren",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zhilong",
+                "lastName": "Chen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Helan",
+                "lastName": "Cheng",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Management Science and Engineering",
+        "journalAbbreviation": "Journal of Management Science and Engineering",
+        "volume": "7",
+        "issue": "2",
+        "language": "en",
+        "ISSN": "20962320",
+        "date": "06/2022",
+        "pages": "266-286",
+        "DOI": "10.1016/j.jmse.2021.10.002",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2096232021000652",
+        "title": "Agent-based modeling approach for evaluating underground logistics system benefits and long-term development in megacities",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:03Z"
+    },
+    {
+        "key": "3MD4YXT5",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Richard J.",
+                "lastName": "Dawson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Roger",
+                "lastName": "Peppe",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Miao",
+                "lastName": "Wang",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Natural Hazards",
+        "journalAbbreviation": "Nat Hazards",
+        "volume": "59",
+        "issue": "1",
+        "language": "en",
+        "ISSN": "0921-030X, 1573-0840",
+        "date": "10/2011",
+        "pages": "167-189",
+        "DOI": "10.1007/s11069-011-9745-4",
+        "url": "http://link.springer.com/10.1007/s11069-011-9745-4",
+        "title": "An agent-based model for risk-based flood incident management",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:08Z"
+    },
+    {
+        "key": "XTH9A6CM",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [
+            {
+                "firstName": "Raymond Hill and Frank Ciarallo",
+                "lastName": "Brian Heath",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "A Survey of Agent-Based Modeling Practices (January 1998 to July 2008)",
+        "rights": "JASSS@soc.surrey.ac.uk",
+        "date": "2009-10-31",
+        "abstractNote": "In the 1990s, Agent-Based Modeling (ABM) began gaining popularity and represents a departure from the more classical simulation approaches. This departure, its recent development and its increasing application by non-traditional simulation disciplines indicates the need to continuously assess the current state of ABM and identify opportunities for improvement. To begin to satisfy this need, we surveyed and collected data from 279 articles from 92 unique publication outlets in which the authors had constructed and analyzed an agent-based model. From this large data set we establish the current practice of ABM in terms of year of publication, field of study, simulation software used, purpose of the simulation, acceptable validation criteria, validation techniques and complete description of the simulation. Based on the current practice we discuss six improvements needed to advance ABM as an analysis tool. These improvements include the development of ABM specific tools that are independent of software, the development of ABM as an independent discipline with a common language that extends across domains, the establishment of expectations for ABM that match their intended purposes, the requirement of complete descriptions of the simulation so others can independently replicate the results, the requirement that all models be completely validated and the development and application of statistical and non-statistical validation techniques specifically for ABM.",
+        "websiteType": "Text.Article",
+        "language": "en",
+        "url": "https://www.jasss.org/12/4/9.html",
+        "accessDate": "2023-09-20T17:11:09Z"
+    },
+    {
+        "key": "EAD6ABNW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "James",
+                "lastName": "Hogg",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Fonoberova",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Igor",
+                "lastName": "Mezi\u0107",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ryan",
+                "lastName": "Mohr",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rajagopalan",
+                "lastName": "Srinivasan",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "14",
+        "issue": "9",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2019-9-11",
+        "pages": "e0222023",
+        "DOI": "10.1371/journal.pone.0222023",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0222023",
+        "title": "Koopman Mode Analysis of agent-based models of logistics processes",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:12Z"
+    },
+    {
+        "key": "Q54R64IW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Qi",
+                "lastName": "Mi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Joyeeta",
+                "lastName": "Dutta\u2010Moscato",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yoram",
+                "lastName": "Vodovotz",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "WIREs Systems Biology and Medicine",
+        "journalAbbreviation": "WIREs Mechanisms of Disease",
+        "volume": "1",
+        "issue": "2",
+        "abstractNote": "Abstract\r\n            Effective translational methodologies for knowledge representation are needed in order to make strides against the constellation of diseases that affect the world today. These diseases are defined by their mechanistic complexity, redundancy, and nonlinearity. Translational systems biology aims to harness the power of computational simulation to streamline drug/device design, simulate clinical trials, and eventually to predict the effects of drugs on individuals. The ability of agent\u2010based modeling to encompass multiple scales of biological process as well as spatial considerations, coupled with an intuitive modeling paradigm, suggests that this modeling framework is well suited for translational systems biology. This review describes agent\u2010based modeling and gives examples of its translational applications in the context of acute inflammation and wound healing. Copyright \u00a9 2009 John Wiley & Sons, Inc.\r\n            \r\n              This article is categorized under:\r\n              \r\n                \r\n                  Analytical and Computational Methods > Computational Methods",
+        "language": "en",
+        "ISSN": "1939-5094, 1939-005X",
+        "date": "09/2009",
+        "pages": "159-171",
+        "DOI": "10.1002/wsbm.45",
+        "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.45",
+        "title": "Agent\u2010based models in translational systems biology",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:16Z"
+    },
+    {
+        "key": "TE3NH7KA",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jo\u00ebl",
+                "lastName": "Foramitti",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Ecological Economics",
+        "journalAbbreviation": "Ecological Economics",
+        "volume": "204",
+        "language": "en",
+        "ISSN": "09218009",
+        "date": "02/2023",
+        "pages": "107651",
+        "DOI": "10.1016/j.ecolecon.2022.107651",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0921800922003123",
+        "title": "A framework for agent-based models of human needs and ecological limits",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:18Z"
+    },
+    {
+        "key": "A8H8B33C",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Victorino",
+                "lastName": "Sanz",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Federico",
+                "lastName": "Bergero",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alfonso",
+                "lastName": "Urquia",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Simulation Modelling Practice and Theory",
+        "journalAbbreviation": "Simulation Modelling Practice and Theory",
+        "volume": "83",
+        "language": "en",
+        "ISSN": "1569190X",
+        "date": "04/2018",
+        "pages": "65-74",
+        "DOI": "10.1016/j.simpat.2017.12.012",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1569190X17301831",
+        "title": "An approach to agent-based modeling with Modelica",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:22Z"
+    },
+    {
+        "key": "GRMLS57D",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Christopher",
+                "lastName": "McComb",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kathryn",
+                "lastName": "Jablokow",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Design Studies",
+        "journalAbbreviation": "Design Studies",
+        "volume": "78",
+        "language": "en",
+        "ISSN": "0142694X",
+        "date": "01/2022",
+        "pages": "101074",
+        "DOI": "10.1016/j.destud.2021.101074",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X21000855",
+        "title": "A conceptual framework for multidisciplinary design research with example application to agent-based modeling",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:25Z"
+    },
+    {
+        "key": "IZMA8NF9",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Parastu",
+                "lastName": "Kasaie",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "W. David",
+                "lastName": "Kelton",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "2015 Winter Simulation Conference (WSC)",
+        "place": "Huntington Beach, CA, USA",
+        "conferenceName": "2015 Winter Simulation Conference (WSC)",
+        "ISBN": "9781467397438",
+        "publisher": "IEEE",
+        "date": "12/2015",
+        "pages": "183-193",
+        "DOI": "10.1109/WSC.2015.7408163",
+        "url": "http://ieeexplore.ieee.org/document/7408163/",
+        "title": "Guidelines for design and analysis in agent-based simulation studies",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:28Z"
+    },
+    {
+        "key": "RKSCRITE",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Anna",
+                "lastName": "Kowalska-Pyzalska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Katarzyna",
+                "lastName": "Maciejowska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Karol",
+                "lastName": "Suszczy\u0144ski",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Katarzyna",
+                "lastName": "Sznajd-Weron",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rafa\u0142",
+                "lastName": "Weron",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Energy Policy",
+        "journalAbbreviation": "Energy Policy",
+        "volume": "72",
+        "language": "en",
+        "ISSN": "03014215",
+        "date": "09/2014",
+        "pages": "164-174",
+        "DOI": "10.1016/j.enpol.2014.04.021",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0301421514002377",
+        "title": "Turning green: Agent-based modeling of the adoption of dynamic electricity tariffs",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:34Z",
+        "shortTitle": "Turning green"
+    },
+    {
+        "key": "G42VBRXB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. A.",
+                "lastName": "Hernan",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "American Journal of Epidemiology",
+        "journalAbbreviation": "American Journal of Epidemiology",
+        "volume": "181",
+        "issue": "2",
+        "language": "en",
+        "ISSN": "0002-9262, 1476-6256",
+        "date": "2015-01-15",
+        "pages": "103-105",
+        "DOI": "10.1093/aje/kwu272",
+        "url": "https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwu272",
+        "title": "Invited Commentary: Agent-Based Models for Causal Inference--Reweighting Data and Theory in Epidemiology",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:39Z",
+        "shortTitle": "Invited Commentary"
+    },
+    {
+        "key": "VNMNX74Q",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Nikita",
+                "lastName": "Sivakumar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Cameron",
+                "lastName": "Mura",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Shayn M.",
+                "lastName": "Peirce",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Innovations in integrating machine learning and agent-based modeling of biomedical systems",
+        "url": "https://www.frontiersin.org/articles/10.3389/fsysb.2022.959665",
+        "ISSN": "2674-0702",
+        "volume": "2",
+        "abstractNote": "Agent-based modeling (ABM) is a well-established computational paradigm for simulating complex systems in terms of the interactions between individual entities that comprise the system\u2019s population. Machine learning (ML) refers to computational approaches whereby algorithms use statistical methods to \u201clearn\u201d from data on their own, i.e., without imposing any a priori model/theory onto a system or its behavior. Biological systems\u2014ranging from molecules, to cells, to entire organisms, to whole populations and even ecosystems\u2014consist of vast numbers of discrete entities, governed by complex webs of interactions that span various spatiotemporal scales and exhibit nonlinearity, stochasticity, and variable degrees of coupling between entities. For these reasons, the macroscopic properties and collective dynamics of biological systems are generally difficult to accurately model or predict via continuum modeling techniques and mean-field formalisms. ABM takes a \u201cbottom-up\u201d approach that obviates common difficulties of other modeling approaches by enabling one to relatively easily create (or at least propose, for testing) a set of well-defined \u201crules\u201d to be applied to the individual entities (agents) in a system. Quantitatively evaluating a system and propagating its state over a series of discrete time-steps effectively simulates the system, allowing various observables to be computed and the system\u2019s properties to be analyzed. Because the rules that govern an ABM can be difficult to abstract and formulate from experimental data, at least in an unbiased way, there is a uniquely synergistic opportunity to employ ML to help infer optimal, system-specific ABM rules. Once such rule-sets are devised, running ABM calculations can generate a wealth of data, and ML can be applied in that context too\u2014for example, to generate statistical measures that accurately and meaningfully describe the stochastic outputs of a system and its properties. As an example of synergy in the other direction (from ABM to ML), ABM simulations can generate plausible (realistic) datasets for training ML algorithms (e.g., for regularization, to mitigate overfitting). In these ways, one can envision a variety of synergistic ABM\u21c4ML loops. After introducing some basic ideas about ABMs and ML, and their limitations, this Review describes examples of how ABM and ML have been integrated in diverse contexts, spanning spatial scales that include multicellular and tissue-scale biology to human population-level epidemiology. In so doing, we have used published studies as a guide to identify ML approaches that are well-suited to particular types of ABM applications, based on the scale of the biological system and the properties of the available data.",
+        "date": "2022",
+        "publicationTitle": "Frontiers in Systems Biology",
+        "libraryCatalog": "Frontiers",
+        "accessDate": "2023-09-20T17:11:44Z"
+    },
+    {
+        "key": "CTJGHXH9",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "A.",
+                "lastName": "Lopolito",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "P.",
+                "lastName": "Morone",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "R.",
+                "lastName": "Taylor",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Research Policy",
+        "journalAbbreviation": "Research Policy",
+        "volume": "42",
+        "issue": "6-7",
+        "language": "en",
+        "ISSN": "00487333",
+        "date": "07/2013",
+        "pages": "1225-1238",
+        "DOI": "10.1016/j.respol.2013.03.002",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048733313000498",
+        "title": "Emerging innovation niches: An agent based model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:48Z",
+        "shortTitle": "Emerging innovation niches"
+    },
+    {
+        "key": "3GCYCPQL",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877050914003032/pdf?md5=2f1e4029d91c40dae7f296c164482bea&pid=1-s2.0-S1877050914003032-main.pdf",
+        "title": "",
+        "accessDate": "2023-09-20T17:11:48Z"
+    },
+    {
+        "key": "4YYH7Y4G",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Tuong Manh",
+                "lastName": "Vu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Charlotte",
+                "lastName": "Probst",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alexandra",
+                "lastName": "Nielsen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hao",
+                "lastName": "Bai",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Petra S.",
+                "lastName": "Meier",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Charlotte",
+                "lastName": "Buckley",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mark",
+                "lastName": "Strong",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alan",
+                "lastName": "Brennan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Robin C.",
+                "lastName": "Purshouse",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "volume": "23",
+        "issue": "3",
+        "language": "en",
+        "ISSN": "1460-7425",
+        "date": "2020",
+        "pages": "1",
+        "DOI": "10.18564/jasss.4282",
+        "url": "http://jasss.soc.surrey.ac.uk/23/3/1.html",
+        "title": "A Software Architecture for Mechanism-Based Social Systems Modelling in Agent-Based Simulation Models",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:53Z"
+    },
+    {
+        "key": "ZUU9TNBU",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Christopher",
+                "lastName": "McComb",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kathryn",
+                "lastName": "Jablokow",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Design Studies",
+        "journalAbbreviation": "Design Studies",
+        "volume": "78",
+        "language": "en",
+        "ISSN": "0142694X",
+        "date": "01/2022",
+        "pages": "101074",
+        "DOI": "10.1016/j.destud.2021.101074",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0142694X21000855",
+        "title": "A conceptual framework for multidisciplinary design research with example application to agent-based modeling",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:55Z"
+    },
+    {
+        "key": "EI3WQN4K",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Qi",
+                "lastName": "Mi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Joyeeta",
+                "lastName": "Dutta\u2010Moscato",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yoram",
+                "lastName": "Vodovotz",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "WIREs Systems Biology and Medicine",
+        "journalAbbreviation": "WIREs Mechanisms of Disease",
+        "volume": "1",
+        "issue": "2",
+        "abstractNote": "Abstract\r\n            Effective translational methodologies for knowledge representation are needed in order to make strides against the constellation of diseases that affect the world today. These diseases are defined by their mechanistic complexity, redundancy, and nonlinearity. Translational systems biology aims to harness the power of computational simulation to streamline drug/device design, simulate clinical trials, and eventually to predict the effects of drugs on individuals. The ability of agent\u2010based modeling to encompass multiple scales of biological process as well as spatial considerations, coupled with an intuitive modeling paradigm, suggests that this modeling framework is well suited for translational systems biology. This review describes agent\u2010based modeling and gives examples of its translational applications in the context of acute inflammation and wound healing. Copyright \u00a9 2009 John Wiley & Sons, Inc.\r\n            \r\n              This article is categorized under:\r\n              \r\n                \r\n                  Analytical and Computational Methods > Computational Methods",
+        "language": "en",
+        "ISSN": "1939-5094, 1939-005X",
+        "date": "09/2009",
+        "pages": "159-171",
+        "DOI": "10.1002/wsbm.45",
+        "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.45",
+        "title": "Agent\u2010based models in translational systems biology",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:57Z"
+    },
+    {
+        "key": "JTVCQK6D",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "J. Daniel",
+                "lastName": "Rogers",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Wendy H.",
+                "lastName": "Cegielski",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Proceedings of the National Academy of Sciences",
+        "journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+        "volume": "114",
+        "issue": "49",
+        "language": "en",
+        "ISSN": "0027-8424, 1091-6490",
+        "date": "2017-12-05",
+        "pages": "12841-12844",
+        "DOI": "10.1073/pnas.1718277114",
+        "url": "https://pnas.org/doi/full/10.1073/pnas.1718277114",
+        "title": "Building a better past with the help of agent-based modeling",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:11:59Z"
+    },
+    {
+        "key": "8RAT2HJ3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Debraj",
+                "lastName": "Roy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Lees",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Computers, Environment and Urban Systems",
+        "journalAbbreviation": "Computers, Environment and Urban Systems",
+        "volume": "80",
+        "language": "en",
+        "ISSN": "01989715",
+        "date": "03/2020",
+        "pages": "101458",
+        "DOI": "10.1016/j.compenvurbsys.2019.101458",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0198971519302170",
+        "title": "Understanding resilience in slums using an agent-based model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:03Z"
+    },
+    {
+        "key": "4I5IZLT3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Katarzyna",
+                "lastName": "Sznajd-Weron",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Janusz",
+                "lastName": "Szwabi\u0144ski",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rafa\u0142",
+                "lastName": "Weron",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Naoki",
+                "lastName": "Masuda",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLoS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "9",
+        "issue": "11",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2014-11-4",
+        "pages": "e112203",
+        "DOI": "10.1371/journal.pone.0112203",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0112203",
+        "title": "Is the Person-Situation Debate Important for Agent-Based Modeling and Vice-Versa?",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:05Z"
+    },
+    {
+        "key": "MR5FLJ3E",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "K.M.",
+                "lastName": "Carley",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "D.B.",
+                "lastName": "Fridsma",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "E.",
+                "lastName": "Casman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "A.",
+                "lastName": "Yahja",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "N.",
+                "lastName": "Altman",
+                "creatorType": "author"
+            },
+            {
+                "name": "Li-Chiou Chen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "B.",
+                "lastName": "Kaminsky",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "D.",
+                "lastName": "Nave",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans",
+        "journalAbbreviation": "IEEE Trans. Syst., Man, Cybern. A",
+        "volume": "36",
+        "issue": "2",
+        "ISSN": "1083-4427",
+        "date": "03/2006",
+        "pages": "252-265",
+        "DOI": "10.1109/TSMCA.2005.851291",
+        "url": "http://ieeexplore.ieee.org/document/1597399/",
+        "title": "BioWar: scalable agent-based model of bioattacks",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:08Z",
+        "shortTitle": "BioWar"
+    },
+    {
+        "key": "XIGPWPC5",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Li",
+                "lastName": "An",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Zvoleff",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jianguo",
+                "lastName": "Liu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Axinn",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of the Association of American Geographers",
+        "journalAbbreviation": "Annals of the Association of American Geographers",
+        "volume": "104",
+        "issue": "4",
+        "language": "en",
+        "ISSN": "0004-5608, 1467-8306",
+        "date": "2014-07-04",
+        "pages": "723-745",
+        "DOI": "10.1080/00045608.2014.910085",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00045608.2014.910085",
+        "title": "Agent-Based Modeling in Coupled Human and Natural Systems (CHANS): Lessons from a Comparative Analysis",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:11Z",
+        "shortTitle": "Agent-Based Modeling in Coupled Human and Natural Systems (CHANS)"
+    },
+    {
+        "key": "RBYCC93D",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Bruch",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jon",
+                "lastName": "Atwell",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Sociological Methods & Research",
+        "journalAbbreviation": "Sociological Methods & Research",
+        "volume": "44",
+        "issue": "2",
+        "abstractNote": "Agent-based modeling has become increasingly popular in recent years, but there is still no codified set of recommendations or practices for how to use these models within a program of empirical research. This article provides ideas and practical guidelines drawn from sociology, biology, computer science, epidemiology, and statistics. We first discuss the motivations for using agent-based models in both basic science and policy-oriented social research. Next, we provide an overview of methods and strategies for incorporating data on behavior and populations into agent-based models, and review techniques for validating and testing the sensitivity of agent-based models. We close with suggested directions for future research.",
+        "language": "en",
+        "ISSN": "0049-1241, 1552-8294",
+        "date": "05/2015",
+        "pages": "186-221",
+        "DOI": "10.1177/0049124113506405",
+        "url": "http://journals.sagepub.com/doi/10.1177/0049124113506405",
+        "title": "Agent-Based Models in Empirical Social Research",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:15Z"
+    },
+    {
+        "key": "3N4VAW3M",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jason E.",
+                "lastName": "Goldstick",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jonathan",
+                "lastName": "Jay",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Current Epidemiology Reports",
+        "journalAbbreviation": "Curr Epidemiol Rep",
+        "volume": "9",
+        "issue": "3",
+        "language": "en",
+        "ISSN": "2196-2995",
+        "date": "2022-07-08",
+        "pages": "135-141",
+        "DOI": "10.1007/s40471-022-00292-x",
+        "url": "https://link.springer.com/10.1007/s40471-022-00292-x",
+        "title": "Agent-Based Modeling: an Underutilized Tool in Community Violence Research",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:19Z",
+        "shortTitle": "Agent-Based Modeling"
+    },
+    {
+        "key": "9WI6ABQY",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Nick",
+                "lastName": "Malleson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Linda",
+                "lastName": "See",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andy",
+                "lastName": "Evans",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison",
+                "lastName": "Heppenstall",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "SIMULATION",
+        "journalAbbreviation": "SIMULATION",
+        "volume": "88",
+        "issue": "1",
+        "abstractNote": "Explaining and modelling crime patterns is an exercise that has taxed policy-makers, criminologists, social reformers and the police ever since the first crime patterns were recorded. Crime is a particularly difficult phenomenon to model because of its inherent complexity; crime patterns are built up from a multitude of human-human and human-environment micro-interactions that ultimately lead to individual crime events. Commonly used modelling techniques, such as regression, struggle to fully account for the dynamics of the crime system. They work at aggregate scales thereby disregarding important individual-level variation and also struggle to account for the effects of different types of human behaviour. Furthermore, important concepts from environmental criminology \u2013 such as individual offender awareness spaces or heterogeneity in offender decision-making \u2013 cannot be included directly when working at a resolution above that of the individual.\r\n            This research addresses the drawbacks associated with traditional mathematical crime models by building an agent-based simulation with a unique offender behavioural model. Through use of the PECS framework for modelling human behaviour, agents are endowed with needs and motives that drive their behaviour and ultimately lead to the commission of crime. As the model uses real-world environmental data, it can be used to make predictions in existing cities. The paper demonstrates that use of this framework, in combination with an agent-based model, can replicate patterns and trends that are supported by the current theoretical understanding of offending behaviour.",
+        "language": "en",
+        "ISSN": "0037-5497, 1741-3133",
+        "date": "01/2012",
+        "pages": "50-71",
+        "DOI": "10.1177/0037549710384124",
+        "url": "http://journals.sagepub.com/doi/10.1177/0037549710384124",
+        "title": "Implementing comprehensive offender behaviour in a realistic agent-based model of burglary",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:22Z"
+    },
+    {
+        "key": "7NCR2DFM",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Dale",
+                "lastName": "Larie",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "R. Chase",
+                "lastName": "Cockrell",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "The Use of Artificial Neural Networks to Forecast the Behavior of Agent-Based Models of Pathophysiology: An Example Utilizing an Agent-Based Model of Sepsis",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2021.716434",
+        "ISSN": "1664-042X",
+        "volume": "12",
+        "abstractNote": "Introduction: Disease states are being characterized at finer and finer levels of resolution via biomarker or gene expression profiles, while at the same time. Machine learning (ML) is increasingly used to analyze and potentially classify or predict the behavior of biological systems based on such characterization. As ML applications are extremely data-intensive, given the relative sparsity of biomedical data sets ML training of artificial neural networks (ANNs) often require the use of synthetic training data. Agent-based models (ABMs) that incorporate known biological mechanisms and their associated stochastic properties are a potential means of generating synthetic data. Herein we present an example of ML used to train an artificial neural network (ANN) as a surrogate system used to predict the time evolution of an ABM focusing on the clinical condition of sepsis.Methods: The disease trajectories for clinical sepsis, in terms of temporal cytokine and phenotypic dynamics, can be interpreted as a random dynamical system. The Innate Immune Response Agent-based Model (IIRABM) is a well-established model that utilizes known cellular and molecular rules to simulate disease trajectories corresponding to clinical sepsis. We have utilized two distinct neural network architectures, Long Short-Term Memory and Multi-Layer Perceptron, to take a time sequence of five measurements of eleven IIRABM simulated serum cytokine concentrations as input and to return both the future cytokine trajectories as well as an aggregate metric representing the patient\u2019s state of health.Results: The ANNs predicted model trajectories with the expected amount of error, due to stochasticity in the simulation, and recognizing that the mapping from a specific cytokine profile to a state-of-health is not unique. The Multi-Layer Perceptron neural network, generated predictions with a more accurate forecasted trajectory cone.Discussion: This work serves as a proof-of-concept for the use of ANNs to predict disease progression in sepsis as represented by an ABM. The findings demonstrate that multicellular systems with intrinsic stochasticity can be approximated with an ANN, but that forecasting a specific trajectory of the system requires sequential updating of the system state to provide a rolling forecast horizon.",
+        "date": "2021",
+        "publicationTitle": "Frontiers in Physiology",
+        "libraryCatalog": "Frontiers",
+        "accessDate": "2023-09-20T17:12:27Z",
+        "shortTitle": "The Use of Artificial Neural Networks to Forecast the Behavior of Agent-Based Models of Pathophysiology"
+    },
+    {
+        "key": "7GTQTJVU",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Charles M.",
+                "lastName": "Macal",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael J.",
+                "lastName": "North",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-based modeling and simulation: introductory tutorial",
+        "proceedingsTitle": "Proceedings of the 2013 Winter Simulation Conference: Simulation: Making Decisions in a Complex World",
+        "series": "WSC '13",
+        "publisher": "IEEE Press",
+        "pages": "362\u2013376",
+        "place": "Washington, D.C.",
+        "abstractNote": "Agent-based simulation (ABS) is an approach to modeling systems comprised of individual, autonomous, interacting \"agents.\" Agent-based modeling offers ways to more easily model individual behaviors and how behaviors affect others in ways that have not been available before. There is much interest in developing agent-based models for many application problem domains. Applications range from modeling agent behavior in supply chains and the stock market, to predicting the success of marketing campaigns and the spread of epidemics, to projecting the future needs of the healthcare system. Progress in the area suggests that ABS promises to have far-reaching effects on the way that businesses use computers to support decision-making and researchers use agent-based models as electronic laboratories to aid in discovery. This brief tutorial introduces agent-based modeling and simulation by describing the basic ideas of ABS, discussing some applications, and addressing methods for developing agent-based models.",
+        "ISBN": "9781479920778",
+        "date": "December 8, 2013",
+        "accessDate": "2023-09-20",
+        "libraryCatalog": "ACM Digital Library",
+        "shortTitle": "Agent-based modeling and simulation"
+    },
+    {
+        "key": "FMU6I5WG",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Amy L.",
+                "lastName": "Bauer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Catherine A.A.",
+                "lastName": "Beauchemin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alan S.",
+                "lastName": "Perelson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Information Sciences",
+        "journalAbbreviation": "Information Sciences",
+        "volume": "179",
+        "issue": "10",
+        "language": "en",
+        "ISSN": "00200255",
+        "date": "2009-04-29",
+        "pages": "1379-1389",
+        "DOI": "10.1016/j.ins.2008.11.012",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0020025508004726",
+        "title": "Agent-based modeling of host\u2013pathogen systems: The successes and challenges",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:38Z",
+        "shortTitle": "Agent-based modeling of host\u2013pathogen systems"
+    },
+    {
+        "key": "Z9GGZS46",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Pongchai",
+                "lastName": "Dumrongrojwatthana",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christophe",
+                "lastName": "Le Page",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nantana",
+                "lastName": "Gajaseni",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Guy",
+                "lastName": "Tr\u00e9buil",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Land Use Science",
+        "journalAbbreviation": "Journal of Land Use Science",
+        "volume": "6",
+        "issue": "2-3",
+        "language": "en",
+        "ISSN": "1747-423X, 1747-4248",
+        "date": "06/2011",
+        "pages": "101-120",
+        "DOI": "10.1080/1747423X.2011.558596",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/1747423X.2011.558596",
+        "title": "Co-constructing an agent-based model to mediate land use conflict between herders and foresters in northern Thailand",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:40Z"
+    },
+    {
+        "key": "QHGQW4D2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Carlos F.",
+                "lastName": "Mena",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Stephen J.",
+                "lastName": "Walsh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian G.",
+                "lastName": "Frizzelle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yao",
+                "lastName": "Xiaozheng",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "George P.",
+                "lastName": "Malanson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Applied Geography",
+        "journalAbbreviation": "Applied Geography",
+        "volume": "31",
+        "issue": "1",
+        "language": "en",
+        "ISSN": "01436228",
+        "date": "1/2011",
+        "pages": "210-222",
+        "DOI": "10.1016/j.apgeog.2010.04.005",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0143622810000512",
+        "title": "Land use change on household farms in the Ecuadorian Amazon: Design and implementation of an agent-based model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:44Z",
+        "shortTitle": "Land use change on household farms in the Ecuadorian Amazon"
+    },
+    {
+        "key": "AIINI9CD",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Xinyue",
+                "lastName": "Ye",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yuri",
+                "lastName": "Mansury",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "The Annals of Regional Science",
+        "journalAbbreviation": "Ann Reg Sci",
+        "volume": "57",
+        "issue": "2-3",
+        "language": "en",
+        "ISSN": "0570-1864, 1432-0592",
+        "date": "11/2016",
+        "pages": "271-274",
+        "DOI": "10.1007/s00168-016-0792-3",
+        "url": "http://link.springer.com/10.1007/s00168-016-0792-3",
+        "title": "Behavior-driven agent-based models of spatial systems",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:47Z"
+    },
+    {
+        "key": "DBZHLCNF",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Kristina A.",
+                "lastName": "Luus",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Derek T.",
+                "lastName": "Robinson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Peter J.",
+                "lastName": "Deadman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Land Use Science",
+        "journalAbbreviation": "Journal of Land Use Science",
+        "volume": "8",
+        "issue": "2",
+        "language": "en",
+        "ISSN": "1747-423X, 1747-4248",
+        "date": "06/2013",
+        "pages": "175-198",
+        "DOI": "10.1080/1747423X.2011.640357",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/1747423X.2011.640357",
+        "title": "Representing ecological processes in agent-based models of land use and cover change",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:49Z"
+    },
+    {
+        "key": "35X7B4BA",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Ernest",
+                "lastName": "Teniente",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "Weidlich",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Emilio",
+                "lastName": "Sulis",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Di Leva",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "bookTitle": "Business Process Management Workshops",
+        "place": "Cham",
+        "ISBN": "9783319740294 9783319740300",
+        "publisher": "Springer International Publishing",
+        "volume": "308",
+        "date": "2018",
+        "pages": "124-132",
+        "extra": "DOI: 10.1007/978-3-319-74030-0_8",
+        "url": "http://link.springer.com/10.1007/978-3-319-74030-0_8",
+        "title": "An Agent-Based Model of a Business Process: The Use Case of a Hospital Emergency Department",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:53Z",
+        "shortTitle": "An Agent-Based Model of a Business Process"
+    },
+    {
+        "key": "N6NB86ID",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Reyhaneh",
+                "lastName": "Zafarnejad",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul M.",
+                "lastName": "Griffin",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Computers in Biology and Medicine",
+        "journalAbbreviation": "Computers in Biology and Medicine",
+        "volume": "134",
+        "language": "en",
+        "ISSN": "00104825",
+        "date": "07/2021",
+        "pages": "104518",
+        "DOI": "10.1016/j.compbiomed.2021.104518",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0010482521003127",
+        "title": "Assessing school-based policy actions for COVID-19: An agent-based analysis of incremental infection risk",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:57Z",
+        "shortTitle": "Assessing school-based policy actions for COVID-19"
+    },
+    {
+        "key": "BE9RTRFE",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Andrea",
+                "lastName": "Hicks",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Resources, Conservation & Recycling Advances",
+        "journalAbbreviation": "Resources, Conservation & Recycling Advances",
+        "volume": "15",
+        "language": "en",
+        "ISSN": "26673789",
+        "date": "11/2022",
+        "pages": "200091",
+        "DOI": "10.1016/j.rcradv.2022.200091",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667378922000293",
+        "title": "Seeing the people in LCA: Agent based models as one possibility",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:12:59Z",
+        "shortTitle": "Seeing the people in LCA"
+    },
+    {
+        "key": "EAKLSFND",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. V.",
+                "lastName": "Eitzel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jon",
+                "lastName": "Solera",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "K. B.",
+                "lastName": "Wilson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kleber",
+                "lastName": "Neves",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Aaron C.",
+                "lastName": "Fisher",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andr\u00e9",
+                "lastName": "Veski",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Oluwasola E.",
+                "lastName": "Omoju",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Abraham",
+                "lastName": "Mawere Ndlovu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emmanuel",
+                "lastName": "Mhike Hove",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sieglinde S.",
+                "lastName": "Snapp",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "15",
+        "issue": "8",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2020-8-21",
+        "pages": "e0237638",
+        "DOI": "10.1371/journal.pone.0237638",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0237638",
+        "title": "Using mixed methods to construct and analyze a participatory agent-based model of a complex Zimbabwean agro-pastoral system",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:02Z"
+    },
+    {
+        "key": "W5R7JNZN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Petr\u00f4nio C.L.",
+                "lastName": "Silva",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paulo V.C.",
+                "lastName": "Batista",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "H\u00e9lder S.",
+                "lastName": "Lima",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marcos A.",
+                "lastName": "Alves",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frederico G.",
+                "lastName": "Guimar\u00e3es",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rodrigo C.P.",
+                "lastName": "Silva",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Chaos, Solitons & Fractals",
+        "journalAbbreviation": "Chaos, Solitons & Fractals",
+        "volume": "139",
+        "language": "en",
+        "ISSN": "09600779",
+        "date": "10/2020",
+        "pages": "110088",
+        "DOI": "10.1016/j.chaos.2020.110088",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0960077920304859",
+        "title": "COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:04Z",
+        "shortTitle": "COVID-ABS"
+    },
+    {
+        "key": "SW7I949E",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Maria",
+                "lastName": "Haensel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Thomas M.",
+                "lastName": "Schmitt",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jakob",
+                "lastName": "Bogenreuther",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Science Education and Technology",
+        "journalAbbreviation": "J Sci Educ Technol",
+        "abstractNote": "Abstract\r\n            Agent-based modeling is a promising tool for familiarizing students with complex systems as well as programming skills. Human\u2013environment systems, for instance, entail complex interdependencies that need to be considered when modeling these systems. This complexity is often neglected in teaching modeling approaches. For a heterogeneous group of master\u2019s students at a German university, we pre-built an agent-based model. In class, this was used to teach modeling impacts of land use policies and markets on ecosystem services. As part of the course, the students had to perform small research projects with the model in groups of two. This study aims to evaluate how well students could deal with the complexity involved in the model based on their group work outcomes. Chosen indicators were, e.g., the appropriateness of their research goals, the suitability of the methods applied, and how well they acknowledged the limitations. Our study results revealed that teaching complex systems does not need to be done with too simplistic models. Most students, even with little background in modeling and programming, were able to deal with the complex model setup, conduct small research projects, and have a thoughtful discussion on the limitations involved. With adequate theoretical input during lectures, we recommend using models that do not hide the complexity of the systems but foster a realistic simplification of the interactions.",
+        "language": "en",
+        "ISSN": "1059-0145, 1573-1839",
+        "date": "2023-01-16",
+        "DOI": "10.1007/s10956-022-10022-z",
+        "url": "https://link.springer.com/10.1007/s10956-022-10022-z",
+        "title": "Teaching the Modeling of Human\u2013Environment Systems: Acknowledging Complexity with an Agent-Based Model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:08Z",
+        "shortTitle": "Teaching the Modeling of Human\u2013Environment Systems"
+    },
+    {
+        "key": "C8EUZYMR",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Eric",
+                "lastName": "Bonabeau",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Proceedings of the National Academy of Sciences",
+        "journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+        "volume": "99",
+        "issue": "suppl_3",
+        "abstractNote": "Agent-based modeling is a powerful simulation modeling technique that has seen a number of applications in the last few years, including applications to real-world business problems. After the basic principles of agent-based simulation are briefly introduced, its four areas of application are discussed by using real-world applications: flow simulation, organizational simulation, market simulation, and diffusion simulation. For each category, one or several business applications are described and analyzed.",
+        "language": "en",
+        "ISSN": "0027-8424, 1091-6490",
+        "date": "2002-05-14",
+        "pages": "7280-7287",
+        "DOI": "10.1073/pnas.082080899",
+        "url": "https://pnas.org/doi/full/10.1073/pnas.082080899",
+        "title": "Agent-based modeling: Methods and techniques for simulating human systems",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:10Z",
+        "shortTitle": "Agent-based modeling"
+    },
+    {
+        "key": "V28NU4XE",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ivan",
+                "lastName": "Savin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Felix",
+                "lastName": "Creutzig",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tatiana",
+                "lastName": "Filatova",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jo\u00ebl",
+                "lastName": "Foramitti",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Th\u00e9o",
+                "lastName": "Konc",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Leila",
+                "lastName": "Niamir",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Karolina",
+                "lastName": "Safarzynska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jeroen",
+                "lastName": "van den Bergh",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "WIREs Climate Change",
+        "journalAbbreviation": "WIREs Climate Change",
+        "volume": "14",
+        "issue": "2",
+        "abstractNote": "Abstract\r\n            Ambitious climate mitigation policies face social and political resistance. One reason is that existing policies insufficiently capture the diversity of relevant insights from the social sciences about potential policy outcomes. We argue that agent\u2010based models can serve as a powerful tool for integration of elements from different disciplines. Having such a common platform will enable a more complete assessment of climate policies, in terms of criteria like effectiveness, equity and public support.\r\n            \r\n              This article is categorized under:\r\n              \r\n                \r\n                  Climate Models and Modeling > Knowledge Generation with Models\r\n                \r\n                \r\n                  The Carbon Economy and Climate Mitigation > Policies, Instruments, Lifestyles, Behavior\r\n                \r\n                \r\n                  Policy and Governance > Multilevel and Transnational Climate Change Governance",
+        "language": "en",
+        "ISSN": "1757-7780, 1757-7799",
+        "date": "03/2023",
+        "pages": "e811",
+        "DOI": "10.1002/wcc.811",
+        "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.811",
+        "title": "Agent\u2010based modeling to integrate elements from different disciplines for ambitious climate policy",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:12Z"
+    },
+    {
+        "key": "TX8GASSS",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Lee",
+                "lastName": "Hoffer",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Practicing Anthropology",
+        "volume": "35",
+        "issue": "1",
+        "abstractNote": "Like many applied anthropologists who have worked for 20 or so years in public health and drug addiction research, I have sat in more than my fair share of overly quantitative presentations on the \"behaviors\" of drug users that dominate conferences in the field. Like my peers in these circumstances, I am often frustrated not because the models, tables, graphs, figures, correlations, p-values, or odds ratios presented are difficult to understand or because I have an aversion to basic science, epidemiology, or survey research. Rather, it is because the numbers rarely reflect the histories, concepts, relationships, interactions, and other nuances that have shaped my fieldwork experience. The highly personal narratives of participants framed by equally complex social environments are not visible in the numbers. To epidemiologists and other like-minded health researchers, the numbers are the narrative and all that is required for informing and evaluating theories, models, interventions, treatment programs, or policy.",
+        "language": "en",
+        "ISSN": "0888-4552",
+        "date": "2013-01-01",
+        "pages": "19-23",
+        "DOI": "10.17730/praa.35.1.2hn672m0158u5152",
+        "url": "https://meridian.allenpress.com/practicing-anthropology/article/35/1/19/106274/Unreal-Models-of-Real-Behavior-The-Agent-Based",
+        "title": "Unreal Models of Real Behavior: The Agent-Based Modeling Experience",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:17Z",
+        "shortTitle": "Unreal Models of Real Behavior"
+    },
+    {
+        "key": "QQA2T53T",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Julija",
+                "lastName": "Vasiljevska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jochem",
+                "lastName": "Douw",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Anna",
+                "lastName": "Mengolini",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Igor",
+                "lastName": "Nikolic",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "An Agent-Based Model of Electricity Consumer: Smart Metering Policy Implications in Europe",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2017",
+        "volume": "20",
+        "issue": "1",
+        "pages": "12",
+        "shortTitle": "An Agent-Based Model of Electricity Consumer"
+    },
+    {
+        "key": "DASCQARB",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Daniel S.",
+                "lastName": "Lebherz",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Fabian",
+                "lastName": "Lorig",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ingo J.",
+                "lastName": "Timm",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "2018 Winter Simulation Conference (WSC)",
+        "place": "Gothenburg, Sweden",
+        "conferenceName": "2018 Winter Simulation Conference (WSC)",
+        "ISBN": "9781538665725",
+        "publisher": "IEEE",
+        "date": "12/2018",
+        "pages": "1025-1036",
+        "DOI": "10.1109/WSC.2018.8632293",
+        "url": "https://ieeexplore.ieee.org/document/8632293/",
+        "title": "AGENT-BASED MODELING AND SIMULATION OF INDIVIDUAL ELDERLY CARE DECISION-MAKING",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:23Z"
+    },
+    {
+        "key": "NGMMBQ2I",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Arika",
+                "lastName": "Ligmann-Zielinska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Daniel B.",
+                "lastName": "Kramer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kendra",
+                "lastName": "Spence Cheruvelil",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Patricia A.",
+                "lastName": "Soranno",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frederic",
+                "lastName": "Amblard",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLoS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "9",
+        "issue": "10",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2014-10-23",
+        "pages": "e109779",
+        "DOI": "10.1371/journal.pone.0109779",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0109779",
+        "title": "Using Uncertainty and Sensitivity Analyses in Socioecological Agent-Based Models to Improve Their Analytical Performance and Policy Relevance",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:26Z"
+    },
+    {
+        "key": "5M236CQ7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Antonino",
+                "lastName": "Marvuglia",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alper",
+                "lastName": "Bayram",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "Baustert",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tom\u00e1s Navarrete",
+                "lastName": "Guti\u00e9rrez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elorri",
+                "lastName": "Igos",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Cleaner Production",
+        "journalAbbreviation": "Journal of Cleaner Production",
+        "volume": "332",
+        "language": "en",
+        "ISSN": "09596526",
+        "date": "01/2022",
+        "pages": "129847",
+        "DOI": "10.1016/j.jclepro.2021.129847",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0959652621040208",
+        "title": "Agent-based modelling to simulate farmers\u2019 sustainable decisions: Farmers\u2019 interaction and resulting green consciousness evolution",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:28Z",
+        "shortTitle": "Agent-based modelling to simulate farmers\u2019 sustainable decisions"
+    },
+    {
+        "key": "PAFIDF38",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Xin",
+                "lastName": "Liang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tingting",
+                "lastName": "Lu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gulinigaer",
+                "lastName": "Yishake",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Urban Forestry & Urban Greening",
+        "journalAbbreviation": "Urban Forestry & Urban Greening",
+        "volume": "67",
+        "language": "en",
+        "ISSN": "16188667",
+        "date": "01/2022",
+        "pages": "127435",
+        "DOI": "10.1016/j.ufug.2021.127435",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1618866721004623",
+        "title": "How to promote residents\u2019 use of green space: An empirically grounded agent-based modeling approach",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:31Z",
+        "shortTitle": "How to promote residents\u2019 use of green space"
+    },
+    {
+        "key": "JQTBQ6GE",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Y.",
+                "lastName": "Meng",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "R.",
+                "lastName": "Davies",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "K.",
+                "lastName": "Hardy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "P.",
+                "lastName": "Hawkey",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Simon J. E.",
+                "lastName": "Taylor",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Infect Control Hosp",
+                "type": 1
+            },
+            {
+                "tag": "Isolation Room",
+                "type": 1
+            },
+            {
+                "tag": "Hosp Infect",
+                "type": 1
+            },
+            {
+                "tag": "Behaviour Rule",
+                "type": 1
+            },
+            {
+                "tag": "Mass Action Equation",
+                "type": 1
+            }
+        ],
+        "date": "2014",
+        "title": "An application of agent-based simulation to the management of hospital-acquired infection",
+        "pages": "45-60",
+        "publisher": "Palgrave Macmillan UK",
+        "abstractNote": "Hospital patients who are colonized with methicillin-resistant Staphylococcus aureus (MRSA), may transmit the bacteria to other patients. An agent-based simulation is designed to determine how the problem might be managed and the risk of transmission reduced. Most MRSA modeling studies have applied mathematical compartmental models or Monte Carlo simulations. In the agent-based model, each patient is identified on admission as being colonized or not, has a projected length of stay and may be more or less susceptible to colonization. Patient states represent colonization, detection, treatment, and location within the ward. MRSA transmission takes place between pairs of individuals in successive time slices. Various interventions designed to reduce MRSA transmission are embedded in the model including: admission and repeat screening tests, shorter test turnaround time, isolation, and decolonization treatment. These interventions can be systematically evaluated by model experimentation.",
+        "ISBN": "9781137453648",
+        "url": "https://doi.org/10.1057/9781137453648_4",
+        "extra": "DOI: 10.1057/9781137453648_4",
+        "bookTitle": "Agent-Based Modeling and Simulation",
+        "place": "London",
+        "language": "en",
+        "series": "The OR Essentials series",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-09-20T17:13:34Z"
+    },
+    {
+        "key": "DLLQSCQI",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Matthew",
+                "lastName": "Oremland",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Reinhard",
+                "lastName": "Laubenbacher",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Optimization of Agent-Based Models: Scaling Methods and Heuristic Algorithms",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2014",
+        "volume": "17",
+        "issue": "2",
+        "pages": "6",
+        "shortTitle": "Optimization of Agent-Based Models"
+    },
+    {
+        "key": "XIVIIVQH",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Hilla",
+                "lastName": "De-Leon",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dvir",
+                "lastName": "Aran",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Biomedical Informatics",
+        "journalAbbreviation": "Journal of Biomedical Informatics",
+        "volume": "141",
+        "language": "en",
+        "ISSN": "15320464",
+        "date": "05/2023",
+        "pages": "104364",
+        "DOI": "10.1016/j.jbi.2023.104364",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1532046423000850",
+        "title": "MAM: Flexible Monte-Carlo Agent based model for modelling COVID-19 spread",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:37Z",
+        "shortTitle": "MAM"
+    },
+    {
+        "key": "IZN43UDJ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jun",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David A.",
+                "lastName": "Shoham",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Eric",
+                "lastName": "Tesdahl",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sabina B.",
+                "lastName": "Gesell",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "American Journal of Public Health",
+        "journalAbbreviation": "Am J Public Health",
+        "volume": "105",
+        "issue": "S2",
+        "abstractNote": "Objectives. We studied simulated interventions that leveraged social networks to increase physical activity in children.\r\n            Methods. We studied a real-world social network of 81 children (average age\u2009=\u20097.96 years) who lived in low socioeconomic status neighborhoods, and attended public schools and 1 of 2 structured afterschool programs. The sample was ethnically diverse, and 44% were overweight or obese. We used social network analysis and agent-based modeling simulations to test whether implementing a network intervention would increase children\u2019s physical activity. We tested 3 intervention strategies.\r\n            Results. The intervention that targeted opinion leaders was effective in increasing the average level of physical activity across the entire network. However, the intervention that targeted the most sedentary children was the best at increasing their physical activity levels.\r\n            Conclusions. Which network intervention to implement depends on whether the goal is to shift the entire distribution of physical activity or to influence those most adversely affected by low physical activity. Agent-based modeling could be an important complement to traditional project planning tools, analogous to sample size and power analyses, to help researchers design more effective interventions for increasing children\u2019s physical activity.",
+        "language": "en",
+        "ISSN": "0090-0036, 1541-0048",
+        "date": "04/2015",
+        "pages": "S236-S243",
+        "DOI": "10.2105/AJPH.2014.302277",
+        "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2014.302277",
+        "title": "Network Interventions on Physical Activity in an Afterschool Program: An Agent-Based Social Network Study",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:39Z",
+        "shortTitle": "Network Interventions on Physical Activity in an Afterschool Program"
+    },
+    {
+        "key": "Q3AD78IG",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Moira",
+                "lastName": "Zellner",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Cristy",
+                "lastName": "Watkins",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dean",
+                "lastName": "Massey",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lynne",
+                "lastName": "Westphal",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jeremy",
+                "lastName": "Brooks",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Ross",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Advancing Collective Decision-Making Theory with Integrated Agent-Based Modeling and Ethnographic Data Analysis: An Example in Ecological Restoration",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2014",
+        "volume": "17",
+        "issue": "4",
+        "pages": "11",
+        "shortTitle": "Advancing Collective Decision-Making Theory with Integrated Agent-Based Modeling and Ethnographic Data Analysis"
+    },
+    {
+        "key": "IMZQY4RB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Umberto",
+                "lastName": "Gostoli",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Eric",
+                "lastName": "Silverman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hannah E",
+                "lastName": "Carter",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "15",
+        "issue": "12",
+        "abstractNote": "Providing for the needs of the vulnerable is a critical component of social and health policy-making. In particular, caring for children and for vulnerable older people is vital to the wellbeing of millions of families throughout the world. In most developed countries, this care is provided through both formal and informal means, and is therefore governed by complex policies that interact in non-obvious ways with other areas of policy-making. In this paper we present an agent-based model of social and child care provision in the UK, in which agents can provide informal care or pay for private care for their relatives. Agents make care decisions based on numerous factors including their health status, employment, financial situation, and social and physical distance to those in need. Simulation results show that the model can produce plausible patterns of care need and availability, and therefore can provide an important aid to this complex area of policy-making. We conclude that the model\u2019s use of kinship networks for distributing care and the explicit modelling of interactions between social care and child care will enable policy-makers to develop more informed policy interventions in these critical areas.\r\n            \r\n              \u201cThe moral test of government is how it treats those who are in the dawn of life\r\n              ,\r\n              the children\r\n              ;\r\n              those who are in the twilight of life\r\n              ,\r\n              the aged\r\n              ;\r\n              and those in the shadows of life, the sick\r\n              ,\r\n              the needy and the handicapped\r\n              .\r\n              \u201d\r\n            \r\n            \r\n              \u2014 Hubert Humphrey Jr\r\n              .",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2020-12-2",
+        "pages": "e0242779",
+        "DOI": "10.1371/journal.pone.0242779",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0242779",
+        "title": "Social and child care provision in kinship networks: An agent-based model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:43Z",
+        "shortTitle": "Social and child care provision in kinship networks"
+    },
+    {
+        "key": "SFZNQFBI",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Yu",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "K. Louis",
+                "lastName": "Luangkesorn",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Shuman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Socio-Economic Planning Sciences",
+        "journalAbbreviation": "Socio-Economic Planning Sciences",
+        "volume": "46",
+        "issue": "4",
+        "language": "en",
+        "ISSN": "00380121",
+        "date": "12/2012",
+        "pages": "281-290",
+        "DOI": "10.1016/j.seps.2012.07.002",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0038012112000341",
+        "title": "Modeling emergency medical response to a mass casualty incident using agent based simulation",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:46Z"
+    },
+    {
+        "key": "7EP6GX77",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Natalia N.",
+                "lastName": "Lychkina",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yulia A.",
+                "lastName": "Morozova",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "2015 SAI Intelligent Systems Conference (IntelliSys)",
+        "place": "London, United Kingdom",
+        "conferenceName": "2015 SAI Intelligent Systems Conference (IntelliSys)",
+        "ISBN": "9781467376068",
+        "publisher": "IEEE",
+        "date": "11/2015",
+        "pages": "857-862",
+        "DOI": "10.1109/IntelliSys.2015.7361243",
+        "url": "http://ieeexplore.ieee.org/document/7361243/",
+        "title": "Agent based modeling of pension system development processes",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:49Z"
+    },
+    {
+        "key": "T5T3F4K2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Umberto",
+                "lastName": "Gostoli",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Eric",
+                "lastName": "Silverman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hannah E",
+                "lastName": "Carter",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLoS ONE",
+        "volume": "15",
+        "issue": "12",
+        "abstractNote": "Providing for the needs of the vulnerable is a critical component of social and health policy-making. In particular, caring for children and for vulnerable older people is vital to the wellbeing of millions of families throughout the world. In most developed countries, this care is provided through both formal and informal means, and is therefore governed by complex policies that interact in non-obvious ways with other areas of policy-making. In this paper we present an agent-based model of social and child care provision in the UK, in which agents can provide informal care or pay for private care for their relatives. Agents make care decisions based on numerous factors including their health status, employment, financial situation, and social and physical distance to those in need. Simulation results show that the model can produce plausible patterns of care need and availability, and therefore can provide an important aid to this complex area of policy-making. We conclude that the model\u2019s use of kinship networks for distributing care and the explicit modelling of interactions between social care and child care will enable policy-makers to develop more informed policy interventions in these critical areas.\r\n            \r\n              \u201cThe moral test of government is how it treats those who are in the dawn of life\r\n              ,\r\n              the children\r\n              ;\r\n              those who are in the twilight of life\r\n              ,\r\n              the aged\r\n              ;\r\n              and those in the shadows of life, the sick\r\n              ,\r\n              the needy and the handicapped\r\n              .\r\n              \u201d\r\n            \r\n            \r\n              \u2014 Hubert Humphrey Jr\r\n              .",
+        "language": "en",
+        "ISSN": "1932-6203",
+        "date": "2020-12-2",
+        "pages": "e0242779",
+        "DOI": "10.1371/journal.pone.0242779",
+        "url": "https://dx.plos.org/10.1371/journal.pone.0242779",
+        "title": "Social and child care provision in kinship networks: An agent-based model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:50Z",
+        "shortTitle": "Social and child care provision in kinship networks"
+    },
+    {
+        "key": "9ZG8KDQ6",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Anja",
+                "lastName": "Soboll",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juergen",
+                "lastName": "Schmude",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of the Association of American Geographers",
+        "journalAbbreviation": "Annals of the Association of American Geographers",
+        "volume": "101",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "0004-5608, 1467-8306",
+        "date": "09/2011",
+        "pages": "1049-1066",
+        "DOI": "10.1080/00045608.2011.561126",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/00045608.2011.561126",
+        "title": "Simulating Tourism Water Consumption Under Climate Change Conditions Using Agent-Based Modeling: The Example of Ski Areas",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:52Z",
+        "shortTitle": "Simulating Tourism Water Consumption Under Climate Change Conditions Using Agent-Based Modeling"
+    },
+    {
+        "key": "WG89F7ZC",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Oliver",
+                "lastName": "Reinhardt",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jason",
+                "lastName": "Hilton",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tom",
+                "lastName": "Warnke",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jakub",
+                "lastName": "Bijak",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Adelinde M.",
+                "lastName": "Uhrmacher",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Streamlining Simulation Experiments with Agent-Based Models in Demography",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2018",
+        "volume": "21",
+        "issue": "3",
+        "pages": "9"
+    },
+    {
+        "key": "CDXNKAUQ",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S0378437119304583",
+        "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "accessDate": "2023-09-20T17:13:55Z"
+    },
+    {
+        "key": "XCWRBBUP",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S2210670718308126",
+        "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "accessDate": "2023-09-20T17:13:55Z"
+    },
+    {
+        "key": "FDVYGWJZ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Donglan",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Philippe J.",
+                "lastName": "Giabbanelli",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Onyebuchi A.",
+                "lastName": "Arah",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frederick J.",
+                "lastName": "Zimmerman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "American Journal of Public Health",
+        "journalAbbreviation": "Am J Public Health",
+        "volume": "104",
+        "issue": "7",
+        "abstractNote": "Objectives. Unhealthy eating is a complex-system problem. We used agent-based modeling to examine the effects of different policies on unhealthy eating behaviors.\r\n            Methods. We developed an agent-based simulation model to represent a synthetic population of adults in Pasadena, CA, and how they make dietary decisions. Data from the 2007 Food Attitudes and Behaviors Survey and other empirical studies were used to calibrate the parameters of the model. Simulations were performed to contrast the potential effects of various policies on the evolution of dietary decisions.\r\n            Results. Our model showed that a 20% increase in taxes on fast foods would lower the probability of fast-food consumption by 3 percentage points, whereas improving the visibility of positive social norms by 10%, either through community-based or mass-media campaigns, could improve the consumption of fruits and vegetables by 7 percentage points and lower fast-food consumption by 6 percentage points. Zoning policies had no significant impact.\r\n            Conclusions. Interventions emphasizing healthy eating norms may be more effective than directly targeting food prices or regulating local food outlets. Agent-based modeling may be a useful tool for testing the population-level effects of various policies within complex systems.",
+        "language": "en",
+        "ISSN": "0090-0036, 1541-0048",
+        "date": "07/2014",
+        "pages": "1217-1222",
+        "DOI": "10.2105/AJPH.2014.301934",
+        "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2014.301934",
+        "title": "Impact of Different Policies on Unhealthy Dietary Behaviors in an Urban Adult Population: An Agent-Based Simulation Model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:13:57Z",
+        "shortTitle": "Impact of Different Policies on Unhealthy Dietary Behaviors in an Urban Adult Population"
+    },
+    {
+        "key": "ZY6UDKR3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jeetika",
+                "lastName": "Malik",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ardeshir",
+                "lastName": "Mahdavi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elie",
+                "lastName": "Azar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Handi",
+                "lastName": "Chandra Putra",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christiane",
+                "lastName": "Berger",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Clinton",
+                "lastName": "Andrews",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tianzhen",
+                "lastName": "Hong",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Building and Environment",
+        "journalAbbreviation": "Building and Environment",
+        "volume": "217",
+        "language": "en",
+        "ISSN": "03601323",
+        "date": "06/2022",
+        "pages": "109016",
+        "DOI": "10.1016/j.buildenv.2022.109016",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S036013232200258X",
+        "title": "Ten questions concerning agent-based modeling of occupant behavior for energy and environmental performance of buildings",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:01Z"
+    },
+    {
+        "key": "G3S75IAV",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Julien",
+                "lastName": "Walzberg",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Dandres",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rejean",
+                "lastName": "Samson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nicolas",
+                "lastName": "Merveille",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mohamed",
+                "lastName": "Cheriet",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)",
+        "place": "Montreal, QC",
+        "conferenceName": "2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)",
+        "ISBN": "9781538635292 9781538635315",
+        "publisher": "IEEE",
+        "date": "10/2017",
+        "pages": "1-7",
+        "DOI": "10.1109/PIMRC.2017.8292682",
+        "url": "http://ieeexplore.ieee.org/document/8292682/",
+        "title": "An agent-based model to evaluate smart homes sustainability potential",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:04Z"
+    },
+    {
+        "key": "52M65PMY",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Brudermann",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yoshiki",
+                "lastName": "Yamagata",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Electricity",
+                "type": 1
+            },
+            {
+                "tag": "Resilience",
+                "type": 1
+            },
+            {
+                "tag": "Biological system modeling",
+                "type": 1
+            },
+            {
+                "tag": "Decision making",
+                "type": 1
+            },
+            {
+                "tag": "Cities and towns",
+                "type": 1
+            },
+            {
+                "tag": "Economics",
+                "type": 1
+            },
+            {
+                "tag": "Psychology",
+                "type": 1
+            },
+            {
+                "tag": "Behavioral science",
+                "type": 1
+            },
+            {
+                "tag": "Cybernetics Part A",
+                "type": 1
+            },
+            {
+                "tag": "Systems and Humans",
+                "type": 1
+            },
+            {
+                "tag": "Decision theory",
+                "type": 1
+            },
+            {
+                "tag": "Nonlinear systems",
+                "type": 1
+            },
+            {
+                "tag": "Resilience",
+                "type": 1
+            }
+        ],
+        "proceedingsTitle": "2014 International Conference and Utility Exhibition on Green Energy for Sustainable Development (ICUE)",
+        "title": "Towards an agent-based model of urban electricity sharing",
+        "pages": "1-5",
+        "abstractNote": "Research on urban resilience is increasingly receiving attention by both policy makers and researchers. In the on-going debate, the focus is usually placed on economic and infrastructural aspects. Human factors, such as collective behavior change in the face of environmental threats or in the aftermath of extreme events, have up to present not been investigated extensively. In this research, we aim to include human factors and investigate behavioral reactions to a large-scale electricity black-out via means of social simulation. Our overall research question is: Can an electricity sharing system replace the electricity market, when supply is scarce and no market mechanisms exist anymore? To investigate possible scenarios of behavioral reactions we aim to develop an agent-based simulation model, and aim to hint to crucial implementation aspects for electricity sharing systems for emergency cases.",
+        "date": "2014-03",
+        "conferenceName": "2014 International Conference and Utility Exhibition on Green Energy for Sustainable Development (ICUE)",
+        "libraryCatalog": "IEEE Xplore"
+    },
+    {
+        "key": "DAZ9ISGV",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Mahsa",
+                "lastName": "Noori",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alireza",
+                "lastName": "Emadi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ramin",
+                "lastName": "Fazloula",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Water Supply",
+        "volume": "21",
+        "issue": "7",
+        "abstractNote": "Abstract\r\n            Despite the advancement of technical tools for the analysis of complex systems, the most important issue in solving water resource problems focuses on the interaction of human and natural systems. Agent-Based Model (ABM) has been used as an effective tool for the development of integrated human and environmental models. One of the main challenges of this method is identifying and describing the main agents. In this study, three main approaches including Genetic Algorithm (GA), cooperative game theory and ABM have been used to optimize water allocation in Tajan catchment. The proposed ABM is a new equation for calculating stakeholder utility and simulating their interactions that can create a hydrological-environmental-human relationship for demand management and optimal water allocation. The results showed that the total benefit of cooperative game theory and ABM relative to GA has been increased 24% and 21% respectively. Although the total benefit in game theory is greater than the ABM, but the ABM considering the agents feedback propose a more comprehensive approach to optimal water allocation.",
+        "language": "en",
+        "ISSN": "1606-9749, 1607-0798",
+        "date": "2021-11-01",
+        "pages": "3584-3601",
+        "DOI": "10.2166/ws.2021.124",
+        "url": "https://iwaponline.com/ws/article/21/7/3584/81817/An-agent-based-model-for-water-allocation",
+        "title": "An agent-based model for water allocation optimization and comparison with the game theory approach",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:10Z"
+    },
+    {
+        "key": "IYUAGB2G",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "JoAnn",
+                "lastName": "Lee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Crooks",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Youth and Their Artificial Social Environmental Risk and Promotive Scores (Ya-TASERPS): An Agent-Based Model of Interactional Theory of Delinquency",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2021",
+        "volume": "24",
+        "issue": "4",
+        "pages": "2",
+        "shortTitle": "Youth and Their Artificial Social Environmental Risk and Promotive Scores (Ya-TASERPS)"
+    },
+    {
+        "key": "6EX4YASB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Paul P.",
+                "lastName": "Maglio",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Patricia L.",
+                "lastName": "Mabry",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "American Journal of Preventive Medicine",
+        "journalAbbreviation": "American Journal of Preventive Medicine",
+        "volume": "40",
+        "issue": "3",
+        "language": "en",
+        "ISSN": "07493797",
+        "date": "3/2011",
+        "pages": "392-394",
+        "DOI": "10.1016/j.amepre.2010.11.010",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0749379710007075",
+        "title": "Agent-Based Models and Systems Science Approaches to Public Health",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:14Z"
+    },
+    {
+        "key": "LJRNS8PL",
+        "version": 0,
+        "itemType": "report",
+        "creators": [
+            {
+                "firstName": "Luca",
+                "lastName": "Arciero",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Claudia",
+                "lastName": "Biancotti",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Leandro",
+                "lastName": "D'Aurizio",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Claudio",
+                "lastName": "Impenna",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "payment systems",
+                "type": 1
+            },
+            {
+                "tag": "RTGS",
+                "type": 1
+            },
+            {
+                "tag": "liquidity",
+                "type": 1
+            },
+            {
+                "tag": "crisis simulation",
+                "type": 1
+            }
+        ],
+        "title": "Exploring Agent-Based Methods for the Analysis of Payment Systems: A Crisis Model for StarLogo TNG",
+        "date": "2008-09-08",
+        "url": "https://papers.ssrn.com/abstract=1290520",
+        "abstractNote": "This paper presents an exploratory agent-based model of a real time gross settlement (RTGS) payment system. Banks are represented as agents who exchange payment requests, which are settled according to a set of simple rules. The model features the main elements of a real-life system, including a central bank acting as liquidity provider, and a simplified money market. A simulation exercise using synthetic data of BI-REL (the Italian RTGS) predicts the macroscopic impact of a disruptive event on the flow of interbank payments. The main advantage of agent-based modeling is that we can dynamically see what happens to the major variables involved. In our reduced-scale system, three hypothetical distinct phases emerge after the disruptive event: 1) a liquidity sink effect is generated and the participants' liquidity expectations turn out to be excessive; 2) an illusory thickening of the money market follows, along with increased payment delays; and, finally 3) defaulted obligations dramatically rise. The banks cannot staunch the losses accruing on defaults, even after they become fully aware of the critical event, and a scenario emerges in which it might be necessary for the central bank to step in as liquidity provider. The methodology presented differs from traditional payment systems simulations featuring deterministic streams of payments dealt with in a centralized manner with static behavior on the part of banks. The paper is within a recent stream of empirical research that attempts to model RTGS with agent-based techniques.",
+        "language": "en",
+        "libraryCatalog": "papers.ssrn.com",
+        "accessDate": "2023-09-20T17:14:17Z",
+        "reportType": "SSRN Scholarly Paper",
+        "institution": "Social Science Research Network",
+        "reportNumber": "1290520",
+        "place": "Rochester, NY",
+        "shortTitle": "Exploring Agent-Based Methods for the Analysis of Payment Systems"
+    },
+    {
+        "key": "5SBJBAWD",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Emily M.",
+                "lastName": "Zechman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "World Environmental and Water Resources Congress 2007",
+        "place": "Tampa, Florida, United States",
+        "conferenceName": "World Environmental and Water Resources Congress 2007",
+        "language": "en",
+        "ISBN": "9780784409275",
+        "publisher": "American Society of Civil Engineers",
+        "date": "2007-05-11",
+        "pages": "1-8",
+        "DOI": "10.1061/40927(243)525",
+        "url": "http://ascelibrary.org/doi/10.1061/40927%28243%29525",
+        "title": "Agent-Based Modeling to Simulate Contamination Events and to Analyze Threat Management Strategies in Water Distribution Systems",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:21Z"
+    },
+    {
+        "key": "U97TCZ7R",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ricardo",
+                "lastName": "Garc\u00eda-Mira",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Adina",
+                "lastName": "Dumitru",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Amparo",
+                "lastName": "Alonso-Betanzos",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Noelia",
+                "lastName": "S\u00e1nchez-Maro\u00f1o",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "\u00d3scar",
+                "lastName": "Fontenla-Romero",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tony",
+                "lastName": "Craig",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "J. Gary",
+                "lastName": "Polhill",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Environment and Behavior",
+        "journalAbbreviation": "Environment and Behavior",
+        "volume": "49",
+        "issue": "9",
+        "abstractNote": "Pro-environmental behaviors have been analyzed in the home, with little attention to other important contexts of everyday life, such as the workplace. The research reported here explored three categories of pro-environmental behavior (consumption of materials and energy, waste generation, and work-related commuting) in a public large-scale organization in Spain, with the aim of identifying the most effective policy options for a sustainable organization. Agent-based modeling was used to design a virtual simulation of the organization. Psychologically informed profiles of employees were defined using data gathered through a questionnaire, measuring knowledge, motivations, and ability. Future scenarios were developed using a participatory backcasting scenario development methodology, and policy tracks were derived. Dynamic simulations indicated that, to be effective, organizational policy should strengthen worker participation and autonomy, be sustained over time, and should combine different measures of medium intensity for behavior change, instead of isolated policies of high intensity.",
+        "language": "en",
+        "ISSN": "0013-9165, 1552-390X",
+        "date": "11/2017",
+        "pages": "1007-1037",
+        "DOI": "10.1177/0013916516673869",
+        "url": "http://journals.sagepub.com/doi/10.1177/0013916516673869",
+        "title": "Testing Scenarios to Achieve Workplace Sustainability Goals Using Backcasting and Agent-Based Modeling",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:23Z"
+    },
+    {
+        "key": "XS8YCSY2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Agnieszka",
+                "lastName": "Truszkowska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brandon",
+                "lastName": "Behring",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jalil",
+                "lastName": "Hasanyan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lorenzo",
+                "lastName": "Zino",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sachit",
+                "lastName": "Butail",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emanuele",
+                "lastName": "Caroppo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zhong\u2010Ping",
+                "lastName": "Jiang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alessandro",
+                "lastName": "Rizzo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Maurizio",
+                "lastName": "Porfiri",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Advanced Theory and Simulations",
+        "journalAbbreviation": "Advcd Theory and Sims",
+        "volume": "4",
+        "issue": "3",
+        "abstractNote": "Abstract\r\n            Amid the ongoing COVID\u201019 pandemic, public health authorities and the general population are striving to achieve a balance between safety and normalcy. Ever changing conditions call for the development of theory and simulation tools to finely describe multiple strata of society while supporting the evaluation of \u201cwhat\u2010if\u201d scenarios. Particularly important is to assess the effectiveness of potential testing approaches and vaccination strategies. Here, an agent\u2010based modeling platform is proposed to simulate the spreading of COVID\u201019 in small towns and cities, with a single\u2010individual resolution. The platform is validated on real data from New Rochelle, NY\u2014one of the first outbreaks registered in the United States. Supported by expert knowledge and informed by reported data, the model incorporates detailed elements of the spreading within a statistically realistic population. Along with pertinent functionality such as testing, treatment, and vaccination options, the model accounts for the burden of other illnesses with symptoms similar to COVID\u201019. Unique to the model is the possibility to explore different testing approaches\u2014in hospitals or drive\u2010through facilities\u2014and vaccination strategies that could prioritize vulnerable groups. Decision\u2010making by public authorities could benefit from the model, for its fine\u2010grain resolution, open\u2010source nature, and wide range of\u00a0features.",
+        "language": "en",
+        "ISSN": "2513-0390, 2513-0390",
+        "date": "03/2021",
+        "pages": "2000277",
+        "DOI": "10.1002/adts.202000277",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/adts.202000277",
+        "title": "High\u2010Resolution Agent\u2010Based Modeling of COVID\u201019 Spreading in a Small Town",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:25Z"
+    },
+    {
+        "key": "INQ99E9T",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Itzhak",
+                "lastName": "Benenson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "International Journal of Geographical Information Science",
+        "journalAbbreviation": "International Journal of Geographical Information Science",
+        "volume": "27",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "1365-8816, 1362-3087",
+        "date": "05/2013",
+        "pages": "1047-1053",
+        "DOI": "10.1080/13658816.2013.763946",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/13658816.2013.763946",
+        "title": "<b>Agent-based models of geographical systems</b> , edited by Alison J. Heppenstall, Andrew T. Crooks, Linda M. See and Michael Batty, Dordrecht/Heidelberg/London/New York, Springer, 2012, \u00a3179.99, 759 pp., (hardcover), ISBN 978-90-481-8926-7",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:27Z"
+    },
+    {
+        "key": "2VCCSYWA",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Prajna",
+                "lastName": "Kasargodu Anebagilu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "Dietrich",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lisette",
+                "lastName": "Prado-Stuardo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Bruno",
+                "lastName": "Morales",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Etti",
+                "lastName": "Winter",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jose Luis",
+                "lastName": "Arumi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Environmental Management",
+        "journalAbbreviation": "Journal of Environmental Management",
+        "volume": "284",
+        "language": "en",
+        "ISSN": "03014797",
+        "date": "04/2021",
+        "pages": "112014",
+        "DOI": "10.1016/j.jenvman.2021.112014",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0301479721000761",
+        "title": "Application of the theory of planned behavior with agent-based modeling for sustainable management of vegetative filter strips",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:31Z"
+    },
+    {
+        "key": "8RQ39NB2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Le-Minh",
+                "lastName": "Kieu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nicolas",
+                "lastName": "Malleson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison",
+                "lastName": "Heppenstall",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Royal Society Open Science",
+        "journalAbbreviation": "R. Soc. open sci.",
+        "volume": "7",
+        "issue": "1",
+        "abstractNote": "Agent-based models (ABMs) are gaining traction as one of the most powerful modelling tools within the social sciences. They are particularly suited to simulating complex systems. Despite many methodological advances within ABM, one of the major drawbacks is their inability to incorporate real-time data to make accurate short-term predictions. This paper presents an approach that allows ABMs to be dynamically optimized. Through a combination of parameter calibration and data assimilation (DA), the accuracy of model-based predictions using ABM in real time is increased. We use the exemplar of a bus route system to explore these methods. The bus route ABMs developed in this research are examples of ABMs that can be dynamically optimized by a combination of parameter calibration and DA. The proposed model and framework is a novel and transferable approach that can be used in any passenger information system, or in an intelligent transport systems to provide forecasts of bus locations and arrival times.",
+        "language": "en",
+        "ISSN": "2054-5703",
+        "date": "01/2020",
+        "pages": "191074",
+        "DOI": "10.1098/rsos.191074",
+        "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.191074",
+        "title": "Dealing with uncertainty in agent-based models for short-term predictions",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:33Z"
+    },
+    {
+        "key": "P9V6U7VW",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Michael",
+                "lastName": "Batty",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Linda M.",
+                "lastName": "See",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison J.",
+                "lastName": "Heppenstall",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison J.",
+                "lastName": "Heppenstall",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Linda M.",
+                "lastName": "See",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Batty",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Cellular Automaton",
+                "type": 1
+            },
+            {
+                "tag": "Micro Model",
+                "type": 1
+            },
+            {
+                "tag": "Cellular Automaton Model",
+                "type": 1
+            },
+            {
+                "tag": "Microsimulation Model",
+                "type": 1
+            },
+            {
+                "tag": "Geographical Theory",
+                "type": 1
+            }
+        ],
+        "date": "2012",
+        "title": "Perspectives on Agent-Based Models and Geographical Systems",
+        "pages": "1-15",
+        "publisher": "Springer Netherlands",
+        "abstractNote": "This chapter guides the reader to the material in this book. It begins by outlining the meaning and rationale for agent-based models/modelling (ABM), focusing on their history, how they evolved and how they sit within the broader context of modelling and simulation for geographical systems. Three themes which we see essential to ABM are then outlined, namely the question of detail versus model and data parsimony of which ABM represents the former, questions of model validation that flow from this, and lastly issues about the extent to which ABM is a generic or specific style in terms of applications. We examine the essence of such models in terms of the way behaviour is modelled using various rules, and then we discuss technical issues such as computation, visualization, error, and schemes for model design. All this sets the context for the various chapters that follow. We conclude by explaining briefly what is contained in each chapter and by guiding the reader in how best to use this book.",
+        "ISBN": "9789048189274",
+        "url": "https://doi.org/10.1007/978-90-481-8927-4_1",
+        "extra": "DOI: 10.1007/978-90-481-8927-4_1",
+        "bookTitle": "Agent-Based Models of Geographical Systems",
+        "place": "Dordrecht",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-09-20T17:14:36Z"
+    },
+    {
+        "key": "4U5NS2Z4",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Emily Zechman",
+                "lastName": "Berglund",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Water Resources Planning and Management",
+        "journalAbbreviation": "J. Water Resour. Plann. Manage.",
+        "volume": "141",
+        "issue": "11",
+        "language": "en",
+        "ISSN": "0733-9496, 1943-5452",
+        "date": "11/2015",
+        "pages": "04015025",
+        "DOI": "10.1061/(ASCE)WR.1943-5452.0000544",
+        "url": "https://ascelibrary.org/doi/10.1061/%28ASCE%29WR.1943-5452.0000544",
+        "title": "Using Agent-Based Modeling for Water Resources Planning and Management",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:39Z"
+    },
+    {
+        "key": "4F5UUDSQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "J.",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "L.",
+                "lastName": "Tong",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "P.J.",
+                "lastName": "Lamberson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "R.A.",
+                "lastName": "Durazo-Arvizu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "A.",
+                "lastName": "Luke",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "D.A.",
+                "lastName": "Shoham",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Social Science & Medicine",
+        "journalAbbreviation": "Social Science & Medicine",
+        "volume": "125",
+        "language": "en",
+        "ISSN": "02779536",
+        "date": "01/2015",
+        "pages": "203-213",
+        "DOI": "10.1016/j.socscimed.2014.05.049",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0277953614003438",
+        "title": "Leveraging social influence to address overweight and obesity using agent-based models: The role of adolescent social networks",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:43Z",
+        "shortTitle": "Leveraging social influence to address overweight and obesity using agent-based models"
+    },
+    {
+        "key": "HATEBWGV",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Dimitris",
+                "lastName": "Ballas",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tom",
+                "lastName": "Broomhead",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Phil Mike",
+                "lastName": "Jones",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Helen",
+                "lastName": "Briassoulis",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Dimitris",
+                "lastName": "Kavroudakis",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Nikolaos",
+                "lastName": "Soulakellis",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based models",
+                "type": 1
+            },
+            {
+                "tag": "Spatial microsimulation",
+                "type": 1
+            },
+            {
+                "tag": "Simulation",
+                "type": 1
+            },
+            {
+                "tag": "Spatial analysis",
+                "type": 1
+            },
+            {
+                "tag": "Computational geography",
+                "type": 1
+            }
+        ],
+        "date": "2019",
+        "title": "Spatial Microsimulation and Agent-Based Modelling",
+        "pages": "69-84",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "This chapter critically reviews the state-of-the-art in spatial microsimulation and agent-based modelling approaches with an emphasis on efforts to combine them in order to address applied geography problems. Spatial microsimulation typically involves the merging of census and social survey data to simulate a population of individuals within households (for different geographical units) whose characteristics are as close to the real population as it is possible to estimate (and for small areas for which this information is not available from published sources). Microsimulation is closely linked conceptually to another type of individual-level modelling: agent-based models (ABM). ABM are normally associated with the behaviour of multiple agents in a social or economic system. This chapter offers an overview of the state-of-the-art of both modelling approaches as well as a discussion of attempts to combine them, with an articulation of a relevant research agenda.",
+        "ISBN": "9783319898063",
+        "url": "https://doi.org/10.1007/978-3-319-89806-3_4",
+        "extra": "DOI: 10.1007/978-3-319-89806-3_4",
+        "bookTitle": "The Practice of Spatial Analysis: Essays in memory of Professor Pavlos Kanaroglou",
+        "place": "Cham",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-09-20T17:14:46Z"
+    },
+    {
+        "key": "A8CIFDBQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Sara",
+                "lastName": "Saeedi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "International Journal of Applied Earth Observation and Geoinformation",
+        "journalAbbreviation": "International Journal of Applied Earth Observation and Geoinformation",
+        "volume": "68",
+        "language": "en",
+        "ISSN": "15698432",
+        "date": "06/2018",
+        "pages": "214-229",
+        "DOI": "10.1016/j.jag.2018.02.012",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0303243418301764",
+        "title": "Integrating macro and micro scale approaches in the agent-based modeling of residential dynamics",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:49Z"
+    },
+    {
+        "key": "IAQ5VVQC",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Paul E.",
+                "lastName": "Smaldino",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jimmy",
+                "lastName": "Calanchini",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Cynthia L.",
+                "lastName": "Pickett",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Organizational Psychology Review",
+        "journalAbbreviation": "Organizational Psychology Review",
+        "volume": "5",
+        "issue": "4",
+        "abstractNote": "Many social phenomena do not result solely from intentional actions by isolated individuals, but rather emerge as the result of repeated interactions among multiple individuals over time. However, such phenomena are often poorly captured by traditional empirical techniques. Moreover, complex adaptive systems are insufficiently described by verbal models. In this paper, we discuss how organizational psychologists and group dynamics researchers may benefit from the adoption of formal modeling, particularly agent-based modeling, for developing and testing richer theories. Agent-based modeling is well suited to capture multilevel dynamic processes and offers superior precision to verbal models. As an example, we present a model of social identity dynamics used to test the predictions of Brewer\u2019s (1991) optimal distinctiveness theory, and discuss how the model extends the theory and produces novel research questions. We close with a general discussion on theory development using agent-based models.",
+        "language": "en",
+        "ISSN": "2041-3866, 2041-3874",
+        "date": "11/2015",
+        "pages": "300-317",
+        "DOI": "10.1177/2041386614546944",
+        "url": "http://journals.sagepub.com/doi/10.1177/2041386614546944",
+        "title": "Theory development with agent-based models",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:51Z"
+    },
+    {
+        "key": "CLZ8A8S2",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Charles M.",
+                "lastName": "Macal",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "proceedingsTitle": "2018 Winter Simulation Conference (WSC)",
+        "place": "Gothenburg, Sweden",
+        "conferenceName": "2018 Winter Simulation Conference (WSC)",
+        "ISBN": "9781538665725",
+        "publisher": "IEEE",
+        "date": "12/2018",
+        "pages": "207-221",
+        "DOI": "10.1109/WSC.2018.8632240",
+        "url": "https://ieeexplore.ieee.org/document/8632240/",
+        "title": "TUTORIAL ON AGENT-BASED MODELING AND SIMULATION: ABM DESIGN FOR THE ZOMBIE APOCALYPSE",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:54Z",
+        "shortTitle": "TUTORIAL ON AGENT-BASED MODELING AND SIMULATION"
+    },
+    {
+        "key": "Z4KTTTL7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Mario E.",
+                "lastName": "Inchiosa",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Miles T.",
+                "lastName": "Parker",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Proceedings of the National Academy of Sciences",
+        "journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+        "volume": "99",
+        "issue": "suppl_3",
+        "abstractNote": "The\r\n              ascape\r\n              agent-based modeling environment greatly eases the task of designing and investigating agent-based models. However, effective design can still require a relatively deep knowledge of programming and agent-based modeling. This issue has almost certainly slowed the adoption of agent-based modeling approaches to social science problems. We will discuss how the\r\n              ascape\r\n              software technology can mitigate this requirement and significantly benefit modelers regardless of programming ability.",
+        "language": "en",
+        "ISSN": "0027-8424, 1091-6490",
+        "date": "2002-05-14",
+        "pages": "7304-7308",
+        "DOI": "10.1073/pnas.082081199",
+        "url": "https://pnas.org/doi/full/10.1073/pnas.082081199",
+        "title": "Overcoming design and development challenges in agent-based modeling using <span style=\"font-variant:small-caps;\">ascape</span>",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:14:56Z",
+        "shortTitle": "Overcoming design and development challenges in agent-based modeling using <span style=\"font-variant"
+    },
+    {
+        "key": "4F2Q7ASC",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [
+            {
+                "firstName": "Edoardo Pignotti",
+                "lastName": "J. Gary Polhill",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "A Semantic Grid Service for Experimentation with an Agent-Based Model of Land-Use Change",
+        "rights": "JASSS@soc.surrey.ac.uk",
+        "date": "2007-03-31",
+        "abstractNote": "Agent-based models, perhaps more than other models, feature large numbers of parameters and potentially generate vast quantities of results data. This paper shows through the FEARLUS-G project (an ESRC e-Social Science Initiative Pilot Demonstrator Project) how deploying an agent-based model on the Semantic Grid facilitates international collaboration on investigations using such a model, and contributes to establishing rigorous working practices with agent-based models as part of good science in social simulation. The experimental workflow is described explicitly using an ontology, and a Semantic Grid service with a web interface implements the workflow. Users are able to compare their parameter settings and results, and relate their work with the model to wider scientific debate.",
+        "websiteType": "Text.Article",
+        "language": "en",
+        "url": "https://www.jasss.org/10/2/2.html",
+        "accessDate": "2023-09-20T17:14:58Z",
+        "extra": "DOI: 10/2/2.html"
+    },
+    {
+        "key": "D85J54LU",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Graham",
+                "lastName": "Coates",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Chunhui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sangaralingam",
+                "lastName": "Ahilan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nigel",
+                "lastName": "Wright",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meshal",
+                "lastName": "Alharbi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Engineering Applications of Artificial Intelligence",
+        "journalAbbreviation": "Engineering Applications of Artificial Intelligence",
+        "volume": "78",
+        "language": "en",
+        "ISSN": "09521976",
+        "date": "02/2019",
+        "pages": "195-217",
+        "DOI": "10.1016/j.engappai.2018.11.010",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0952197618302483",
+        "title": "Agent-based modeling and simulation to assess flood preparedness and recovery of manufacturing small and medium-sized enterprises",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:02Z"
+    },
+    {
+        "key": "R5IGLI5Q",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jeffrey A.",
+                "lastName": "Smith",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jessica",
+                "lastName": "Burow",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Sociological Methods & Research",
+        "journalAbbreviation": "Sociological Methods & Research",
+        "volume": "49",
+        "issue": "4",
+        "abstractNote": "Agent-based modeling holds great potential as an analytical tool. Agent-based models (ABMs) are, however, also vulnerable to critique, as they often employ stylized social worlds, with little connection to the actual environment in question. Given these concerns, there has been a recent call to more fully incorporate empirical data into ABMs. This article falls in this tradition, exploring the benefits of using sampled ego network data in ABMs of cultural diffusion. Thus, instead of relying on full network data, which can be difficult and costly to collect, or no empirical network data, which is convenient but not empirically grounded, we offer a middle-ground, one combining ABMs with recent work on network sampling. The main question is whether this approach is effective. We provide a test of the approach using six complete networks; the test also includes a range of diffusion models (where actors follow different rules of adoption). For each network, we take a random ego network sample and use that sample to infer the full network structure. We then run a diffusion model through the known, complete networks, as well as the inferred networks, and compare the results. The results, on the whole, are quite strong: Across all analyses, the diffusion curves based on the sampled data are very similar to the curves based on the true, complete network. This suggests that ego network sampling can, in fact, offer a practical means of incorporating empirical data into an agent-based model.",
+        "language": "en",
+        "ISSN": "0049-1241, 1552-8294",
+        "date": "11/2020",
+        "pages": "1018-1063",
+        "DOI": "10.1177/0049124118769100",
+        "url": "http://journals.sagepub.com/doi/10.1177/0049124118769100",
+        "title": "Using Ego Network Data to Inform Agent-based Models of Diffusion",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:05Z"
+    },
+    {
+        "key": "3CPRDPEP",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Hui-Han",
+                "lastName": "Chen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Stringer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tadesse",
+                "lastName": "Eguale",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gauri G.",
+                "lastName": "Rao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sachiko",
+                "lastName": "Ozawa",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "The American Journal of Tropical Medicine and Hygiene",
+        "volume": "101",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "0002-9637, 1476-1645",
+        "date": "2019-11-06",
+        "pages": "1042-1053",
+        "DOI": "10.4269/ajtmh.18-0930",
+        "url": "https://ajtmh.org/doi/10.4269/ajtmh.18-0930",
+        "title": "Impact of Antibiotic Resistance on Treatment of Pneumococcal Disease in Ethiopia: An Agent-Based Modeling Simulation",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:08Z",
+        "shortTitle": "Impact of Antibiotic Resistance on Treatment of Pneumococcal Disease in Ethiopia"
+    },
+    {
+        "key": "GD5AD6QM",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Pablo D.",
+                "lastName": "Lemoine",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juan Manuel",
+                "lastName": "Cordovez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juan Manuel",
+                "lastName": "Zambrano",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Olga L.",
+                "lastName": "Sarmiento",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jose D.",
+                "lastName": "Meisel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juan Alejandro",
+                "lastName": "Valdivia",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Roberto",
+                "lastName": "Zarama",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Preventive Medicine",
+        "journalAbbreviation": "Preventive Medicine",
+        "volume": "88",
+        "language": "en",
+        "ISSN": "00917435",
+        "date": "07/2016",
+        "pages": "39-45",
+        "DOI": "10.1016/j.ypmed.2016.03.015",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S009174351630038X",
+        "title": "Using agent based modeling to assess the effect of increased Bus Rapid Transit system infrastructure on walking for transportation",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:12Z"
+    },
+    {
+        "key": "ZVDEGMXJ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Kaveh",
+                "lastName": "Dehghanpour",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "M. Hashem",
+                "lastName": "Nehrir",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "John W.",
+                "lastName": "Sheppard",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nathan C.",
+                "lastName": "Kelly",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "IEEE Transactions on Power Systems",
+        "journalAbbreviation": "IEEE Trans. Power Syst.",
+        "volume": "31",
+        "issue": "6",
+        "ISSN": "0885-8950, 1558-0679",
+        "date": "11/2016",
+        "pages": "4744-4754",
+        "DOI": "10.1109/TPWRS.2016.2524678",
+        "url": "http://ieeexplore.ieee.org/document/7420752/",
+        "title": "Agent-Based Modeling in Electrical Energy Markets Using Dynamic Bayesian Networks",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:15Z"
+    },
+    {
+        "key": "ZQIL7SUV",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Yong",
+                "lastName": "Yang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ana",
+                "lastName": "Diez-Roux",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kelly R.",
+                "lastName": "Evenson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Natalie",
+                "lastName": "Colabianchi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "American Journal of Public Health",
+        "journalAbbreviation": "Am J Public Health",
+        "volume": "104",
+        "issue": "7",
+        "abstractNote": "We used an agent-based model to examine the impact of the walking school bus (WSB) on children\u2019s active travel to school. We identified a synergistic effect of the WSB with other intervention components such as an educational campaign designed to improve attitudes toward active travel to school. Results suggest that to maximize active travel to school, children should arrive on time at \u201cbus stops\u201d to allow faster WSB walking speeds. We also illustrate how an agent-based model can be used to identify the location of routes maximizing the effects of the WSB on active travel. Agent-based models can be used to examine plausible effects of the WSB on active travel to school under various conditions and to identify ways of implementing the WSB that maximize its effectiveness.",
+        "language": "en",
+        "ISSN": "0090-0036, 1541-0048",
+        "date": "07/2014",
+        "pages": "1196-1203",
+        "DOI": "10.2105/AJPH.2014.301896",
+        "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2014.301896",
+        "title": "Examining the Impact of the Walking School Bus With an Agent-Based Model",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:17Z"
+    },
+    {
+        "key": "4QKEZZYV",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Am\u00e9lie",
+                "lastName": "Bourceret",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Laurence",
+                "lastName": "Amblard",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jean-Denis",
+                "lastName": "Mathias",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Ecology and Society",
+        "journalAbbreviation": "E&S",
+        "volume": "26",
+        "issue": "2",
+        "language": "en",
+        "ISSN": "1708-3087",
+        "date": "2021",
+        "pages": "art38",
+        "DOI": "10.5751/ES-12440-260238",
+        "url": "https://www.ecologyandsociety.org/vol26/iss2/art38/",
+        "title": "Governance in social-ecological agent-based models: a review",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:20Z",
+        "shortTitle": "Governance in social-ecological agent-based models"
+    },
+    {
+        "key": "XZWSYIGS",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ali",
+                "lastName": "Khodabandelu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "JeeWoong",
+                "lastName": "Park",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Automation in Construction",
+        "journalAbbreviation": "Automation in Construction",
+        "volume": "131",
+        "language": "en",
+        "ISSN": "09265805",
+        "date": "11/2021",
+        "pages": "103882",
+        "DOI": "10.1016/j.autcon.2021.103882",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0926580521003332",
+        "title": "Agent-based modeling and simulation in construction",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:25Z"
+    },
+    {
+        "key": "FGYYCEH8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Derek T.",
+                "lastName": "Robinson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Daniel G.",
+                "lastName": "Brown",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dawn C.",
+                "lastName": "Parker",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Pepijn",
+                "lastName": "Schreinemachers",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marco A.",
+                "lastName": "Janssen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marco",
+                "lastName": "Huigen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Heidi",
+                "lastName": "Wittmer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nick",
+                "lastName": "Gotts",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Panomsak",
+                "lastName": "Promburom",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elena",
+                "lastName": "Irwin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Berger",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Franz",
+                "lastName": "Gatzweiler",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "C\u00e9cile",
+                "lastName": "Barnaud",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Journal of Land Use Science",
+        "journalAbbreviation": "Journal of Land Use Science",
+        "volume": "2",
+        "issue": "1",
+        "language": "en",
+        "ISSN": "1747-423X, 1747-4248",
+        "date": "2007-04-02",
+        "pages": "31-55",
+        "DOI": "10.1080/17474230701201349",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/17474230701201349",
+        "title": "Comparison of empirical methods for building agent-based models in land use science",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:27Z"
+    },
+    {
+        "key": "2RD8ZR6S",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Alireza",
+                "lastName": "Mashhadi Ali",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "M. Ehsan",
+                "lastName": "Shafiee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emily Zechman",
+                "lastName": "Berglund",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Sustainable Cities and Society",
+        "journalAbbreviation": "Sustainable Cities and Society",
+        "volume": "28",
+        "language": "en",
+        "ISSN": "22106707",
+        "date": "01/2017",
+        "pages": "420-434",
+        "DOI": "10.1016/j.scs.2016.10.001",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S221067071630453X",
+        "title": "Agent-based modeling to simulate the dynamics of urban water supply: Climate, population growth, and water shortages",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:29Z",
+        "shortTitle": "Agent-based modeling to simulate the dynamics of urban water supply"
+    },
+    {
+        "key": "D8D3WY2M",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "name": "Linawati",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Made Sudiana",
+                "lastName": "Mahendra",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Erich J.",
+                "lastName": "Neuhold",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "A Min",
+                "lastName": "Tjoa",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Ilsun",
+                "lastName": "You",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Florian",
+                "lastName": "Miksch",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christoph",
+                "lastName": "Urach",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Einzinger",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "G\u00fcnther",
+                "lastName": "Zauner",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "bookTitle": "Information and Communication Technology",
+        "place": "Berlin, Heidelberg",
+        "ISBN": "9783642550317 9783642550324",
+        "publisher": "Springer Berlin Heidelberg",
+        "volume": "8407",
+        "date": "2014",
+        "pages": "36-45",
+        "extra": "DOI: 10.1007/978-3-642-55032-4_4",
+        "url": "http://link.springer.com/10.1007/978-3-642-55032-4_4",
+        "title": "A Flexible Agent-Based Framework for Infectious Disease Modeling",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:32Z"
+    },
+    {
+        "key": "3L3WASLW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Pawel",
+                "lastName": "Sobkowicz",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Utility, Impact, Fashion and Lobbying: An Agent-Based Model of the Funding and Epistemic Landscape of Research",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2017",
+        "volume": "20",
+        "issue": "2",
+        "pages": "5",
+        "shortTitle": "Utility, Impact, Fashion and Lobbying"
+    },
+    {
+        "key": "ZMDCRPWT",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "K.M.",
+                "lastName": "Carley",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "D.B.",
+                "lastName": "Fridsma",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "E.",
+                "lastName": "Casman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "A.",
+                "lastName": "Yahja",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "N.",
+                "lastName": "Altman",
+                "creatorType": "author"
+            },
+            {
+                "name": "Li-Chiou Chen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "B.",
+                "lastName": "Kaminsky",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "D.",
+                "lastName": "Nave",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans",
+        "journalAbbreviation": "IEEE Trans. Syst., Man, Cybern. A",
+        "volume": "36",
+        "issue": "2",
+        "ISSN": "1083-4427",
+        "date": "03/2006",
+        "pages": "252-265",
+        "DOI": "10.1109/TSMCA.2005.851291",
+        "url": "http://ieeexplore.ieee.org/document/1597399/",
+        "title": "BioWar: scalable agent-based model of bioattacks",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:37Z",
+        "shortTitle": "BioWar"
+    },
+    {
+        "key": "FM3ZSYT3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Anja",
+                "lastName": "Soboll",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Juergen",
+                "lastName": "Schmude",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of the Association of American Geographers",
+        "journalAbbreviation": "Annals of the Association of American Geographers",
+        "volume": "101",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "0004-5608, 1467-8306",
+        "date": "09/2011",
+        "pages": "1049-1066",
+        "DOI": "10.1080/00045608.2011.561126",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/00045608.2011.561126",
+        "title": "Simulating Tourism Water Consumption Under Climate Change Conditions Using Agent-Based Modeling: The Example of Ski Areas",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:39Z",
+        "shortTitle": "Simulating Tourism Water Consumption Under Climate Change Conditions Using Agent-Based Modeling"
+    },
+    {
+        "key": "DMCYQIHJ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Wenwu",
+                "lastName": "Tang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David A.",
+                "lastName": "Bennett",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Annals of the Association of American Geographers",
+        "journalAbbreviation": "Annals of the Association of American Geographers",
+        "volume": "100",
+        "issue": "5",
+        "language": "en",
+        "ISSN": "0004-5608, 1467-8306",
+        "date": "2010-10-29",
+        "pages": "1128-1155",
+        "DOI": "10.1080/00045608.2010.517739",
+        "url": "http://www.tandfonline.com/doi/abs/10.1080/00045608.2010.517739",
+        "title": "The Explicit Representation of Context in Agent-Based Models of Complex Adaptive Spatial Systems",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:41Z"
+    },
+    {
+        "key": "Y3LZMBKX",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Graham",
+                "lastName": "Coates",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Chunhui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sangaralingam",
+                "lastName": "Ahilan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nigel",
+                "lastName": "Wright",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meshal",
+                "lastName": "Alharbi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Engineering Applications of Artificial Intelligence",
+        "journalAbbreviation": "Engineering Applications of Artificial Intelligence",
+        "volume": "78",
+        "language": "en",
+        "ISSN": "09521976",
+        "date": "02/2019",
+        "pages": "195-217",
+        "DOI": "10.1016/j.engappai.2018.11.010",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0952197618302483",
+        "title": "Agent-based modeling and simulation to assess flood preparedness and recovery of manufacturing small and medium-sized enterprises",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:44Z"
+    },
+    {
+        "key": "N835XZXH",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Matt",
+                "lastName": "Kasman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ross A.",
+                "lastName": "Hammond",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Austen",
+                "lastName": "Mack-Crane",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rob",
+                "lastName": "Purcell",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ariella R.",
+                "lastName": "Korn",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Julia M.",
+                "lastName": "Appel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Erin",
+                "lastName": "Hennessy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Boyd",
+                "lastName": "Swinburn",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Steven",
+                "lastName": "Allender",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christina D.",
+                "lastName": "Economos",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Childhood Obesity",
+        "journalAbbreviation": "Childhood Obesity",
+        "volume": "19",
+        "issue": "2",
+        "language": "en",
+        "ISSN": "2153-2168, 2153-2176",
+        "date": "2023-03-01",
+        "pages": "130-138",
+        "DOI": "10.1089/chi.2021.0264",
+        "url": "https://www.liebertpub.com/doi/10.1089/chi.2021.0264",
+        "title": "Using Agent-Based Modeling to Extrapolate Community-Wide Impact from a Stakeholder-Driven Childhood Obesity Prevention Intervention: Shape Up Under 5",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:56Z",
+        "shortTitle": "Using Agent-Based Modeling to Extrapolate Community-Wide Impact from a Stakeholder-Driven Childhood Obesity Prevention Intervention"
+    },
+    {
+        "key": "8FR2X4CQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Takeshi",
+                "lastName": "Kano",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kotaro",
+                "lastName": "Yasui",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Taishi",
+                "lastName": "Mikami",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Munehiro",
+                "lastName": "Asally",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Akio",
+                "lastName": "Ishiguro",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "publicationTitle": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+        "journalAbbreviation": "Proc. R. Soc. A.",
+        "volume": "477",
+        "issue": "2245",
+        "abstractNote": "As of July 2020, COVID-19 caused by SARS-COV-2 is spreading worldwide, causing severe economic damage. While minimizing human contact is effective in managing outbreaks, it causes severe economic losses. Strategies to solve this dilemma by considering the interrelation between the spread of the virus and economic activities are urgently needed to mitigate the health and economic damage. Here, we propose an abstract agent-based model of the COVID-19 outbreak that accounts for economic activities. The computational simulation of the model recapitulates the trade-off between the health and economic damage associated with voluntary restraint measures. Based on the simulation results, we discuss how the macroscopic dynamics of infection and economics emerge from individuals\u2019 behaviours. We believe our model can serve as a platform for discussing solutions to the above-mentioned dilemma.",
+        "language": "en",
+        "ISSN": "1364-5021, 1471-2946",
+        "date": "01/2021",
+        "pages": "20200604",
+        "DOI": "10.1098/rspa.2020.0604",
+        "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0604",
+        "title": "An agent-based model of the interrelation between the COVID-19 outbreak and economic activities",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "accessDate": "2023-09-20T17:15:59Z"
     }
 ]
