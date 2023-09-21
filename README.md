@@ -16,4 +16,4 @@
 3. Run `run_translator.sh`
    1. You will turn on the server, run the queries to the server, and kill the server
 
-#### TODOs: we might wanna check zotero-translators export capabilities
+#### TODOs: we might want to check zotero-translators export capabilities
