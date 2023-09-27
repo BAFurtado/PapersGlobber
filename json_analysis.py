@@ -14,7 +14,7 @@ def tokenize(list_words):
             .replace('models', 'model')
             .replace('modell', 'model')
             .replace('modeling', 'model')
-            .replace(' (abm) ', '')
+            .replace('(abm)', '')
             for w in list_words]
 
 
@@ -31,7 +31,7 @@ def getting_keywords(data):
     for tag, count in sorted(tag_counts.items(), key=lambda x: x[1], reverse=True):
         print(f'{tag.capitalize()}: {count}')
         i += 1
-        if i > 14:
+        if i > 9:
             break
     return all_tags
 
