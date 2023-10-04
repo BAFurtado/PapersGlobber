@@ -8,6 +8,7 @@ from wordcloud import WordCloud
 def tokenize(list_words):
     return [w.lower()
             .strip()
+            .lstrip()
             .replace(':', '')
             .replace('-', ' ')
             .replace(',', '')
