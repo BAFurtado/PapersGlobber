@@ -1,7 +1,9 @@
 import json
+import pickle
 from collections import Counter
 
 import matplotlib.pyplot as plt
+import networkx as nx
 from wordcloud import WordCloud
 
 
@@ -57,8 +59,11 @@ def getting_abstracts(data):
 
 def getting_authors(data):
     # Initialize an empty list to store last names
+    # Also, keep same paper authors to gather networks
     names = list()
+    authors_network = list()
     for paper in data:
+        these_authors = list()
         # Check the dictionary
         if 'creators' in paper:
             for author in paper['creators']:
@@ -67,8 +72,11 @@ def getting_authors(data):
                         # Getting just the first initial
                         initials = author['firstName'].split(' ')[0][0]
                         names.append(f"{author['lastName']}, {initials}")
+                        these_authors.append(f"{author['lastName']}, {initials}")
                     else:
                         names.append(author['lastName'])
+                        these_authors.append(author['lastName'])
+        authors_network.append(these_authors)
     names_counter = Counter(names)
     print('-' * 100, len(names_counter), ': AUTHORS', '-' * 100)
     i = 0
@@ -77,7 +85,7 @@ def getting_authors(data):
         i += 1
         if i > 9:
             break
-    return names
+    return names, authors_network
 
 
 def getting_titles(data):
@@ -113,6 +121,39 @@ def words_in_(data, search_word):
     return [w for w in data if search_word.lower() in w.lower()]
 
 
+def plot_graph(G):
+    plt.figure(figsize=(10, 10))
+    pos = nx.fruchterman_reingold_layout(G, seed=42)  # Layout algorithm
+
+    # Draw nodes and edges
+    nx.draw_networkx_nodes(G, pos, node_size=4, node_color='skyblue')
+    nx.draw_networkx_edges(G, pos, alpha=.5)
+
+    # Add labels
+    labels = {author: author for author in G.nodes()}
+    nx.draw_networkx_labels(G, pos, labels, font_size=5, font_color='green')
+
+    plt.title("Author Network")
+    plt.axis("off")
+    plt.show()
+
+
+def make_authors_graph(authors_network):
+    G = nx.Graph()
+
+    # Add nodes (authors)
+    for paper_authors in authors_network:
+        G.add_nodes_from(paper_authors)
+
+    # Add edges (co-authorship)
+    for paper_authors in authors_network:
+        for i in range(len(paper_authors)):
+            for m in range(i + 1, len(paper_authors)):
+                if paper_authors[i] != paper_authors[m]:
+                    G.add_edge(paper_authors[i], paper_authors[m])
+    return G
+
+
 def main(file_address):
     # Load the JSON data
     with open(file_address, 'r') as json_file:
@@ -120,15 +161,21 @@ def main(file_address):
     keys = getting_keywords(data)
     journals = getting_journals(data)
     abstracts = getting_abstracts(data)
-    authors = getting_authors(data)
+    authors, authors_network = getting_authors(data)
+    graph = make_authors_graph(authors_network)
+    # plot_graph(graph)
     titles = getting_titles(data)
-    return keys, journals, abstracts, authors, titles
+    return keys, journals, abstracts, authors, authors_network, graph, titles
 
 
 if __name__ == '__main__':
     f = 'results_no_duplicates.json'
-    k, j, abst, aut, t = main(f)
-    word_cloud(k)
-    word_cloud(t, 'title_image')
-    policy_papers = words_in_(t, 'polic')
-    oil = words_in_(t, 'oil')
+    k, j, abst, aut, aut_net, g, t = main(f)
+    # plot_graph(g)
+    # word_cloud(k)
+    # word_cloud(t, 'title_image')
+    # policy_papers = words_in_(t, 'polic')
+    # oil = words_in_(t, 'oil')
+
+    with open('authors_graph', 'wb') as handler:
+        pickle.dump(g, handler)
