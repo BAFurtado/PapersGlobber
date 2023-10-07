@@ -62525,5 +62525,830 @@
         "language": "en",
         "libraryCatalog": "Springer Link",
         "accessDate": "2023-10-07T19:51:47Z"
+    },
+    {
+        "key": "M797FSSW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Wenwu",
+                "lastName": "Tang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jianxin",
+                "lastName": "Yang",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-Based Land Change Modeling of a Large Watershed: Space-Time Locations of Critical Threshold",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2020",
+        "volume": "23",
+        "issue": "1",
+        "pages": "15",
+        "shortTitle": "Agent-Based Land Change Modeling of a Large Watershed"
+    },
+    {
+        "key": "PFQI426F",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Alan",
+                "lastName": "Kalton",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Erin",
+                "lastName": "Falconer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Docherty",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dimitris",
+                "lastName": "Alevras",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Brann",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kyle",
+                "lastName": "Johnson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based simulation",
+                "type": 1
+            },
+            {
+                "tag": "Mental health care",
+                "type": 1
+            },
+            {
+                "tag": "Model development",
+                "type": 1
+            },
+            {
+                "tag": "Psychiatric patient environment",
+                "type": 1
+            },
+            {
+                "tag": "Complex medical and social ecosystem",
+                "type": 1
+            },
+            {
+                "tag": "Care coordination",
+                "type": 1
+            },
+            {
+                "tag": "System management",
+                "type": 1
+            }
+        ],
+        "date": "2015-11-21",
+        "title": "Multi-Agent-Based Simulation of a Complex Ecosystem of Mental Health Care",
+        "pages": "39",
+        "abstractNote": "This paper discusses the creation of an Agent-Based Simulation that modeled the introduction of care coordination capabilities into a complex system of care for patients with Serious and Persistent Mental Illness. The model describes the engagement between patients and the medical, social and criminal justice services they interact with in a complex ecosystem of care. We outline the challenges involved in developing the model, including process mapping and the collection and synthesis of data to support parametric estimates, and describe the controls built into the model to support analysis of potential changes to the system. We also describe the approach taken to calibrate the model to an observable level of system performance. Preliminary results from application of the simulation are provided to demonstrate how it can provide insights into potential improvements deriving from introduction of care coordination technology.",
+        "ISSN": "1573-689X",
+        "url": "https://doi.org/10.1007/s10916-015-0374-4",
+        "DOI": "10.1007/s10916-015-0374-4",
+        "journalAbbreviation": "J Med Syst",
+        "volume": "40",
+        "issue": "2",
+        "publicationTitle": "Journal of Medical Systems",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-07T19:53:51Z"
+    },
+    {
+        "key": "93G4YM4G",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Hunter",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian",
+                "lastName": "Mac Namee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "John D.",
+                "lastName": "Kelleher",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "A Taxonomy for Agent-Based Models in Human Infectious Disease Epidemiology",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2017",
+        "volume": "20",
+        "issue": "3",
+        "pages": "2"
+    },
+    {
+        "key": "S39WSRSN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Yong",
+                "lastName": "Yang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kenneth D.",
+                "lastName": "Ward",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ramzi G.",
+                "lastName": "Salloum",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Eric N.",
+                "lastName": "Lindblom",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Tob Regul Sci",
+        "publicationTitle": "Tobacco regulatory science",
+        "ISSN": "2333-9748",
+        "abstractNote": "Objectives:\nWaterpipe tobacco smoking (WTS) is an emerging public health crisis, particularly among youth and young adults. Different from the use of other tobacco products and e-cigarettes, WTS tends to be a social activity occurring among friends or persons associated with social networks. In this paper, we review a potential strategy for WTS-related research.\n\nMethods:\nAs a bottom-up computational model, agent-based modeling (ABM) can simulate the actions and interactions of agents, as well as the dynamic interactions between agents and their environments, to gain an understanding of the functioning of a system. ABM is particularly useful for incorporating the influence of social networks in WTS, and capturing people\u2019s space-time activity and the spatial distribution of WTS venues.\n\nResults:\nComprehensive knowledge of WTS-related behaviors at the individual level is needed to take advantage of ABM and use it to examine policies such as the interaction between WTS and cigarette smoking and the effect of flavors used in waterpipe tobacco. Longitudinal and WTS-specific surveys and laboratory experiments are particularly helpful to understand WTS basic mechanisms and elicit individual preferences, respectively.\n\nConclusions:\nWe argue that the uniqueness of WTS makes ABM a promising tool to be used in WTS-related research, as well as understanding use of other tobacco products.",
+        "DOI": "10.18001/trs.6.3.1",
+        "extra": "PMID: 32582820\nPMCID: PMC7314189",
+        "title": "Agent-based Modeling in Tobacco Regulatory Science: Exploring \u2018What if\u2019 in Waterpipe Smoking",
+        "volume": "6",
+        "issue": "3",
+        "pages": "171-178",
+        "date": "2020-5",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314189/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-10-07T19:55:58Z",
+        "shortTitle": "Agent-based Modeling in Tobacco Regulatory Science"
+    },
+    {
+        "key": "2LT5QFYZ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Mohammadreza",
+                "lastName": "Rajabi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Petter",
+                "lastName": "Pilesj\u00f6",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mohammad Reza",
+                "lastName": "Shirzadi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Reza",
+                "lastName": "Fadaei",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ali",
+                "lastName": "Mansourian",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Cutaneous Leishmaniasis",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Disease modeling",
+                "type": 1
+            },
+            {
+                "tag": "Socio-ecological interactions",
+                "type": 1
+            }
+        ],
+        "pages": "330-346",
+        "date": "2016-08-01",
+        "ISSN": "1364-8152",
+        "DOI": "10.1016/j.envsoft.2016.04.006",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1364815216300950",
+        "abstractNote": "Cutaneous Leishmaniasis (CL) is an endemic vector-borne disease in the Middle East and a worldwide public health problem. The spread of CL is highly associated with the socio-ecological interactions of vectors, hosts and the environment. The heterogeneity of these interactions has hindered CL modeling for healthcare preventive measures in endemic areas. In this study, an agent-based model (ABM) is developed to simulate the dynamics of CL spread based on a Geographic Automata System (GAS). A Susceptible-Exposed-Infected-Recovered (SEIR) approach together with Bayesian modeling has been applied in the ABM to explore the spread of CL. The model is then adapted locally for Isfahan Province, an endemic area in central Iran. The results from the model indicate that desertification areas are the main origin of CL, and riverside population centers have the potential to host more sand fly exposures and should receive more preventive measures from healthcare authorities. The results also show that healthcare service accessibility prevented exposures from becoming infected and areas with new inhabitants experienced more infections from same amount of sand fly exposures.",
+        "title": "A spatially explicit agent-based modeling approach for the spread of Cutaneous Leishmaniasis disease in central Iran, Isfahan",
+        "journalAbbreviation": "Environmental Modelling & Software",
+        "volume": "82",
+        "publicationTitle": "Environmental Modelling & Software",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T19:58:00Z"
+    },
+    {
+        "key": "2YAY5HLN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Angela B.",
+                "lastName": "Shiflet",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "George W.",
+                "lastName": "Shiflet",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "pages": "1392-1402",
+        "date": "2014-01-01",
+        "ISSN": "1877-0509",
+        "DOI": "10.1016/j.procs.2014.05.126",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877050914003032",
+        "abstractNote": "Agent-based modeling (ABM) has become an increasingly important tool in computational science. Thus, in the final week of the 2013 fall semester, Wofford College's undergraduate Modeling and Simulation for the Sciences course (COSC/MATH 201) considered ABM using the NetLogo tool. The students explored existing ABMs and completed two tutorials that developed models on unconstrained growth and the average distance covered by a random walker. The models demonstrated some of the utility of ABM and helped illustrate the similarities and differences between agent-based modeling and previously discussed techniques\u2014 system dynamics modeling, empirical modeling, and cellular automaton simulations. Improved test scores and questionnaire results support the success of the goals for the week.",
+        "title": "An Introduction to Agent-based Modeling for Undergraduates",
+        "journalAbbreviation": "Procedia Computer Science",
+        "volume": "29",
+        "series": "2014 International Conference on Computational Science",
+        "publicationTitle": "Procedia Computer Science",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:00:01Z"
+    },
+    {
+        "key": "5XKRUSXG",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Reyhaneh",
+                "lastName": "Zafarnejad",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul M.",
+                "lastName": "Griffin",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Comput Biol Med",
+        "publicationTitle": "Computers in Biology and Medicine",
+        "ISSN": "0010-4825",
+        "abstractNote": "Many schools and universities have seen a significant increase in the spread of COVID-19. As such, a number of non-pharmaceutical interventions have been proposed including distancing requirements, surveillance testing, and updating ventilation systems. Unfortunately, there is limited guidance for which policy or set of policies are most effective for a specific school system. We develop a novel approach to model the spread of SARS-CoV-2 quanta in a closed classroom environment that extends traditional transmission models that assume uniform mixing through air recirculation by including the local spread of quanta from a contagious source. In addition, the behavior of students with respect to guideline compliance was modeled through an agent-based simulation., Estimated infection rates were on average lower using traditional transmission models compared to our approach. Further, we found that although ventilation changes were effective at reducing mean transmission risk, it had much less impact than distancing practices. Duration of the class was an important factor in determining the transmission risk. For the same total number of semester hours for a class, delivering lectures more frequently for shorter durations was preferable to less frequently with longer durations. Finally, as expected, as the contact tracing level increased, more infectious students were identified and removed from the environment and the spread slowed, though there were diminishing returns., These findings can help provide guidance as to which school-based policies would be most effective at reducing risk and can be used in a cost/comparative effectiveness estimation study given local costs and constraints.",
+        "DOI": "10.1016/j.compbiomed.2021.104518",
+        "extra": "PMID: 34102403\nPMCID: PMC8163694",
+        "title": "Assessing school-based policy actions for COVID-19: An agent-based analysis of incremental infection risk",
+        "volume": "134",
+        "pages": "104518",
+        "date": "2021-7",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8163694/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-10-07T20:02:04Z",
+        "shortTitle": "Assessing school-based policy actions for COVID-19"
+    },
+    {
+        "key": "GFQW2BSG",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Dmytro",
+                "lastName": "Chumachenko",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tetyana",
+                "lastName": "Chumachenko",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Volodymyr",
+                "lastName": "Lytvynenko",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Sergii",
+                "lastName": "Babichev",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Waldemar",
+                "lastName": "W\u00f3jcik",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Olena",
+                "lastName": "Vynokurova",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Svetlana",
+                "lastName": "Vyshemyrskaya",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Svetlana",
+                "lastName": "Radetskaya",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Expert system",
+                "type": 1
+            },
+            {
+                "tag": "Knowledge assessment",
+                "type": 1
+            },
+            {
+                "tag": "Infections related to medical care",
+                "type": 1
+            }
+        ],
+        "date": "2020",
+        "title": "Intelligent Agent-Based Simulation of HIV Epidemic Process",
+        "pages": "175-188",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "The research deals with the problems of predicting the epidemic process of HIV infection. To solve this problem, an intelligent agent-based model has been developed, which allows to take into account factors affecting the incidence, distribution by age categories and risk groups. The model uses statistical data on the real incidence of HIV infection in the Kharkiv region from 2010 to 2018. The intelligent agent-based model is implemented in the Visual Studio 2013 development environment with use of the C# programming language. The developed software package shows high accuracy of the forecast.",
+        "ISBN": "9783030264741",
+        "place": "Cham",
+        "proceedingsTitle": "Lecture Notes in Computational Intelligence and Decision Making",
+        "DOI": "10.1007/978-3-030-26474-1_13",
+        "language": "en",
+        "series": "Advances in Intelligent Systems and Computing",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "KUVCS7Z8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jascha-Alexander",
+                "lastName": "Koch",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jens",
+                "lastName": "Lausen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Moritz",
+                "lastName": "Kohlhase",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Crowdfunding",
+                "type": 1
+            },
+            {
+                "tag": "Overfunding",
+                "type": 1
+            },
+            {
+                "tag": "Internalization of externalities",
+                "type": 1
+            },
+            {
+                "tag": "Pigouvian tax",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Market engineering",
+                "type": 1
+            },
+            {
+                "tag": "C63",
+                "type": 1
+            },
+            {
+                "tag": "D47",
+                "type": 1
+            },
+            {
+                "tag": "D61",
+                "type": 1
+            },
+            {
+                "tag": "D62",
+                "type": 1
+            },
+            {
+                "tag": "G41",
+                "type": 1
+            }
+        ],
+        "date": "2021-11-01",
+        "title": "Internalizing the externalities of overfunding: an agent-based model approach for analyzing the market dynamics on crowdfunding platforms",
+        "pages": "1387-1430",
+        "abstractNote": "Crowdfunding platforms offer project initiators the opportunity to acquire funds from the Internet crowd and, therefore, have become a valuable alternative to traditional sources of funding. However, some processes on crowdfunding platforms cause undesirable external effects that influence the funding success of projects. In this context, we focus on the phenomenon of project overfunding. Massively overfunded projects have been discussed to overshadow other crowdfunding projects which in turn receive less funding. We propose a funding redistribution mechanism to internalize these overfunding externalities and to improve overall funding results. To evaluate this concept, we develop and deploy an agent-based model (ABM). This ABM is based on a multi-attribute decision-making approach and is suitable to simulate the dynamic funding processes on a crowdfunding platform. Our evaluation provides evidence that possible modifications of the crowdfunding mechanisms bear the chance to optimize funding results and to alleviate existing flaws.",
+        "ISSN": "1861-8928",
+        "url": "https://doi.org/10.1007/s11573-021-01045-w",
+        "DOI": "10.1007/s11573-021-01045-w",
+        "journalAbbreviation": "J Bus Econ",
+        "volume": "91",
+        "issue": "9",
+        "publicationTitle": "Journal of Business Economics",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-07T20:06:10Z",
+        "shortTitle": "Internalizing the externalities of overfunding"
+    },
+    {
+        "key": "9ZGF3PGI",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jack",
+                "lastName": "Schryver",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Nutaro",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mallikarjun",
+                "lastName": "Shankar",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Emulating a System Dynamics Model with Agent-Based Models: A Methodological Case Study in Simulation of Diabetes Progression",
+        "date": "Fri Oct 30 00:00:00 EDT 2015",
+        "publicationTitle": "Open Journal of Modelling and Simulation",
+        "volume": "03",
+        "issue": "04",
+        "abstractNote": "An agent-based simulation model hierarchy emulating disease states and behaviors critical to progression of diabetes type 2 was designed and implemented in the DEVS framework. The models are translations of basic elements of an established system dynamics model of diabetes. In this model hierarchy, which mimics diabetes progression over an aggregated U.S. population, was dis-aggregated and reconstructed bottom-up at the individual (agent) level. Four levels of model complexity were defined in order to systematically evaluate which parameters are needed to mimic outputs of the system dynamics model. Moreover, the four estimated models attempted to replicate stock counts representing disease states in the system dynamics model, while estimating impacts of an elderliness factor, obesity factor and health-related behavioral parameters. Health-related behavior was modeled as a simple realization of the Theory of Planned Behavior, a joint function of individual attitude and diffusion of social norms that spread over each agent s social network. Although the most complex agent-based simulation model contained 31 adjustable parameters, all models were considerably less complex than the system dynamics model which required numerous time series inputs to make its predictions. In all three elaborations of the baseline model provided significantly improved fits to the output of the system dynamics model. The performances of the baseline agent-based model and its extensions illustrate a promising approach to translate complex system dynamics models into agent-based model alternatives that are both conceptually simpler and capable of capturing main effects of complex local agent-agent interactions.",
+        "DOI": "10.4236/ojmsi.2015.34019",
+        "language": "English",
+        "ISSN": "2327-4018",
+        "url": "https://www.osti.gov/pages/biblio/1319161",
+        "libraryCatalog": "www.osti.gov",
+        "accessDate": "2023-10-07T20:10:12Z",
+        "shortTitle": "Emulating a System Dynamics Model with Agent-Based Models"
+    },
+    {
+        "key": "S8Q9KIIN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. Ehsan",
+                "lastName": "Shafiee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emily Zechman",
+                "lastName": "Berglund",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Variable-length genetic algorithm",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Water distribution network",
+                "type": 1
+            },
+            {
+                "tag": "Water contamination events",
+                "type": 1
+            },
+            {
+                "tag": "Vehicle routing for relief problem",
+                "type": 1
+            },
+            {
+                "tag": "Covering tour problem",
+                "type": 1
+            },
+            {
+                "tag": "Complex adaptive system",
+                "type": 1
+            },
+            {
+                "tag": "Route alert",
+                "type": 1
+            }
+        ],
+        "pages": "12-25",
+        "date": "2016-05-01",
+        "ISSN": "0198-9715",
+        "DOI": "10.1016/j.compenvurbsys.2016.01.001",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0198971516300011",
+        "abstractNote": "In the event of a large-scale disaster, an important aspect of humanitarian logistics is the distribution of information or warnings to the affected population. This research develops the problem formulation and solution approach for a specific routing for relief problem, in which warnings should be disseminated to an affected community, using public announcement systems mounted on emergency vehicles. The problem statement is formulated to maximize the number of individuals of a community who are protected. An evolutionary algorithm framework is developed by coupling an agent-based model with a variable-length genetic algorithm to route emergency vehicles. The dynamics of interactions among consumers, emergency vehicles, and the spatiotemporal trajectory of the hazard are simulated using an agent-based modeling approach, and a variable-length genetic algorithm approach selects routes to warn a maximum number of consumers before they are affected by the emergency. The example that is explored in this research is contamination of a water distribution network. A fleet of emergency vehicles is equipped with public address systems and is deployed to warn consumers to stop using contaminated water. The framework is demonstrated for an illustrative virtual city, Mesopolis. The results of the evolutionary algorithm framework are compared with two conventional routing optimization approaches, including a covering tour problem approach and a manual routing approach, for four contamination scenarios. The evolutionary algorithm can be applied to route emergency service vehicles to broadcast information for other emergencies, such as flash flooding, hazardous materials incidents, and severe weather.",
+        "title": "Agent-based modeling and evolutionary computation for disseminating public advisories about hazardous material emergencies",
+        "journalAbbreviation": "Computers, Environment and Urban Systems",
+        "volume": "57",
+        "publicationTitle": "Computers, Environment and Urban Systems",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:12:14Z"
+    },
+    {
+        "key": "FRGTH3ES",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Michael J.",
+                "lastName": "Widener",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sara S.",
+                "lastName": "Metcalf",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yaneer",
+                "lastName": "Bar-Yam",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Food deserts",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Buffalo NY",
+                "type": 1
+            },
+            {
+                "tag": "Mobile markets",
+                "type": 1
+            },
+            {
+                "tag": "GIS",
+                "type": 1
+            }
+        ],
+        "pages": "1-10",
+        "date": "2013-06-01",
+        "ISSN": "0143-6228",
+        "DOI": "10.1016/j.apgeog.2013.01.003",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0143622813000283",
+        "abstractNote": "Despite advances in medical technology and public health practices over the past few decades, there has been a steady increase in the prevalence of chronic diseases like type 2 diabetes among low-income urban residents in the US. For this population, maintaining a diet consisting of nutritious foods is complicated by a number of physical and social barriers. In cities, a coalescence of social, spatial, and economic factors influence the availability of healthy food in any given place. The urban food environment contextualizes the structural and individual-level norms that drive daily decision-making about what to eat. Understanding and acting on the processes that reduce these residents' access to healthy foods will make for a healthier urban landscape. This paper advances the discussion of food deserts by using an agent-based model to simulate the impact of various policy interventions on low-income households' consumption of fresh fruits and vegetables. Using a simulated population of low-income households in Buffalo, NY, initialized with demographic and geographic data from the US Census and the City of Buffalo, a baseline scenario is established. Four different scenarios are explored in contrast to the baseline, including increasing the frequency that households shop for groceries, increasing the probability convenience stores stock fresh produce, and implementing a mobile market distribution system. The paper concludes by analyzing the effectiveness of the varying strategies, and discussing policy implications.",
+        "title": "Agent-based modeling of policies to improve urban food access for low-income populations",
+        "journalAbbreviation": "Applied Geography",
+        "volume": "40",
+        "publicationTitle": "Applied Geography",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:16:16Z"
+    },
+    {
+        "key": "6QC6QCD6",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jennifer A.",
+                "lastName": "Lawlor",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sara",
+                "lastName": "McGirr",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Systems",
+                "type": 1
+            },
+            {
+                "tag": "Complexity",
+                "type": 1
+            },
+            {
+                "tag": "Evaluation practice",
+                "type": 1
+            }
+        ],
+        "pages": "131-138",
+        "date": "2017-12-01",
+        "ISSN": "0149-7189",
+        "DOI": "10.1016/j.evalprogplan.2017.08.015",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0149718917300393",
+        "abstractNote": "Recently, systems thinking and systems science approaches have gained popularity in the field of evaluation; however, there has been relatively little exploration of how evaluators could use quantitative tools to assist in the implementation of systems approaches therein. The purpose of this paper is to explore potential uses of one such quantitative tool, agent-based modeling, in evaluation practice. To this end, we define agent-based modeling and offer potential uses for it in typical evaluation activities, including: engaging stakeholders, selecting an intervention, modeling program theory, setting performance targets, and interpreting evaluation results. We provide demonstrative examples from published agent-based modeling efforts both inside and outside the field of evaluation for each of the evaluative activities discussed. We further describe potential pitfalls of this tool and offer cautions for evaluators who may chose to implement it in their practice. Finally, the article concludes with a discussion of the future of agent-based modeling in evaluation practice and a call for more formal exploration of this tool as well as other approaches to simulation modeling in the field.",
+        "title": "Agent-based modeling as a tool for program design and evaluation",
+        "journalAbbreviation": "Evaluation and Program Planning",
+        "volume": "65",
+        "publicationTitle": "Evaluation and Program Planning",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:18:18Z"
+    },
+    {
+        "key": "5VNZZGSW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Debraj",
+                "lastName": "Roy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Lees",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Slums",
+                "type": 1
+            },
+            {
+                "tag": "Informal settlement",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Residential choice",
+                "type": 1
+            },
+            {
+                "tag": "Segregation inequality",
+                "type": 1
+            },
+            {
+                "tag": "Social network",
+                "type": 1
+            }
+        ],
+        "pages": "101458",
+        "date": "2020-03-01",
+        "ISSN": "0198-9715",
+        "DOI": "10.1016/j.compenvurbsys.2019.101458",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0198971519302170",
+        "abstractNote": "The existence of slums or informal settlements is common to most cities of developing countries. In India, slums contain a wealth of diversity that is masked by a high level of poverty and insufficient access to resources. Recent studies have identified that it is important to assess the resilience of slums as they differ from one slum to another. While many slums are vulnerable to forced evictions, temporary jobs, and constant migration; few slums can respond and recover from external shocks and stress. In this paper, we investigate the resilience of slums based on novel field data from 37 slums in Bangalore. Specifically, we develop an agent-based model to understand how existing social, economic and environmental situation impacts the choices of slums. The paper makes two important findings. First, we find a high social satisfaction has a stabilizing effect, which means that despite more attractive economic opportunities, social satisfaction the slum dwellers derive from living in the neighbourhood of similar contacts is a strong motive to stay. However, given that a lack of economic opportunities causes a decline in the population, the social satisfaction will decrease as a function of the number of social contacts that move. We show that this cascading effect of emigrating population strongly depends on group identity such as religion. Second, we detect different regimes as social satisfaction increase, the population transitions from extinction to positive density dependence to density independence. Therefore, understanding the social capital of a slum community can offer insights into the ability of a slum to recover from external perturbations.",
+        "title": "Understanding resilience in slums using an agent-based model",
+        "journalAbbreviation": "Computers, Environment and Urban Systems",
+        "volume": "80",
+        "publicationTitle": "Computers, Environment and Urban Systems",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:22:20Z"
+    },
+    {
+        "key": "PHY6WMWB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Mohammad",
+                "lastName": "Aghababaei",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Koliou",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Education system",
+                "type": 1
+            },
+            {
+                "tag": "School",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Resilience",
+                "type": 1
+            },
+            {
+                "tag": "Tornado",
+                "type": 1
+            },
+            {
+                "tag": "Interdependencies",
+                "type": 1
+            }
+        ],
+        "pages": "113889",
+        "date": "2022-03-15",
+        "ISSN": "0141-0296",
+        "DOI": "10.1016/j.engstruct.2022.113889",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0141029622000487",
+        "abstractNote": "This paper introduces an agent-based modeling (ABM) approach to model a community as a system of interdependent systems for studying education systems resilience, one of the least-studied components of communities in the quantitative disaster literature. In this ABM approach, autonomous entities, called agents, simulate the components of a system, while internal interactions among them shape the system and external interactions among systems shape the community. To study the education system resilience subject to tornado hazard, a library of agents is proposed including school, household, electric power network, water supply network, and construction companies agents. The proposed ABM approach is applied on the virtual Centerville community. A Monte Carlo sampling analysis for various tornado intensities is conducted to account for and quantify the inherent uncertainties. Moreover, an education system resilience measure based on the education quality and quantity is proposed and computed for Centerville. The probabilities of the education system falling in different resilience levels are also computed for different tornado intensities. Taking advantage of the comprehensive quantitative model proposed, decisions for enhancing the education system resilience can be evaluated, which is demonstrated by assessing the effect of providing backup utilities for schools on the education system resilience.",
+        "title": "An agent-based modeling approach for community resilience assessment accounting for system interdependencies: Application on education system",
+        "journalAbbreviation": "Engineering Structures",
+        "volume": "255",
+        "publicationTitle": "Engineering Structures",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-07T20:24:22Z",
+        "shortTitle": "An agent-based modeling approach for community resilience assessment accounting for system interdependencies"
+    },
+    {
+        "key": "LLXJRPQI",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Bernardo",
+                "lastName": "Alves Furtado",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "PolicySpace2: Modeling Markets and Endogenous Public Policies",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2022",
+        "volume": "25",
+        "issue": "1",
+        "pages": "8",
+        "shortTitle": "PolicySpace2"
+    },
+    {
+        "key": "AMKAGUA5",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Bernardo",
+                "lastName": "Alves Furtado",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Isaque Daniel Rocha",
+                "lastName": "Eberhardt",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "A Simple Agent-Based Spatial Model of the Economy:   Tools for Policy",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2016",
+        "volume": "19",
+        "issue": "4",
+        "pages": "12",
+        "shortTitle": "A Simple Agent-Based Spatial Model of the Economy"
     }
 ]
