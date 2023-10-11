@@ -7,12 +7,15 @@ import pandas as pd
 time.sleep(20)
 
 
-def run_list_translators(data):
+def run_list_translators():
+    f = 'tweets.csv'
+    g = 'new_tweets.csv'
+    data = check_data_before_loading(f, g)
+    data = data.address.to_list()
     file_address = 'results.json'
     try:
         with open(file_address, 'r') as file:
             results = json.load(file)
-            data = data[len(results):]
     except FileNotFoundError:
         results = list()
 
@@ -47,8 +50,12 @@ def run_list_translators(data):
                 json.dump(results, json_file, indent=4)
 
 
+def check_data_before_loading(old, new):
+    old = pd.read_csv(old, names=['id', 'address'])
+    new = pd.read_csv(new, names=['id', 'address'])
+    unique_df = new[~new['address'].isin(old['address'])]
+    return unique_df
+
+
 if __name__ == '__main__':
-    f = 'tweets.csv'
-    d = pd.read_csv(f, names=['id', 'address'])
-    d = d.address.to_list()
-    run_list_translators(d)
+    run_list_translators()

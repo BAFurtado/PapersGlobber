@@ -63350,5 +63350,457 @@
         "issue": "4",
         "pages": "12",
         "shortTitle": "A Simple Agent-Based Spatial Model of the Economy"
+    },
+    {
+        "key": "6CJQZ477",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [
+            {
+                "firstName": "Martina",
+                "lastName": "D\u00fcnser",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Review of Advances in Computational Social Science: The Fourth World Congress (Agent-Based Social Systems)",
+        "rights": "https://www.jasss.org",
+        "date": "08-Jun-2018",
+        "abstractNote": "Review of:Chen Shu-Heng, Terano Takao, Yamamoto Ryuichi, Tai Chung-Ching (2016) Advances in Computational Social Science: The Fourth World Congress (Agent-Based Social Systems). Springer-Verlag: Berlin",
+        "websiteType": "Text.Article",
+        "language": "en",
+        "url": "https://www.jasss.org/21/3/reviews/1.html",
+        "accessDate": "2023-10-11T14:57:48Z",
+        "shortTitle": "Review of Advances in Computational Social Science"
+    },
+    {
+        "key": "RUDFPDWH",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christian J. E.",
+                "lastName": "Castle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison J.",
+                "lastName": "Heppenstall",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Linda M.",
+                "lastName": "See",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Batty",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Geographical Information System",
+                "type": 1
+            },
+            {
+                "tag": "Geographical Information System Tool",
+                "type": 1
+            },
+            {
+                "tag": "Geospatial Model",
+                "type": 1
+            },
+            {
+                "tag": "NetLogo Model",
+                "type": 1
+            },
+            {
+                "tag": "Geographical Information System Dataset",
+                "type": 1
+            }
+        ],
+        "date": "2012",
+        "title": "The Integration of Agent-Based Modelling and Geographical Information for Geospatial Simulation",
+        "pages": "219-251",
+        "publisher": "Springer Netherlands",
+        "abstractNote": "Within this chapter we focus on the integration of Geographical Information System (GIS) and Agent-based modelling (ABM) and review a selection of toolkits which allow for such integration. Moreover, we identify current capabilities of modelling within a GIS and methods of coupling and integrating GIS with agent-based models. We then introduce suggested guidelines for developing geospatial simulations with ABM toolkits and offer practical guidelines for choosing a simulation/modelling system before providing a review of a number of simulation/modelling systems that allow for the creation of geospatial agent based models along with the identification of a number references for further information.",
+        "ISBN": "9789048189274",
+        "url": "https://doi.org/10.1007/978-90-481-8927-4_12",
+        "extra": "DOI: 10.1007/978-90-481-8927-4_12",
+        "bookTitle": "Agent-Based Models of Geographical Systems",
+        "place": "Dordrecht",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-11T14:59:53Z"
+    },
+    {
+        "key": "P5W9QB7B",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Mohammad H.",
+                "lastName": "Pakravan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nordica",
+                "lastName": "MacCarty",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "An Agent-Based Modeling Approach for Clean Technologies Adoption Using Theory of Planned Behavior Based Decision-Making",
+        "DOI": "10.1115/DETC2019-97670",
+        "url": "https://dx.doi.org/10.1115/DETC2019-97670",
+        "abstractNote": "Abstract. Technology adoption in low-income regions is among the key challenges facing international development projects. Nearly 40% of the world\u2019s population relies on open fires and rudimentary cooking devices exacerbating health outcomes, deforestation, and climatic impacts of inefficient biomass burning. Clean technology alternatives such as clean cookstoves are among the most challenging technologies to approach their target goals through sustainable adoption due to lack of systematic market-driven design for adoption. Thus, a method is needed to provide insight regarding how target customers evaluate and perceive causes for adopting a clean technology. The holistic approach of this study captures the three main aspects of technology adoption through lenses of social networks, individual and society scale beliefs, and rational decision-making behavior. Based on data collected in the Apac region in Northern Uganda, an Agent-Based Model is developed to simulate emerging adoption behavior in a community. Then, four different scenarios investigate how adoption patterns change due to potential changes in technology or intervention strategy. These scenarios include influence of stove malfunctions, price elasticity, information campaigns, and strength of social network. Results suggest that higher adoption rates are achievable if designed technologies are more durable, information campaigns provide realistic expectations for users, policy makers and education programs work toward women\u2019s empowerment, and communal social ties are recognized for influence maximization. Application of this study provides insight for technology designers, project implementers, and policy makers to update their practices for achieving sustainable and to the scale clean technology adoption rates.",
+        "date": "2019/11/25",
+        "conferenceName": "ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference",
+        "publisher": "American Society of Mechanical Engineers Digital Collection",
+        "language": "en",
+        "libraryCatalog": "asmedigitalcollection.asme.org",
+        "accessDate": "2023-10-11T14:59:55Z"
+    },
+    {
+        "key": "GIHGMVQH",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Dino",
+                "lastName": "Carpentras",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Adrian",
+                "lastName": "Lueders",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul J.",
+                "lastName": "Maher",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Caoimhe",
+                "lastName": "O'Reilly",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Quayle",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "How Polarization Extends to New Topics: An Agent-Based Model Derived from Experimental Data",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2023",
+        "volume": "26",
+        "issue": "3",
+        "pages": "2",
+        "shortTitle": "How Polarization Extends to New Topics"
+    },
+    {
+        "key": "P8S7INIB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Danhui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jia",
+                "lastName": "Yang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jin",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ning",
+                "lastName": "Zhao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Wensheng",
+                "lastName": "Ju",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Moning",
+                "lastName": "Guo",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Differentiated medical service prices",
+                "type": 1
+            },
+            {
+                "tag": "Simulation model",
+                "type": 1
+            },
+            {
+                "tag": "Behavior of seeking medical services",
+                "type": 1
+            },
+            {
+                "tag": "Simulation experiment",
+                "type": 1
+            }
+        ],
+        "date": "2023-08-30",
+        "title": "Agent-Based Modeling and Simulation (ABMS)on the influence of adjusting medical service fees on patients' choice of medical treatment",
+        "pages": "928",
+        "abstractNote": "We explored the impact of medical service fee adjustments on the choice of medical treatment for hypertensive patients in Beijing. We hope to provide decision-making reference to promote the realization of hierarchical diagnosis and treatment in Beijing.",
+        "ISSN": "1472-6963",
+        "url": "https://doi.org/10.1186/s12913-023-09933-3",
+        "DOI": "10.1186/s12913-023-09933-3",
+        "journalAbbreviation": "BMC Health Services Research",
+        "volume": "23",
+        "issue": "1",
+        "publicationTitle": "BMC Health Services Research",
+        "libraryCatalog": "BioMed Central",
+        "accessDate": "2023-10-11T15:01:59Z"
+    },
+    {
+        "key": "294SKCTP",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Tatiana",
+                "lastName": "Shashkova",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Anna",
+                "lastName": "Popenko",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alexander",
+                "lastName": "Tyakht",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kirill",
+                "lastName": "Peskov",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yuri",
+                "lastName": "Kosinsky",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lev",
+                "lastName": "Bogolubsky",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrei",
+                "lastName": "Raigorodskii",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dmitry",
+                "lastName": "Ischenko",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dmitry",
+                "lastName": "Alexeev",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Vadim",
+                "lastName": "Govorun",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Antibiotics",
+                "type": 1
+            },
+            {
+                "tag": "Gut bacteria",
+                "type": 1
+            },
+            {
+                "tag": "Antibiotic resistance",
+                "type": 1
+            },
+            {
+                "tag": "Gastrointestinal tract",
+                "type": 1
+            },
+            {
+                "tag": "Toxins",
+                "type": 1
+            },
+            {
+                "tag": "Polysaccharides",
+                "type": 1
+            },
+            {
+                "tag": "Bacteria",
+                "type": 1
+            },
+            {
+                "tag": "Metabolites",
+                "type": 1
+            }
+        ],
+        "title": "Agent Based Modeling of Human Gut Microbiome Interactions and Perturbations",
+        "DOI": "10.1371/journal.pone.0148386",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148386",
+        "abstractNote": "Background Intestinal microbiota plays an important role in the human health. It is involved in the digestion and protects the host against external pathogens. Examination of the intestinal microbiome interactions is required for understanding of the community influence on host health. Studies of the microbiome can provide insight on methods of improving health, including specific clinical procedures for individual microbial community composition modification and microbiota correction by colonizing with new bacterial species or dietary changes. Methodology/Principal Findings In this work we report an agent-based model of interactions between two bacterial species and between species and the gut. The model is based on reactions describing bacterial fermentation of polysaccharides to acetate and propionate and fermentation of acetate to butyrate. Antibiotic treatment was chosen as disturbance factor and used to investigate stability of the system. System recovery after antibiotic treatment was analyzed as dependence on quantity of feedback interactions inside the community, therapy duration and amount of antibiotics. Bacterial species are known to mutate and acquire resistance to the antibiotics. The ability to mutate was considered to be a stochastic process, under this suggestion ratio of sensitive to resistant bacteria was calculated during antibiotic therapy and recovery. Conclusion/Significance The model confirms a hypothesis of feedbacks mechanisms necessity for providing functionality and stability of the system after disturbance. High fraction of bacterial community was shown to mutate during antibiotic treatment, though sensitive strains could become dominating after recovery. The recovery of sensitive strains is explained by fitness cost of the resistance. The model demonstrates not only quantitative dynamics of bacterial species, but also gives an ability to observe the emergent spatial structure and its alteration, depending on various feedback mechanisms. Visual version of the model shows that spatial structure is a key factor, which helps bacteria to survive and to adapt to changed environmental conditions.",
+        "date": "Feb 19, 2016",
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLOS ONE",
+        "volume": "11",
+        "issue": "2",
+        "pages": "e0148386",
+        "ISSN": "1932-6203",
+        "language": "en",
+        "libraryCatalog": "PLoS Journals",
+        "accessDate": "2023-10-11T15:06:00Z"
+    },
+    {
+        "key": "UZQY6D5P",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Michael P.",
+                "lastName": "Wellman",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Multiagent systems",
+                "type": 1
+            },
+            {
+                "tag": "Empirical game-theoretic analysis",
+                "type": 1
+            }
+        ],
+        "date": "2016-11-01",
+        "title": "Putting the agent in agent-based modeling",
+        "pages": "1175-1189",
+        "abstractNote": "One of the perquisites of a talk like this is that I get to expound on broad themes. AAMAS is a conference about agents and multiples of agents, so I probably ought to say something about agents. Of course, my position on agents is that I am all for them. Today I\u2019d like to make a case for actually putting agents in agent-based models. I hope that by the end of the talk you have some idea about what I mean by this.",
+        "ISSN": "1573-7454",
+        "url": "https://doi.org/10.1007/s10458-016-9336-6",
+        "DOI": "10.1007/s10458-016-9336-6",
+        "journalAbbreviation": "Auton Agent Multi-Agent Syst",
+        "volume": "30",
+        "issue": "6",
+        "publicationTitle": "Autonomous Agents and Multi-Agent Systems",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-11T15:08:02Z"
+    },
+    {
+        "key": "GDIEJCW8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Andreas Christ S\u00f8lvsten",
+                "lastName": "J\u00f8rgensen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Atiyo",
+                "lastName": "Ghosh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marc",
+                "lastName": "Sturrock",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Vahid",
+                "lastName": "Shahrezaei",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Malignant tumors",
+                "type": 1
+            },
+            {
+                "tag": "Neural networks",
+                "type": 1
+            },
+            {
+                "tag": "Cancer epidemiology",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Cancers and neoplasms",
+                "type": 1
+            },
+            {
+                "tag": "Simulation and modeling",
+                "type": 1
+            },
+            {
+                "tag": "Machine learning algorithms",
+                "type": 1
+            },
+            {
+                "tag": "Machine learning",
+                "type": 1
+            }
+        ],
+        "title": "Efficient Bayesian inference for stochastic agent-based models",
+        "DOI": "10.1371/journal.pcbi.1009508",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009508",
+        "abstractNote": "The modelling of many real-world problems relies on computationally heavy simulations of randomly interacting individuals or agents. However, the values of the parameters that underlie the interactions between agents are typically poorly known, and hence they need to be inferred from macroscopic observations of the system. Since statistical inference rests on repeated simulations to sample the parameter space, the high computational expense of these simulations can become a stumbling block. In this paper, we compare two ways to mitigate this issue in a Bayesian setting through the use of machine learning methods: One approach is to construct lightweight surrogate models to substitute the simulations used in inference. Alternatively, one might altogether circumvent the need for Bayesian sampling schemes and directly estimate the posterior distribution. We focus on stochastic simulations that track autonomous agents and present two case studies: tumour growths and the spread of infectious diseases. We demonstrate that good accuracy in inference can be achieved with a relatively small number of simulations, making our machine learning approaches orders of magnitude faster than classical simulation-based methods that rely on sampling the parameter space. However, we find that while some methods generally produce more robust results than others, no algorithm offers a one-size-fits-all solution when attempting to infer model parameters from observations. Instead, one must choose the inference technique with the specific real-world application in mind. The stochastic nature of the considered real-world phenomena poses an additional challenge that can become insurmountable for some approaches. Overall, we find machine learning approaches that create direct inference machines to be promising for real-world applications. We present our findings as general guidelines for modelling practitioners.",
+        "date": "Oct 5, 2022",
+        "publicationTitle": "PLOS Computational Biology",
+        "journalAbbreviation": "PLOS Computational Biology",
+        "volume": "18",
+        "issue": "10",
+        "pages": "e1009508",
+        "ISSN": "1553-7358",
+        "language": "en",
+        "libraryCatalog": "PLoS Journals",
+        "accessDate": "2023-10-11T15:10:04Z"
     }
 ]
