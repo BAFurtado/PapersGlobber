@@ -10,7 +10,7 @@ time.sleep(20)
 def run_list_translators():
     f = 'tweets.csv'
     g = 'new_tweets.csv'
-    data = check_data_before_loading(f, g)
+    data, new = check_data_before_loading(f, g)
     data = data.address.to_list()
     file_address = 'results.json'
     try:
@@ -48,13 +48,16 @@ def run_list_translators():
         if i % 10 == 0:
             with open(file_address, 'w') as json_file:
                 json.dump(results, json_file, indent=4)
+    print('Overwriting new tweets into tweets.csv')
+    new.to_csv('tweets.csv', index=False)
 
 
 def check_data_before_loading(old, new):
     old = pd.read_csv(old, names=['id', 'address'])
     new = pd.read_csv(new, names=['id', 'address'])
     unique_df = new[~new['address'].isin(old['address'])]
-    return unique_df
+    print(f'Checking {len(unique_df)} new papers...')
+    return unique_df, new
 
 
 if __name__ == '__main__':

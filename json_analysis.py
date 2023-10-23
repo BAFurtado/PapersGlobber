@@ -171,11 +171,11 @@ def main(file_address):
 if __name__ == '__main__':
     f = 'results_no_duplicates.json'
     k, j, abst, aut, aut_net, g, t = main(f)
-    # plot_graph(g)
-    # word_cloud(k)
-    # word_cloud(t, 'title_image')
-    # policy_papers = words_in_(t, 'polic')
-    # oil = words_in_(t, 'oil')
+    plot_graph(g)
+    word_cloud(k)
+    word_cloud(t, 'title_image')
+    policy_papers = words_in_(t, 'polic')
+    oil = words_in_(t, 'oil')
 
     with open('authors_graph', 'wb') as handler:
         pickle.dump(g, handler)

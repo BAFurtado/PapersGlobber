@@ -63802,5 +63802,561 @@
         "language": "en",
         "libraryCatalog": "PLoS Journals",
         "accessDate": "2023-10-11T15:10:04Z"
+    },
+    {
+        "key": "T45A3NDC",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Joshua M.",
+                "lastName": "Uebelherr",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David M.",
+                "lastName": "Hondula",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Erik W.",
+                "lastName": "Johnston",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "complexity governance",
+                "type": 1
+            },
+            {
+                "tag": "heat mortality risk",
+                "type": 1
+            },
+            {
+                "tag": "participatory modeling",
+                "type": 1
+            },
+            {
+                "tag": "public health",
+                "type": 1
+            },
+            {
+                "tag": "agent based modeling",
+                "type": 1
+            }
+        ],
+        "title": "Innovative participatory agent based modeling using a complexity governance perspective",
+        "proceedingsTitle": "Proceedings of the 16th Annual International Conference on Digital Government Research",
+        "series": "dg.o '15",
+        "publisher": "Association for Computing Machinery",
+        "place": "Phoenix, Arizona",
+        "pages": "307\u2013308",
+        "abstractNote": "Increasing extreme heat mortality and morbidity is anticipated to increase with climate change and urbanization over the next century. The southwest U.S. in particular shows regional climate forecasts with hotter and drier conditions. There is notable heat related mortality and morbidity each year in the greater Phoenix, Arizona area of Maricopa County. This is despite efforts of many public and nonprofit organizations to minimize health risks associated with the region's persistent high temperatures. Access to air conditioned space has been shown to reduce heat related mortality risk. Cooling centers were established in during 2006 in the Phoenix area through the Heat Relief Network (HRN) as an intervention. The HRN is a group of voluntary public and nonprofit community organizations operating in partnership with the Maricopa Association of Governments as well as County and State public health agencies. Participatory modeling was used to engage the heat relief community in greater Phoenix using a Netlogo prototype agent based model of the 2013 HRN cooling centers. Such an approach affords new ways of incorporating local expertise experienced in the field as a means of translating evidence into practice and allows exploration cooling center network dynamics from a complexity governance perspective. Important lessons learned were often related to increased systemic awareness of opportunities to increase coordination through the heat relief network. For example leveraging self-organization through communication may help more evenly distribute limited resources, such as water bottle donations. Such lessons may provide insight to future challenges for cities around the world as extreme temperatures become more frequent and intense due to climate change and urbanization.",
+        "url": "https://doi.org/10.1145/2757401.2757447",
+        "DOI": "10.1145/2757401.2757447",
+        "ISBN": "9781450336000",
+        "date": "May 27, 2015",
+        "accessDate": "2023-10-23",
+        "libraryCatalog": "ACM Digital Library"
+    },
+    {
+        "key": "KLRASLAM",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877705816319701/pdf?md5=2540aff38a3d986d57b94aac4e802148&pid=1-s2.0-S1877705816319701-main.pdf&_valck=1",
+        "title": "",
+        "accessDate": "2023-10-23T12:10:32Z"
+    },
+    {
+        "key": "2E3ZAXG8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Emilio",
+                "lastName": "Sulis",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Pietro",
+                "lastName": "Terna",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Healthcare support system",
+                "type": 1
+            },
+            {
+                "tag": "Vaccination campaign",
+                "type": 1
+            }
+        ],
+        "date": "2021-09-28",
+        "title": "An Agent-based Decision Support for a Vaccination Campaign",
+        "pages": "97",
+        "abstractNote": "We explore the Covid-19 diffusion with an agent-based model of an Italian region with a population on a scale of 1:1000. We also simulate different vaccination strategies. From a decision support system perspective, we investigate the adoption of artificial intelligence techniques to provide suggestions about more effective policies. We adopt the widely used multi-agent programmable modeling environment NetLogo, adding genetic algorithms to evolve the best vaccination criteria. The results suggest a promising methodology for defining vaccine rates by population types over time. The results are encouraging towards a more extensive application of agent-oriented methods in public healthcare policies.",
+        "ISSN": "1573-689X",
+        "url": "https://doi.org/10.1007/s10916-021-01772-1",
+        "DOI": "10.1007/s10916-021-01772-1",
+        "journalAbbreviation": "J Med Syst",
+        "volume": "45",
+        "issue": "11",
+        "publicationTitle": "Journal of Medical Systems",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-23T12:12:37Z"
+    },
+    {
+        "key": "5L6QUT5T",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Amit",
+                "lastName": "Patel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Crooks",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Naoru",
+                "lastName": "Koizumi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jean-Claude",
+                "lastName": "Thill",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Suzana",
+                "lastName": "Dragicevic",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Slums",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "India",
+                "type": 1
+            },
+            {
+                "tag": "Geosimulation",
+                "type": 1
+            }
+        ],
+        "date": "2018",
+        "title": "Spatial Agent-based Modeling to Explore Slum Formation Dynamics in Ahmedabad, India",
+        "pages": "121-141",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "More than 900 million people or one third of the world\u2019s urban population lives in either slum or squatter settlements. Urbanization rates in developing countries are often so rapid that formal housing development cannot meet the demand. In the past decades, international, national and local development communities have taken several policy actions in an attempt to improve the living conditions of people within slums or to eradicate them completely. However, such policies have largely failed and slum-free cities have remained a distant goal for many developing countries. This chapter argues that for informed policymaking, it is important to investigate questions related to slum formation such as: (1) How do slums form and expand? (2) Where and when are they formed? (3) What types of structural changes and/or policy interventions could improve housing conditions for the urban poor? In order to address these questions, this chapter develops a geosimulation model that is capable of exploring the spatio-temporal dynamics of slum formation and simulating future formation and expansion of slums within cities of the developing world. Our geosimulation model integrates agent-based modeling (ABM) and Geographic Information System (GIS), methods that are often applied separately to explore slums. In our model, ABM simulates human behavior and GIS provides a spatial environment for the housing market. GIS is also used to analyze empirical data using spatial analyses techniques, which is in turn used to validate the model outputs. The core of this framework is a linked dynamic model operating at both micro and macro geographic and demographic scales. The model explores the collective effect of many interacting inhabitants of slums as well as non-slum actors (e.g. local government) and how their interactions within the spatial environment of the city generate the emergent structure of slums at the macro scale. We argue that when empirical data is absent, geosimulation provides useful insights to study implications of various policies. The goal of this framework is to develop a decision support tool that could allow urban planners and policymakers to experiment with new policy ideas ex-ante in a simulated environment. We calibrate and validate the model using data from Ahmedabad, the sixth largest city of India, where 41% of its population lives in slums. This is one of the first attempts to develop an integrated and multi-scalar analytical framework to tackle slum issues in the developing world at multiple spatial scales.",
+        "ISBN": "9783319595115",
+        "url": "https://doi.org/10.1007/978-3-319-59511-5_8",
+        "extra": "DOI: 10.1007/978-3-319-59511-5_8",
+        "bookTitle": "GeoComputational Analysis and Modeling of Regional Systems",
+        "place": "Cham",
+        "language": "en",
+        "series": "Advances in Geographic Information Science",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-23T12:16:41Z"
+    },
+    {
+        "key": "P8TIU8KC",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877705816319701/pdf?md5=2540aff38a3d986d57b94aac4e802148&pid=1-s2.0-S1877705816319701-main.pdf&_valck=1",
+        "title": "",
+        "accessDate": "2023-10-23T12:18:42Z"
+    },
+    {
+        "key": "C4BPDVGF",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Chris",
+                "lastName": "Silvia",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rachel M.",
+                "lastName": "Krause",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Public policy",
+                "type": 1
+            },
+            {
+                "tag": "Plug-in electric vehicles",
+                "type": 1
+            },
+            {
+                "tag": "Technology adoption",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            }
+        ],
+        "pages": "105-118",
+        "date": "2016-09-01",
+        "ISSN": "0301-4215",
+        "DOI": "10.1016/j.enpol.2016.05.039",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0301421516302695",
+        "abstractNote": "Heightened concern regarding climate change and energy independence has increased interest in plug-in electric vehicles as one means to address these challenges and governments at all levels have considered policy interventions to encourage their adoption. This paper develops an agent-based model that simulates the introduction of four policy scenarios aimed at promoting electric vehicle adoption in an urban community and compares them against a baseline. These scenarios include reducing vehicle purchase price via subsidies, expanding the local public charging network, increasing the number and visibility of fully battery electric vehicles (BEVs) on the roadway through government fleet purchases, and a hybrid mix of these three approaches. The results point to the effectiveness of policy options that increased awareness of BEV technology. Specifically, the hybrid policy alternative was the most successful in encouraging BEV adoption. This policy increases the visibility and familiarity of BEV technology in the community and may help counter the idea that BEVs are not a viable alternative to gasoline-powered vehicles.",
+        "title": "Assessing the impact of policy interventions on the adoption of plug-in electric vehicles: An agent-based model",
+        "journalAbbreviation": "Energy Policy",
+        "volume": "96",
+        "publicationTitle": "Energy Policy",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-23T12:18:44Z",
+        "shortTitle": "Assessing the impact of policy interventions on the adoption of plug-in electric vehicles"
+    },
+    {
+        "key": "NIMQG98T",
+        "version": 0,
+        "itemType": "report",
+        "creators": [
+            {
+                "firstName": "Tony",
+                "lastName": "Blakely",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jason",
+                "lastName": "Thompson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Laxman",
+                "lastName": "Bablani",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Andersen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Driss Ait",
+                "lastName": "Ouakrim",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Natalie",
+                "lastName": "Carvalho",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Abraham",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marie-Anne",
+                "lastName": "Boujaoude",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ameera",
+                "lastName": "Katar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Edifofon",
+                "lastName": "Akpan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nick",
+                "lastName": "Wilson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mark",
+                "lastName": "Stevenson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Determining the optimal COVID-19 policy response using agent-based modelling linked to health and cost modelling: Case study for Victoria, Australia",
+        "rights": "\u00a9 2021, Posted by Cold Spring Harbor Laboratory. The copyright holder for this pre-print is the author. All rights reserved. The material may not be redistributed, re-used or adapted without the author's permission.",
+        "institution": "medRxiv",
+        "date": "2021-03-10",
+        "abstractNote": "Importance Determining the best policy on social restrictions and lockdowns for the COVID-19 pandemic is challenging.\nObjective To determine the optimal policy response ranging from aggressive and moderate elimination, tight suppression (aiming for 1 to 5 cases per million per day) and loose suppression (5 to 25 cases per million per day).\nDesign Two simulation models in series: an agent-based model to estimate daily SARS-CoV-2 infection rates and time in four stages of social restrictions; a proportional multistate lifetable model to estimate long-run health impacts (health adjusted life years (HALYs) arising from SARS-CoV-2) and costs (health systems, and health system plus GDP).The net monetary benefit (NMB) of each policy option at varying willingness to pay (WTP) per HALY was calculated: NMB = HALYs \u00d7 WTP \u2013 cost. The optimal policy response was that with the highest NMB.\nSetting and participants The State of Victoria, Australia, using simulation modeling of all residents.\nMain Outcome and Measures SARS-CoV-2 infection rates, time under various stages of restrictions, HALYs, health expenditure and GDP losses.\nResults Aggressive elimination resulted in the highest percentage of days with the lowest level of restrictions (median 31.7%, 90% simulation interval 6.6% to 64.4%). However, days in hard lockdown were similar across all four strategies (medians 27.5% to 36.1%).HALY losses (compared to a no-COVID-19 scenario) were similar for aggressive elimination (286, 219 to 389) and moderate elimination (314, 228 to 413), and nearly eight and 40-times higher for tight and loose suppression. The median GDP loss was least for moderate elimination ($US41.7 billion, $29.0 to $63.6 billion), but there was substantial overlap in simulation intervals between the four strategies.From a health system perspective aggressive elimination was optimal in 64% of simulations above a willingness to pay of $15,000 per HALY, followed by moderate elimination in 35% of simulations.Moderate elimination was optimal from a partial societal perspective in half the simulations followed by aggressive elimination in a quarter.Shortening the pandemic duration to 6 months saw loose suppression become preferable under a partial societal perspective.\nConclusions and Relevance Elimination strategies were preferable over a 1-year pandemic duration.\nFunding Anonymous philanthropic donation to the University of Melbourne.\nQuestion To determine the optimal of four policy responses to COVID-19 in the State of Victoria, Australia (aggressive and moderate elimination, tight suppression (aiming for 1 to 5 cases per million per day) and loose suppression (5 to 25 cases per million per day), based on estimated future health loss and costs from both a health system and partial societal perspective.Findings From a health system perspective aggressive elimination was optimal in 64% of simulations above a willingness to pay of $15,000 per HALY, followed by moderate elimination in 35% of simulations. Moderate elimination was optimal from a partial societal perspective (i.e., including GDP losses) in half the simulations followed by aggressive elimination in a quarter.Meaning Whilst there is considerable uncertainty in outcomes for all the four policy options, the two elimination options are usually optimal from both a health system and a partial societal (health expenditure plus GDP cost) perspective.",
+        "language": "en",
+        "url": "https://www.medrxiv.org/content/10.1101/2021.01.11.21249630v2",
+        "pages": "2021.01.11.21249630",
+        "libraryCatalog": "medRxiv",
+        "accessDate": "2023-10-23T12:20:47Z",
+        "extra": "Type: article",
+        "shortTitle": "Determining the optimal COVID-19 policy response using agent-based modelling linked to health and cost modelling"
+    },
+    {
+        "key": "YBZEKA73",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "David",
+                "lastName": "Stieler",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tobias",
+                "lastName": "Schwinn",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Leder",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mathias",
+                "lastName": "Maierhofer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Fabian",
+                "lastName": "Kannenberg",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Achim",
+                "lastName": "Menges",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling and simulation",
+                "type": 1
+            },
+            {
+                "tag": "ABMS",
+                "type": 1
+            },
+            {
+                "tag": "Architecture",
+                "type": 1
+            },
+            {
+                "tag": "Review",
+                "type": 1
+            },
+            {
+                "tag": "Classification",
+                "type": 1
+            },
+            {
+                "tag": "Complex systems",
+                "type": 1
+            },
+            {
+                "tag": "Multi-agent systems",
+                "type": 1
+            },
+            {
+                "tag": "MAS",
+                "type": 1
+            },
+            {
+                "tag": "Construction",
+                "type": 1
+            },
+            {
+                "tag": "Design",
+                "type": 1
+            }
+        ],
+        "pages": "104426",
+        "date": "2022-09-01",
+        "ISSN": "0926-5805",
+        "DOI": "10.1016/j.autcon.2022.104426",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0926580522002990",
+        "abstractNote": "Over the last two decades, the use of agent-based models (ABMs) to model and simulate the dynamics of complex systems has increased significantly among various scientific fields, including architecture. Based on a systematic literature review, this paper presents a classification for agent-based modeling and simulation (ABMS) in architecture based on the individual entities being modeled as agents. The classification is based on a reproducible search method capable of incorporating findings from different domain-specific databases to systematically retrieve relevant literature for ABMS in architecture. Subsequently, in each of the ABMs encountered in the selected literature, we identify what entity an agent in the model represents. Based on this identification, a comprehensive classification for ABMs in architecture is achieved. By describing each of the resulting categories, we provide new insights into the field of ABMS in architecture. Finally, we discuss limitations, as well as future trends and possibilities for ABMS in architecture.",
+        "title": "Agent-based modeling and simulation in architecture",
+        "journalAbbreviation": "Automation in Construction",
+        "volume": "141",
+        "publicationTitle": "Automation in Construction",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-23T12:20:50Z"
+    },
+    {
+        "key": "RFLDYSAE",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Alvaro",
+                "lastName": "Castillo-Carniglia",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Veronica A",
+                "lastName": "Pear",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Melissa",
+                "lastName": "Tracy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Katherine M",
+                "lastName": "Keyes",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Magdalena",
+                "lastName": "Cerd\u00e1",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "DOI": "10.1093/aje/kwy289",
+        "pages": "694-702",
+        "ISSN": "0002-9262",
+        "abstractNote": "Increasing alcohol outlet density is well-documented to be associated with increased alcohol use and problems, leading to the policy recommendation that limiting outlet density will decrease alcohol problems. Yet few studies of decreasing problematic outlets and outlet density have been conducted. We estimated the association between closing alcohol outlets and alcohol use and alcohol-related violence, using an agent-based model of the adult population in New York City. The model was calibrated according to the empirical distribution of the parameters across the city\u2019s population, including the density of on- and off-premise alcohol outlets. Interventions capped the alcohol outlet distribution at the 90th to the 50th percentiles of the New York City density, and closed 5% to 25% of outlets with the highest levels of violence. Capping density led to a lower population of light drinkers (42.2% at baseline vs. 38.1% at the 50th percentile), while heavy drinking increased slightly (12.0% at baseline vs. 12.5% at the 50th percentile). Alcohol-related homicides and nonfatal violence remained unchanged. Closing the most violent outlets was not associated with changes in alcohol use or related problems. Results suggest that focusing solely on closing alcohol outlets might not be an effective strategy to reduce alcohol-related problems.",
+        "url": "https://doi.org/10.1093/aje/kwy289",
+        "title": "Limiting Alcohol Outlet Density to Prevent Alcohol Use and Violence: Estimating Policy Interventions Through Agent-Based Modeling",
+        "date": "2019-04-01",
+        "journalAbbreviation": "American Journal of Epidemiology",
+        "volume": "188",
+        "issue": "4",
+        "publicationTitle": "American Journal of Epidemiology",
+        "libraryCatalog": "Silverchair",
+        "accessDate": "2023-10-23T12:22:55Z",
+        "shortTitle": "Limiting Alcohol Outlet Density to Prevent Alcohol Use and Violence"
+    },
+    {
+        "key": "7QMZT8K2",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S2212420922004344",
+        "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "accessDate": "2023-10-23T12:32:56Z"
+    },
+    {
+        "key": "ARBXSSUQ",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Shah Jamal",
+                "lastName": "Alam",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Bruce",
+                "lastName": "Edmonds",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ruth",
+                "lastName": "Meyer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Aditya",
+                "lastName": "Ghose",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Guido",
+                "lastName": "Governatori",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Ramakoti",
+                "lastName": "Sadananda",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "agent-based simulation",
+                "type": 1
+            },
+            {
+                "tag": "network analysis",
+                "type": 1
+            },
+            {
+                "tag": "Kolmogorov-Smirnov statistic",
+                "type": 1
+            }
+        ],
+        "date": "2009",
+        "title": "Identifying Structural Changes in Networks Generated from Agent-Based Social Simulation Models",
+        "pages": "298-307",
+        "publisher": "Springer",
+        "abstractNote": "Finding suitable analysis techniques for networks generated from social processes is a difficult task when the population changes over time. Traditional social network analysis measures may not work in such circumstances. It is argued that agent-based social networks should not be constrained by apriori assumptions about the evolved network and/or the analysis techniques. In most agent-based social simulation models, the number of agents remains fixed throughout the simulation; this paper considers the case when this does not hold. Thus the aim of this paper is to demonstrate how the network signatures change when the agents\u2019 population depends upon endogenous social processes. We argue for a much wider attention from the social simulation community in addressing this open research problem.",
+        "ISBN": "9783642016394",
+        "place": "Berlin, Heidelberg",
+        "proceedingsTitle": "Agent Computing and Multi-Agent Systems",
+        "DOI": "10.1007/978-3-642-01639-4_26",
+        "language": "en",
+        "series": "Lecture Notes in Computer Science",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "HK565BLC",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Syaribah N.",
+                "lastName": "Brice",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul R.",
+                "lastName": "Harper",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Gartner",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Doris A.",
+                "lastName": "Behrens",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Modeling disease progression and treatment pathways for depression jointly using agent based modeling and system dynamics",
+        "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2022.1011104",
+        "ISSN": "2296-2565",
+        "volume": "10",
+        "abstractNote": "IntroductionDepression is a common mental health condition that affects millions of people worldwide. Care pathways for depression are complex and the demand across different parts of the healthcare system is often uncertain and not entirely understood. Clinical progression with depression can be equally complex and relates to whether or not a patient is seeking care, the care pathway they are on, and the ability for timely access to healthcare services. Considering both pathways and progression for depression are however rarely studied together in the literature.MethodsThis paper presents a hybrid simulation modeling framework that is uniquely able to capture both disease progression, using Agent Based Modeling, and related care pathways, using a System Dynamics. The two simulation paradigms within the framework are connected to run synchronously to investigate the impact of depression progression on healthcare services and, conversely, how any limitations in access to services may impact clinical progression. The use of the developed framework is illustrated by parametrising it with published clinical data and local service level data from Wales, UK.Results and discussionThe framework is able to quantify demand, service capacities and costs across all care pathways for a range of different scenarios. These include those for varying service coverage and provision, such as the cost-effectiveness of treating patients more quickly in community settings to reduce patient progression to more severe states of depression, and thus reducing the costs and utilization of more expensive specialist settings.",
+        "date": "2023",
+        "publicationTitle": "Frontiers in Public Health",
+        "libraryCatalog": "Frontiers",
+        "accessDate": "2023-10-23T12:37:02Z"
     }
 ]

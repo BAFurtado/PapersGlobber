@@ -15,5 +15,11 @@
 2. Provide a list of URLs of interest. In our case: `tweets.csv`
 3. Run `run_translator.sh`
    1. You will turn on the server, run the queries to the server, and kill the server
+4. Then run: `sanity_checks.py`
+5. Then run: `json_analysis.py`
+6. And finally, 'making_interactive_graph_plot.py`
 
-#### TODOs: we might want to check zotero-translators export capabilities
+
+TODO: Check names with single initial and collapse them together
+
+TODO: we might want to check zotero-translators export capabilities
