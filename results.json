@@ -64358,5 +64358,565 @@
         "publicationTitle": "Frontiers in Public Health",
         "libraryCatalog": "Frontiers",
         "accessDate": "2023-10-23T12:37:02Z"
+    },
+    {
+        "key": "YQIJLESD",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Catherine",
+                "lastName": "Dibble",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "L.",
+                "lastName": "Tesfatsion",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "K. L.",
+                "lastName": "Judd",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "agent-based simulation",
+                "type": 1
+            },
+            {
+                "tag": "computational laboratory",
+                "type": 1
+            },
+            {
+                "tag": "computational social science",
+                "type": 1
+            },
+            {
+                "tag": "computational economics",
+                "type": 1
+            },
+            {
+                "tag": "spatial economics",
+                "type": 1
+            },
+            {
+                "tag": "spatial social science",
+                "type": 1
+            },
+            {
+                "tag": "spatial networks",
+                "type": 1
+            },
+            {
+                "tag": "small-world networks",
+                "type": 1
+            },
+            {
+                "tag": "scale-free networks",
+                "type": 1
+            },
+            {
+                "tag": "synthetic landscape",
+                "type": 1
+            },
+            {
+                "tag": "inference",
+                "type": 1
+            }
+        ],
+        "publisher": "Elsevier",
+        "pages": "1511-1548",
+        "date": "2006-01-01",
+        "extra": "DOI: 10.1016/S1574-0021(05)02031-9",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1574002105020319",
+        "abstractNote": "An agent-based model is a virtual world comprising distributed heterogeneous agents who interact over time. In a spatial agent-based model the agents are situated in a spatial environment and are typically assumed to be able to move in various ways across this environment. Some kinds of social or organizational systems may also be modeled as spatial environments, where agents move from one group or department to another and where communications or mobility among groups may be structured according to implicit or explicit channels or transactions costs. This chapter focuses on the potential usefulness of computational laboratories for spatial agent-based modeling. Speaking broadly, a computational laboratory is any computational framework permitting the exploration of the behaviors of complex systems through systematic and replicable simulation experiments. By that definition, most of the research discussed in this handbook would be considered to be work with computational laboratories. A narrower definition of computational laboratory (or comp lab for short) refers specifically to specialized software tools to support the full range of agent-based modeling and complementary tasks. These tasks include model development, model evaluation through controlled experimentation, and both the descriptive and normative analysis of model outcomes. The objective of this chapter is to explore how comp lab tools and activities facilitate the systematic exploration of spatial agent-based models embodying complex social processes critical for social welfare. Examples include the spatial and temporal coordination of human activities, the diffusion of new ideas or of infectious diseases, and the emergence and ecological dynamics of innovative ideas or of deadly new diseases.",
+        "title": "Chapter 31 Computational Laboratories for Spatial Agent-Based Models",
+        "bookTitle": "Handbook of Computational Economics",
+        "volume": "2",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-30T18:57:06Z"
+    },
+    {
+        "key": "YBSFK448",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Yakup",
+                "lastName": "Turgut",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Cafer Erhan",
+                "lastName": "Bozdag",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Machine learning",
+                "type": 1
+            },
+            {
+                "tag": "Supervised learning",
+                "type": 1
+            }
+        ],
+        "pages": "102707",
+        "date": "2023-02-01",
+        "ISSN": "1569-190X",
+        "DOI": "10.1016/j.simpat.2022.102707",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1569190X22001769",
+        "abstractNote": "Agent-based modeling (ABM) has been widely employed by researchers in various domains. Developing valid and useful agent-based models (ABMs) imposes challenges on the modelers. Using machine learning (ML) techniques in ABMs may facilitate the development of these models and improve their performance. This paper provides a detailed overview of the relationship between ML and ABM approaches. The benefits and drawbacks of data-driven ABMs are evaluated. A main scheme for utilizing ML techniques in ABMs is provided and explored through references to the relevant studies. As part of the primary scheme, a framework for modeling agent behaviors in ABMs utilizing ML approaches is proposed. In the framework, theoretical support is also combined with ML approaches in order to increase the accuracy of agent behavior generated by ML approaches. Using the suggested framework, a real-world case study is performed to investigate the application of ML techniques to improve the accuracy of ABMs and facilitate their creation. The findings indicate that ML approaches may facilitate the construction of ABMs.",
+        "title": "A framework proposal for machine learning-driven agent-based models through a case study analysis",
+        "journalAbbreviation": "Simulation Modelling Practice and Theory",
+        "volume": "123",
+        "publicationTitle": "Simulation Modelling Practice and Theory",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-30T19:03:09Z"
+    },
+    {
+        "key": "4WA5MKKZ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Patrick",
+                "lastName": "Bitterman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christopher J",
+                "lastName": "Koliba",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "DOI": "10.1093/jopart/muaa013",
+        "pages": "636-655",
+        "ISSN": "1053-1858",
+        "abstractNote": "With the widespread use of collaborative governance mechanisms for mitigating water pollution, an opportunity exists to test alternative institutional designs based on collaborative governance theory using computer simulation models, particularly when there is a clear relationship between governance networks, observable resource allocation decisions, and measurable outcomes. This is especially the case for wicked problems like nonpoint source water pollution where there are compelling questions regarding how best to design policies, allocate funds, and build administrative capacity to meet water quality standards. We present an agent-based model (ABM) of water governance for the Lake Champlain Basin to simulate the impacts of alternative collaborative governance arrangements on the development of suites of water quality projects. The ABM is connected or coupled with land use and phosphorus load accumulation models that are informed by existing hydrologic models, project datasets, and state-set load reduction targets. We find that regionally arranged collaborative governance in water quality project planning and implementation can lead to better water quality outcomes, thereby affirming one of the central premises of collaborative governance regime theory. We also find that externally mandated collaboration, as opposed to voluntary, self-initiated collaboration, can lead to better water quality outcomes, adding to our understanding of which type of collaborative governance arrangement is best suited to the specific contexts of this case. Further, without adequate administrative capacity in the form of human resources located in central network actors to manage project funds, \u201cadministrative bottlenecks\u201d may form and money can go unspent. This research demonstrates the efficacy of using simulations of alternative institutional design for theory testing and tuning, and policy prototyping.",
+        "url": "https://doi.org/10.1093/jopart/muaa013",
+        "title": "Modeling Alternative Collaborative Governance Network Designs: An Agent-Based Model of Water Governance in the Lake Champlain Basin, Vermont",
+        "date": "2020-09-23",
+        "journalAbbreviation": "Journal of Public Administration Research and Theory",
+        "volume": "30",
+        "issue": "4",
+        "publicationTitle": "Journal of Public Administration Research and Theory",
+        "libraryCatalog": "Silverchair",
+        "accessDate": "2023-10-30T19:07:15Z",
+        "shortTitle": "Modeling Alternative Collaborative Governance Network Designs"
+    },
+    {
+        "key": "XYUYNDJ3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Alma",
+                "lastName": "Rodr\u00edguez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Erik",
+                "lastName": "Cuevas",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Zaldivar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Bernardo",
+                "lastName": "Morales-Casta\u00f1eda",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ram",
+                "lastName": "Sarkar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Essam H.",
+                "lastName": "Houssein",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Comput Biol Med",
+        "publicationTitle": "Computers in Biology and Medicine",
+        "ISSN": "0010-4825",
+        "abstractNote": "The global pandemic caused by the coronavirus (COVID-19) disease has collapsed the worldwide economy. Elements such as non-obligatory vaccination, new strain variants and lack of discipline to follow social distancing measures suggest the possibility that COVID-19 may continue to exist, exhibiting the behavior of a seasonal disease. As the socio-economic crisis has become unsustainable, all countries are planning strategies to gradually restart their economic and social activities. Initially, several containment measures have been adopted involving social distancing, infection detection tests, and ventilation systems. Despite the implementation of such policies, there exists a lack of evaluation of their performance to reduce the contagion index. This means there are no appropriate indicators to decide which intervention or set of interventions present the most effective result. Under these conditions, the development of models that provide useful information in the design and evaluation of containment measures and re-opening policies is of prime concern. In this paper, a novel approach to model the transmission process of COVID-19 in closed environments is proposed. The proposed model can simulate the effects that result from the complex interaction among individuals when they follow a particular containment measure or re-opening policy. With the proposed model, different hypothetical re-opening policies, that are otherwise impossible to analyze in real conditions, can be tested. Computer experiments demonstrate that the proposed model provides suitable information and realistic predictions, which are appropriate for designing strategies that allow a safe return to economic activities.",
+        "DOI": "10.1016/j.compbiomed.2022.105847",
+        "extra": "PMID: 35932728\nPMCID: PMC9293792",
+        "title": "An agent-based transmission model of COVID-19 for re-opening policy design",
+        "volume": "148",
+        "pages": "105847",
+        "date": "2022-9",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9293792/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-10-30T19:09:20Z"
+    },
+    {
+        "key": "KEZJUZ7X",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ryan",
+                "lastName": "Neighbour",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Luis",
+                "lastName": "Oppenheimer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Shamir N.",
+                "lastName": "Mukhi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marcia R.",
+                "lastName": "Friesen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Robert D.",
+                "lastName": "McLeod",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Online J Public Health Inform",
+        "publicationTitle": "Online Journal of Public Health Informatics",
+        "ISSN": "1947-2579",
+        "abstractNote": "This work extends ongoing development of a framework for modeling the spread of contact-transmission infectious diseases. The framework is built upon Agent Based Modeling (ABM), with emphasis on urban scale modelling integrated with institutional models of hospital emergency departments. The method presented here includes ABM modeling an outbreak of influenza-like illness (ILI) with concomitant surges at hospital emergency departments, and illustrates the preliminary modeling of \u2018crowdinforming\u2019 as an intervention. \u2018Crowdinforming\u2019, a component of \u2018crowdsourcing\u2019, is characterized as the dissemination of collected and processed information back to the \u2018crowd\u2019 via public access. The objective of the simulation is to allow for effective policy evaluation to better inform the public of expected wait times as part of their decision making process in attending an emergency department or clinic. In effect, this is a means of providing additional decision support garnered from a simulation, prior to real world implementation. The conjecture is that more optimal service delivery can be achieved under balanced patient loads, compared to situations where some emergency departments are overextended while others are underutilized. Load balancing optimization is a common notion in many operations, and the simulation illustrates that \u2018crowdinforming\u2019 is a potential tool when used as a process control parameter to balance the load at emergency departments as well as serving as an effective means to direct patients during an ILI outbreak with temporary clinics deployed. The information provided in the \u2018crowdinforming\u2019 model is readily available in a local context, although it requires thoughtful consideration in its interpretation. The extension to a wider dissemination of information via a web service is readily achievable and presents no technical obstacles, although political obstacles may be present. The \u2018crowdinforming\u2019 simulation is not limited to arrivals of patients at emergency departments due to ILI; it applies equally to any scenarios where patients arrive in any arrival pattern that may cause disparity in the waiting times at multiple facilities.",
+        "DOI": "10.5210/ojphi.v2i3.3225",
+        "extra": "PMID: 23569589\nPMCID: PMC3615766",
+        "title": "Agent Based Modeling of \u201cCrowdinforming\u201d as a Means of Load Balancing at Emergency Departments",
+        "volume": "2",
+        "issue": "3",
+        "pages": "ojphi.v2i3.3225",
+        "date": "2010-12-23",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3615766/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-10-30T19:11:22Z"
+    },
+    {
+        "key": "PL6NDQBT",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Gamaliel A.",
+                "lastName": "Palomo-Briones",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mario",
+                "lastName": "Siller",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Arnaud",
+                "lastName": "Grignard",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Epidemic modeling",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Collective behavior",
+                "type": 1
+            },
+            {
+                "tag": "Decision making",
+                "type": 1
+            },
+            {
+                "tag": "Bayesian inference",
+                "type": 1
+            },
+            {
+                "tag": "COVID-19",
+                "type": 1
+            }
+        ],
+        "pages": "104995",
+        "date": "2022-02-01",
+        "ISSN": "0010-4825",
+        "DOI": "10.1016/j.compbiomed.2021.104995",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0010482521007897",
+        "abstractNote": "The evolution of an epidemic is strongly related to the behavior of individuals, and the consideration of cause and effect of social phenomena can extend epidemiological models and allow for better identification, prediction and control of the impacts of containment and mitigation measures. This work proposes an agent-based model to simulate the double causality that exists between individual behaviors, influenced by the cultural orientation of a population, and the evolution of an epidemic, focusing on recent studies on the COVID-19 pandemic. To do this, concepts from the social sciences are used, such as the theory of planned behavior, as well as Bayesian inference to abstract the decision-making processes involved in human behavior. A set of simulation experiments with different populations was developed to demonstrate the role that the cultural orientation of a population plays in the management of an epidemic. The results agree with the revised theory, showing that in populations that have a greater inclination towards collectivism, epidemiological indicators evolve in a better way than in those populations where the culture is individualistic. This work contributes to the field of computational epidemiology by providing a new way of including the social aspects of studied populations in agent-based models to help develop better interventions.",
+        "title": "An agent-based model of the dual causality between individual and collective behaviors in an epidemic",
+        "journalAbbreviation": "Computers in Biology and Medicine",
+        "volume": "141",
+        "publicationTitle": "Computers in Biology and Medicine",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-30T19:19:24Z"
+    },
+    {
+        "key": "WCM3H8QL",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Keumseok",
+                "lastName": "Koh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rebecca",
+                "lastName": "Reno",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ayaz",
+                "lastName": "Hyder",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Food security",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Interventions",
+                "type": 1
+            },
+            {
+                "tag": "Socioeconomic status",
+                "type": 1
+            },
+            {
+                "tag": "Food availability",
+                "type": 1
+            }
+        ],
+        "date": "2019-04-01",
+        "title": "Examining disparities in food accessibility among households in Columbus, Ohio: an agent-based model",
+        "pages": "317-331",
+        "abstractNote": "The objectives of this study were to evaluate the effect of complex interactions among household and environmental-level factors on household-level food availability via a simulation model, the Food Accessibility Agent-based Model in Central Columbus, Ohio (FAAMC) and to test impacts of novel interventions for reducing disparities in food availability. FAAMC simulates food shopping patterns of households based on the actual location of homes and food stores, transportation network, household income, vehicle ownership, and distance to food stores. Policy interventions, which were evaluated as single or combined interventions, included: (1) reducing preference for convenience stores/partial markets; (2) increasing food availability in stores; and (3) increasing household income through a guaranteed basic income supplement program. The FAAMC estimated that mean food availability for food insecure households is 23% (95% Confidence Interval (CI): 22\u201324%) lower than for food secure households. Increasing household income among the poorest households may lead to a 14% (95% CI: 13\u201318%) increase in monthly food availability for food insecure households. Implementing multiple interventions would lead to a 41% (95% CI: 40\u201343%) increase in monthly food availability among food insecure households. This study exemplifies how a systems science approach may serve as an effective and efficient tool for evaluating \u201cWhat if?\u201d scenarios for improving household-level food security.",
+        "ISSN": "1876-4525",
+        "url": "https://doi.org/10.1007/s12571-019-00900-7",
+        "DOI": "10.1007/s12571-019-00900-7",
+        "journalAbbreviation": "Food Sec.",
+        "volume": "11",
+        "issue": "2",
+        "publicationTitle": "Food Security",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-10-30T19:25:27Z",
+        "shortTitle": "Examining disparities in food accessibility among households in Columbus, Ohio"
+    },
+    {
+        "key": "IEJLBGMU",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Gabriel",
+                "lastName": "Granco",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jessica L.",
+                "lastName": "Heier Stamm",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jason S.",
+                "lastName": "Bergtold",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Melinda D.",
+                "lastName": "Daniels",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Matthew R.",
+                "lastName": "Sanderson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Aleksey Y.",
+                "lastName": "Sheshukov",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Martha E.",
+                "lastName": "Mather",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marcellus M.",
+                "lastName": "Caldas",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Steven M.",
+                "lastName": "Ramsey",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Richard J.",
+                "lastName": "Lehrter II",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David A.",
+                "lastName": "Haukos",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jungang",
+                "lastName": "Gao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sarmistha",
+                "lastName": "Chatterjee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "James C.",
+                "lastName": "Nifong",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Joseph A.",
+                "lastName": "Aistrup",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Freshwater",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Aquatic biodiversity",
+                "type": 1
+            },
+            {
+                "tag": "Value-belief-norm theory (VBN theory)",
+                "type": 1
+            },
+            {
+                "tag": "Decision-making",
+                "type": 1
+            },
+            {
+                "tag": "Coupled natural and human systems",
+                "type": 1
+            }
+        ],
+        "pages": "133769",
+        "date": "2019-12-10",
+        "ISSN": "0048-9697",
+        "DOI": "10.1016/j.scitotenv.2019.133769",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0048969719337106",
+        "abstractNote": "Sustainability has been at the forefront of the environmental research agenda of the integrated anthroposphere, hydrosphere, and biosphere since the last century and will continue to be critically important for future environmental science. However, linking humans and the environment through effective policy remains a major challenge for sustainability research and practice. Here we address this gap using an agent-based model (ABM) for a coupled natural and human systems in the Smoky Hill River Watershed (SHRW), Kansas, USA. For this freshwater-dependent agricultural watershed with a highly variable flow regime influenced by human-induced land-use and climate change, we tested the support for an environmental policy designed to conserve and protect fish biodiversity in the SHRW. We develop a proof of concept interdisciplinary ABM that integrates field data on hydrology, ecology (fish richness), social-psychology (value-belief-norm) and economics, to simulate human agents' decisions to support environmental policy. The mechanism to link human behaviors to environmental changes is the social-psychological sequence identified by the value-belief-norm framework and is informed by hydrological and fish ecology models. Our results indicate that (1) cultural factors influence the decision to support the policy; (2) a mechanism modifying social-psychological factors can influence the decision-making process; (3) there is resistance to environmental policy in the SHRW, even under potentially extreme climate conditions; and (4) the best opportunities for policy acceptance were found immediately after extreme environmental events. The modeling approach presented herein explicitly links biophysical and social science has broad generality for sustainability problems.",
+        "title": "Evaluating environmental change and behavioral decision-making for sustainability policy using an agent-based model: A case study for the Smoky Hill River Watershed, Kansas",
+        "journalAbbreviation": "Science of The Total Environment",
+        "volume": "695",
+        "publicationTitle": "Science of The Total Environment",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-10-30T19:27:29Z",
+        "shortTitle": "Evaluating environmental change and behavioral decision-making for sustainability policy using an agent-based model"
+    },
+    {
+        "key": "BBFIQ85P",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Todd",
+                "lastName": "Combs",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Katherine L.",
+                "lastName": "Nelson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Douglas",
+                "lastName": "Luke",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "F. Hunter",
+                "lastName": "McGuire",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gracelyn",
+                "lastName": "Cruden",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rosie Mae",
+                "lastName": "Henson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Danielle R.",
+                "lastName": "Adams",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kimberly Eaton",
+                "lastName": "Hoagwood",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jonathan",
+                "lastName": "Purtle",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Health Serv Res",
+        "publicationTitle": "Health Services Research",
+        "ISSN": "0017-9124",
+        "abstractNote": "Objective\nTo model children's mental health policy making dynamics and simulate the impacts of knowledge broker interventions.\n\nData sources\nPrimary data from surveys (n\u00a0=\u00a0221) and interviews (n\u00a0=\u00a064) conducted in 2019\u20132021 with mental health agency (MHA) officials in state agencies.\n\nStudy design\nA prototype agent\u2010based model (ABM) was developed using the PARTE (Properties, Actions, Rules, Time, Environment) framework and informed through primary data collection. In each simulation, a policy is randomly generated (salience weights: cost, contextual alignment, and strength of evidence) and discussed among agents. Agents are MHA officials and heterogenous in their properties (policy making power and network influence) and policy preferences (based on salience weights). Knowledge broker interventions add agents to the MHA social network who primarily focus on the policy's research evidence.\n\nData collection/extraction methods\nA sequential explanatory mixed method approach was used. Descriptive and regression analyses were used for the survey data and directed content analysis was used to code interview data. Triangulated results informed ABM development. In the ABM, policy makers with various degrees of decision influence interact in a scale\u2010free network before and after knowledge broker interventions. Over time, each decides to support or oppose a policy proposal based on policy salience weights and their own properties and interactions. The main outcome is an agency\u2010level decision based on policy maker support. Each intervention and baseline simulation runs 250 times across 50 timesteps.\n\nPrincipal findings\nSurveys and interviews revealed that barriers to research use could be addressed by knowledge brokers. Simulations indicated that policy decision outcomes varied by policy making context within agencies.\n\nConclusions\nThis is the first application of ABM to evidence\u2010informed mental health policy making. Results suggest that the presence of knowledge brokers can: (1) influence consensus formation in MHAs, (2) accelerate policy decisions, and (3) increase the likelihood of evidence\u2010informed policy adoption.",
+        "DOI": "10.1111/1475-6773.13916",
+        "extra": "PMID: 35243638\nPMCID: PMC9108216",
+        "title": "Simulating the role of knowledge brokers in policy making in state agencies: An agent\u2010based model",
+        "volume": "57",
+        "issue": "Suppl 1",
+        "pages": "122-136",
+        "date": "2022-6",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9108216/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-10-30T19:31:37Z",
+        "shortTitle": "Simulating the role of knowledge brokers in policy making in state agencies"
     }
 ]

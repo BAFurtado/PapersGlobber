@@ -13,11 +13,11 @@
 
 1. Install zotero-translators using `docker` and following instructions
 2. Provide a list of URLs of interest. In our case: `tweets.csv`
-3. Run `run_translator.sh`
+3. In the terminal run with `sudo ./run_translator.sh`
    1. You will turn on the server, run the queries to the server, and kill the server
-4. Then run: `sanity_checks.py`
-5. Then run: `json_analysis.py`
-6. And finally, 'making_interactive_graph_plot.py`
+4. Then run: `python sanity_checks.py`
+5. Then run: `python json_analysis.py`
+6. And finally, `python making_interactive_graph_plot.py`
 
 
 TODO: Check names with single initial and collapse them together
