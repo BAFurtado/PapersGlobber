@@ -8,7 +8,7 @@ time.sleep(20)
 
 
 def run_list_translators():
-    f = 'tweets.csv'
+    f = 'old_tweets.csv'
     g = 'new_tweets.csv'
     data, new = check_data_before_loading(f, g)
     data = data.address.to_list()
@@ -48,8 +48,8 @@ def run_list_translators():
         if i % 10 == 0:
             with open(file_address, 'w') as json_file:
                 json.dump(results, json_file, indent=4)
-    print('Overwriting new tweets into tweets.csv')
-    new.to_csv('tweets.csv', index=False)
+    print('Overwriting new tweets into old_tweets.csv')
+    new.to_csv('old_tweets.csv', index=False)
 
 
 def check_data_before_loading(old, new):

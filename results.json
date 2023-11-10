@@ -64918,5 +64918,1023 @@
         "libraryCatalog": "PubMed Central",
         "accessDate": "2023-10-30T19:31:37Z",
         "shortTitle": "Simulating the role of knowledge brokers in policy making in state agencies"
+    },
+    {
+        "key": "6J2EHWDY",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Akhila",
+                "lastName": "Kizhakkedath",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kang",
+                "lastName": "Tai",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mong Soon",
+                "lastName": "Sim",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Robert Lee Kong",
+                "lastName": "Tiong",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jiaying",
+                "lastName": "Lin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "Tan",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Gee Kin",
+                "lastName": "Yeo",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Stephen John",
+                "lastName": "Turner",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Yong Meng",
+                "lastName": "Teo",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "critical infrastructure network",
+                "type": 1
+            },
+            {
+                "tag": "interdependencies",
+                "type": 1
+            },
+            {
+                "tag": "network analysis",
+                "type": 1
+            },
+            {
+                "tag": "evolutionary optimization",
+                "type": 1
+            }
+        ],
+        "date": "2013",
+        "title": "An Agent-Based Modeling and Evolutionary Optimization Approach for Vulnerability Analysis of Critical Infrastructure Networks",
+        "pages": "176-187",
+        "publisher": "Springer",
+        "abstractNote": "Critical infrastructure networks include the highly complex and interconnected systems that are so vital to a city or state that any sudden disruption can result in debilitating impacts on human life, the economy and the society as a whole. Some of the interdependencies among infrastructure components are perhaps unforeseen and methods for vulnerability analysis of infrastructure networks should therefore incorporate the possibility of potential unforeseen interdependencies in such networks. This paper proposes using an optimization approach to iteratively search for potential unforeseen interdependencies and failures that can maximize connectivity loss in infrastructure networks due to cascading failures. In order to illustrate the proposed approach, an agent based model of an infrastructure network and its known interdependencies has been presented, with a genetic algorithm applied to search for potential unforeseen interdependencies as well as node failures that can result in the maximum loss of infrastructure network connectivity.",
+        "ISBN": "9783642450372",
+        "place": "Berlin, Heidelberg",
+        "proceedingsTitle": "AsiaSim 2013",
+        "DOI": "10.1007/978-3-642-45037-2_17",
+        "language": "en",
+        "series": "Communications in Computer and Information Science",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "6CAYW4Y2",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Yong",
+                "lastName": "Yang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brent A.",
+                "lastName": "Langellier",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ivana",
+                "lastName": "Stankov",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jonathan",
+                "lastName": "Purtle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Katherine L.",
+                "lastName": "Nelson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Erica",
+                "lastName": "Reinhard",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frank J. Van",
+                "lastName": "Lenthe",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ana V. Diez",
+                "lastName": "Roux",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "AGEING",
+                "type": 1
+            },
+            {
+                "tag": "CHILD HEALTH",
+                "type": 1
+            },
+            {
+                "tag": "ENVIRONMENTAL HEALTH",
+                "type": 1
+            },
+            {
+                "tag": "EXERCISE",
+                "type": 1
+            },
+            {
+                "tag": "GEOGRAPHY",
+                "type": 1
+            },
+            {
+                "tag": "DIET",
+                "type": 1
+            },
+            {
+                "tag": "Health inequalities",
+                "type": 1
+            },
+            {
+                "tag": "Epidemiological methods",
+                "type": 1
+            },
+            {
+                "tag": "HEALTH POLICY",
+                "type": 1
+            },
+            {
+                "tag": "POLICY",
+                "type": 1
+            },
+            {
+                "tag": "PUBLIC HEALTH POLICY",
+                "type": 1
+            },
+            {
+                "tag": "SOCIAL SCIENCE",
+                "type": 1
+            },
+            {
+                "tag": "ACCESS TO HEALTH CARE",
+                "type": 1
+            },
+            {
+                "tag": "PSYCHOSOCIAL FACTORS",
+                "type": 1
+            },
+            {
+                "tag": "MENTAL HEALTH",
+                "type": 1
+            },
+            {
+                "tag": "SOCIAL EPIDEMIOLOGY",
+                "type": 1
+            },
+            {
+                "tag": "EPIDEMIOLOGY",
+                "type": 1
+            },
+            {
+                "tag": "Epidemiology of ageing",
+                "type": 1
+            },
+            {
+                "tag": "METHODOLOGY",
+                "type": 1
+            },
+            {
+                "tag": "Neighbourhood/place",
+                "type": 1
+            },
+            {
+                "tag": "CHRONIC DI",
+                "type": 1
+            },
+            {
+                "tag": "INEQUALITIES",
+                "type": 1
+            }
+        ],
+        "title": "Public transit and depression among older adults: using agent-based models to examine plausible impacts of a free bus policy",
+        "rights": "\u00a9 Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and permissions. Published by BMJ.",
+        "date": "2020/11/01",
+        "DOI": "10.1136/jech-2019-213317",
+        "abstractNote": "Background Daily transport is associated with mental health. A free bus policy (FBP) may be effective in promoting the use of public transit in older adults and be associated with reductions in depressive symptoms.\nMethods We developed an agent-based model and grounded it using empirical data from England to examine the impact of an FBP on public transit use and depression among older adults. We also used the model to explore whether the impact of the FBP bus use and depression is modified by the type of income segregation or by simultaneous efforts to improve attitudes towards the bus, to reduce waiting times or to increase the cost of driving via parking fees or fuel price.\nResults Our model suggests that improving attitudes towards the bus (eg, campaigns that promote bus use) could enhance the effect of the FBP, especially for those in proximity to public transit. Reducing wait times could also significantly magnify FPB impacts, especially in those who live in proximity to public transit. Contrary to expectation, neither fuel costs nor parking fees significantly enhanced the impact of the FBP. The impact of improving attitudes towards the bus and increasing bus frequency was more pronounced in the lower-income groups in an income segregation scenario in which destination and public transit are denser in the city centre.\nConclusion Our results suggest that the beneficial mental health effects of an FBP for older adults can be magnified when combined with initiatives that reduce bus waiting times and increased spatial access to transit.",
+        "language": "en",
+        "publicationTitle": "J Epidemiol Community Health",
+        "journalAbbreviation": "J Epidemiol Community Health",
+        "volume": "74",
+        "issue": "11",
+        "url": "https://jech.bmj.com/content/74/11/875",
+        "pages": "875-881",
+        "ISSN": "0143-005X, 1470-2738",
+        "extra": "PMID: 32535549",
+        "libraryCatalog": "jech.bmj.com",
+        "accessDate": "2023-11-10T13:03:20Z",
+        "shortTitle": "Public transit and depression among older adults"
+    },
+    {
+        "key": "22C6G5B3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Dino",
+                "lastName": "Carpentras",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Adrian",
+                "lastName": "Lueders",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul J.",
+                "lastName": "Maher",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Caoimhe",
+                "lastName": "O'Reilly",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Quayle",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "How Polarization Extends to New Topics: An Agent-Based Model Derived from Experimental Data",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "volume": "26",
+        "issue": "3",
+        "date": "2023-06-30",
+        "ISSN": "1460-7425",
+        "DOI": "10.18564/jasss.5105",
+        "url": "https://doi.org/10.18564/jasss.5105",
+        "abstractNote": "Polarization is a key phenomenon which has been linked to increasing disliking between people of opposite political groups. Furthermore, polarization can extend to new topics such as the debate on COVID-19 vaccines, making it more complex to coordinate efforts for such a problem. The social identity approach (SIA) offers a robust theoretical framework for understanding identity-based social processes. This approach suggests that people\u2019s perceptions and behaviour depend on their group identity (e.g. Democrat vs Republican). In this article, we developed an opinion-dynamics model integrating SIA to explore how polarization can extend to new topics. Furthermore, we developed this model from experiments with human participants. This allows us to use already validated micro-dynamic rules in the model. Empirical results show lack of repulsive effects, more attraction during in-group interactions and a new effect: increased stubbornness when people are exposed to opinions of an out-group member. The model was built mimicking the interaction structure of the experiment. At each iteration, an agent observes the opinion of another agent. Depending on their respective groups the agent will experience a stronger or weaker attractive force, together with some noise. This model was able to produce polarization without the use of repulsive forces. Furthermore, the sensitivity analysis tells us that polarization in new topics can appear when all the following conditions are satisfied: (1) each person recognizes who is belonging to which political group, (2) there are more in-group than out-group interactions and (3) there is some initial asymmetry on the topic.",
+        "language": "en",
+        "libraryCatalog": "journal.article2publish.com",
+        "accessDate": "2023-11-10T13:13:21Z",
+        "shortTitle": "How Polarization Extends to New Topics"
+    },
+    {
+        "key": "YQAZFJ58",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Simon J. E.",
+                "lastName": "Taylor",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Simon J. E.",
+                "lastName": "Taylor",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Complex Adaptive System",
+                "type": 1
+            },
+            {
+                "tag": "Grand Challenge",
+                "type": 1
+            },
+            {
+                "tag": "Operational Research Society",
+                "type": 1
+            },
+            {
+                "tag": "Winter Simulation",
+                "type": 1
+            },
+            {
+                "tag": "Agent Relationship",
+                "type": 1
+            }
+        ],
+        "date": "2014",
+        "title": "Introducing agent-based modeling and simulation",
+        "pages": "1-10",
+        "publisher": "Palgrave Macmillan UK",
+        "abstractNote": "The manager of an Accident and Emergency(A&E) service(or Emergency Room) has a problem. The waiting room of her Unit is always full of patients waiting to see her clinical staff. Patients arrive, are checked in by a receptionist and then wait until they are seen by a nurse. If an arriving patient is in obvious distress then the patient is seen as soon as a nurse is available. The nurse records their medical details, discusses them with a doctor and then proceeds with a range of possible actions to treat the patient or to pass the patient on to another department. How can the manager understand how to reduce the number of patients waiting to see the nurse? Should she hire more nurses? Are doctors in short supply?Are nurses waiting for information from other departments? What about alternative arrival arrangements\u2014should the reception team have clinical skills to make an earlier assessment of patients\u2019 needs? Modeling & simulation (M&S) makes it possible for the A&E manager to create a verifiable and valid computer model of her system and to simulate it under different experimental conditions to understand what is causing the lengthy waiting times and the possible impact of different strategies to alleviate them.",
+        "ISBN": "9781137453648",
+        "url": "https://doi.org/10.1057/9781137453648_1",
+        "extra": "DOI: 10.1057/9781137453648_1",
+        "bookTitle": "Agent-Based Modeling and Simulation",
+        "place": "London",
+        "language": "en",
+        "series": "The OR Essentials series",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-11-10T13:15:25Z"
+    },
+    {
+        "key": "9VI3F3VG",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Shiyong",
+                "lastName": "Liu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Konstantinos P.",
+                "lastName": "Triantis",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Li",
+                "lastName": "Zhao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Youfa",
+                "lastName": "Wang",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Decision making",
+                "type": 1
+            },
+            {
+                "tag": "Science policy",
+                "type": 1
+            },
+            {
+                "tag": "Simulation and modeling",
+                "type": 1
+            },
+            {
+                "tag": "Fuzzy logic",
+                "type": 1
+            },
+            {
+                "tag": "Health care policy",
+                "type": 1
+            },
+            {
+                "tag": "Information theory",
+                "type": 1
+            },
+            {
+                "tag": "Sociolinguistics",
+                "type": 1
+            }
+        ],
+        "title": "Capturing multi-stage fuzzy uncertainties in hybrid system dynamics and agent-based models for enhancing policy implementation in health systems research",
+        "DOI": "10.1371/journal.pone.0194687",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194687",
+        "abstractNote": "Background In practical research, it was found that most people made health-related decisions not based on numerical data but on perceptions. Examples include the perceptions and their corresponding linguistic values of health risks such as, smoking, syringe sharing, eating energy-dense food, drinking sugar-sweetened beverages etc. For the sake of understanding the mechanisms that affect the implementations of health-related interventions, we employ fuzzy variables to quantify linguistic variable in healthcare modeling where we employ an integrated system dynamics and agent-based model. Methodology In a nonlinear causal-driven simulation environment driven by feedback loops, we mathematically demonstrate how interventions at an aggregate level affect the dynamics of linguistic variables that are captured by fuzzy agents and how interactions among fuzzy agents, at the same time, affect the formation of different clusters(groups) that are targeted by specific interventions. Results In this paper, we provide an innovative framework to capture multi-stage fuzzy uncertainties manifested among interacting heterogeneous agents (individuals) and intervention decisions that affect homogeneous agents (groups of individuals) in a hybrid model that combines an agent-based simulation model (ABM) and a system dynamics models (SDM). Having built the platform to incorporate high-dimension data in a hybrid ABM/SDM model, this paper demonstrates how one can obtain the state variable behaviors in the SDM and the corresponding values of linguistic variables in the ABM. Conclusions This research provides a way to incorporate high-dimension data in a hybrid ABM/SDM model. This research not only enriches the application of fuzzy set theory by capturing the dynamics of variables associated with interacting fuzzy agents that lead to aggregate behaviors but also informs implementation research by enabling the incorporation of linguistic variables at both individual and institutional levels, which makes unstructured linguistic data meaningful and quantifiable in a simulation environment. This research can help practitioners and decision makers to gain better understanding on the dynamics and complexities of precision intervention in healthcare. It can aid the improvement of the optimal allocation of resources for targeted group (s) and the achievement of maximum utility. As this technology becomes more mature, one can design policy flight simulators by which policy/intervention designers can test a variety of assumptions when they evaluate different alternatives interventions.",
+        "date": "Apr 25, 2018",
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLOS ONE",
+        "volume": "13",
+        "issue": "4",
+        "pages": "e0194687",
+        "ISSN": "1932-6203",
+        "language": "en",
+        "libraryCatalog": "PLoS Journals",
+        "accessDate": "2023-11-10T13:15:26Z"
+    },
+    {
+        "key": "X2F36YCE",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Virginia R.",
+                "lastName": "McKay",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lee D.",
+                "lastName": "Hoffer",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Todd B.",
+                "lastName": "Combs",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "M.",
+                "lastName": "Margaret Dolcini",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Sustainability",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Evidence-based intervention",
+                "type": 1
+            },
+            {
+                "tag": "Human resources",
+                "type": 1
+            },
+            {
+                "tag": "Dissemination and implementation science",
+                "type": 1
+            },
+            {
+                "tag": "Organizational capacity",
+                "type": 1
+            },
+            {
+                "tag": "Systems science",
+                "type": 1
+            }
+        ],
+        "date": "2018-06-05",
+        "title": "The dynamic influence of human resources on evidence-based intervention sustainability and population outcomes: an agent-based modeling approach",
+        "pages": "77",
+        "abstractNote": "Sustaining evidence-based interventions (EBIs) is an ongoing challenge for dissemination and implementation science in public health and social services. Characterizing the relationship among human resource capacity within an agency and subsequent population outcomes is an important step to improving our understanding of how EBIs are sustained. Although human resource capacity and population outcomes are theoretically related, examining them over time within real-world experiments is difficult. Simulation approaches, especially agent-based models, offer advantages that complement existing methods.",
+        "ISSN": "1748-5908",
+        "url": "https://doi.org/10.1186/s13012-018-0767-0",
+        "DOI": "10.1186/s13012-018-0767-0",
+        "journalAbbreviation": "Implementation Sci",
+        "volume": "13",
+        "issue": "1",
+        "publicationTitle": "Implementation Science",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-11-10T13:17:29Z",
+        "shortTitle": "The dynamic influence of human resources on evidence-based intervention sustainability and population outcomes"
+    },
+    {
+        "key": "4MSVMZC9",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Christopher",
+                "lastName": "Keane",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "James E.",
+                "lastName": "Egan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Hawk",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Opioid overdose",
+                "type": 1
+            },
+            {
+                "tag": "Naloxone distribution",
+                "type": 1
+            },
+            {
+                "tag": "Harm reduction",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            }
+        ],
+        "pages": "61-69",
+        "date": "2018-05-01",
+        "ISSN": "0955-3959",
+        "DOI": "10.1016/j.drugpo.2018.02.008",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0955395918300434",
+        "abstractNote": "Background\nOpioid overdose deaths in the US rose dramatically in the past 16 years, creating an urgent national health crisis with no signs of immediate relief. In 2017, the President of the US officially declared the opioid epidemic to be a national emergency and called for additional resources to respond to the crisis. Distributing naloxone to community laypersons and people at high risk for opioid overdose can prevent overdose death, but optimal distribution methods have not yet been pinpointed.\nMethods\nWe conducted a sequential exploratory mixed methods design using qualitative data to inform an agent-based model to improve understanding of effective community-based naloxone distribution to laypersons to reverse opioid overdose. The individuals in the model were endowed with cognitive and behavioral variables and accessed naloxone via community sites such as pharmacies, hospitals, and urgent-care centers. We compared overdose deaths over a simulated 6-month period while varying the number of distribution sites (0, 1, and 10) and number of kits given to individuals per visit (1 versus 10). Specifically, we ran thirty simulations for each of thirteen distribution models and report average overdose deaths for each. The baseline comparator was no naloxone distribution. Our simulations explored the effects of distribution through syringe exchange sites with and without secondary distribution, which refers to distribution of naloxone kits by laypersons within their social networks and enables ten additional laypersons to administer naloxone to reverse opioid overdose.\nResults\nOur baseline model with no naloxone distribution predicted there would be 167.9 deaths in a six month period. A single distribution site, even with 10\u202fkits picked up per visit, decreased overdose deaths by only 8.3% relative to baseline. However, adding secondary distribution through social networks to a single site resulted in 42.5% fewer overdose deaths relative to baseline. That is slightly higher than the 39.9% decrease associated with a tenfold increase in the number of sites, all distributing ten kits but with no secondary distribution. This suggests that, as long as multiple kits are picked up per visit, adding secondary distribution is at least as effective as increasing sites from one to ten. Combining the addition of secondary distribution with an increase in sites from one to ten resulted in a 61.1% drop in deaths relative to the baseline. Adding distribution through a syringe exchange site resulted in a drop of approximately 65% of deaths relative to baseline. In fact, when enabling distribution through a clean-syringe site, the secondary distribution through networks contributed no additional drops in deaths.\nConclusion\nCommunity-based naloxone distribution to reverse opioid overdose may significantly reduce deaths. Optimal distribution methods may include secondary distribution so that the person who picks up naloxone kits can enable others in the community to administer naloxone, as well as targeting naloxone distribution to sites where individuals at high-risk for opioid overdose death are likely to visit, such as syringe-exchange programs. This study design, which paired exploratory qualitative data with agent-based modeling, can be used in other settings seeking to implement and improve naloxone distribution programs.",
+        "title": "Effects of naloxone distribution to likely bystanders: Results of an agent-based model",
+        "journalAbbreviation": "International Journal of Drug Policy",
+        "volume": "55",
+        "publicationTitle": "International Journal of Drug Policy",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-11-10T13:19:31Z",
+        "shortTitle": "Effects of naloxone distribution to likely bystanders"
+    },
+    {
+        "key": "YWMTANJ9",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Xiaolin",
+                "lastName": "Hu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Richard W.",
+                "lastName": "Puddy",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sun-Ki",
+                "lastName": "Chai",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "John J.",
+                "lastName": "Salerno",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Patricia L.",
+                "lastName": "Mabry",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Complexity science",
+                "type": 1
+            },
+            {
+                "tag": "Child maltreatment",
+                "type": 1
+            },
+            {
+                "tag": "Child maltreatment prevention",
+                "type": 1
+            }
+        ],
+        "date": "2010",
+        "title": "An Agent-Based Model for Studying Child Maltreatment and Child Maltreatment Prevention",
+        "pages": "189-198",
+        "publisher": "Springer",
+        "abstractNote": "This paper presents an agent-based model that simulates the dynamics of child maltreatment and child maltreatment prevention. The developed model follows the principles of complex systems science and explicitly models a community and its families with multi-level factors and interconnections across the social ecology. This makes it possible to experiment how different factors and prevention strategies can affect the rate of child maltreatment. We present the background of this work and give an overview of the agent-based model and show some simulation results.",
+        "ISBN": "9783642120794",
+        "place": "Berlin, Heidelberg",
+        "proceedingsTitle": "Advances in Social Computing",
+        "DOI": "10.1007/978-3-642-12079-4_25",
+        "language": "en",
+        "series": "Lecture Notes in Computer Science",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "5X6U6J7R",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Linghui",
+                "lastName": "Jiang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Xiaoyan",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "May C.",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nathaniel",
+                "lastName": "Osgood",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Shannon E.",
+                "lastName": "Whaley",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Catherine M.",
+                "lastName": "Crespi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Breast feeding",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Lactation",
+                "type": 1
+            },
+            {
+                "tag": "Infants",
+                "type": 1
+            },
+            {
+                "tag": "Hospitals",
+                "type": 1
+            },
+            {
+                "tag": "Labor and delivery",
+                "type": 1
+            },
+            {
+                "tag": "Decision making",
+                "type": 1
+            },
+            {
+                "tag": "Pregnancy",
+                "type": 1
+            }
+        ],
+        "title": "Estimating the population impact of hypothetical breastfeeding interventions in a low-income population in Los Angeles County: An agent-based model",
+        "DOI": "10.1371/journal.pone.0231134",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231134",
+        "abstractNote": "Background Breastfeeding has clear benefits. Yet, breastfeeding practices fall short of recommendations in low-income populations including participants of the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). To promote breastfeeding, it is important to understand breastfeeding-related behaviors such as initiation and maintenance within the context of a complex societal system. For individual women, making choices about infant feeding (whether to breastfeed or formula-feed a newborn, or when to stop breastfeeding) is a dynamic process involving interactions with health professionals, family, peers and workplaces. Integrating behavioral change theories with systems science tools such as agent-based modeling can help illuminate patterns of breastfeeding behaviors, identify key factors affecting breastfeeding behaviors within this complex dynamic system, and estimate the population impact of hypothetical interventions. Methods An agent-based model (ABM) was developed to investigate the influences of multiple levels of factors affecting breastfeeding behaviors among WIC participants. Health behavioral change theories were applied and stakeholder input obtained to improve the model, particularly during the conceptual design and model specification steps. The model was then used to identify critical points for intervention and assess the effects of five common interventions (improving knowledge through education, implementing Baby-Friendly Hospital Initiative practices, providing postpartum breastfeeding counselling, strengthening partner support, and fostering supportive workplace environments.) Results The ABM developed in this study produced outcomes (i.e., breastfeeding rates) that were concordant with empirical data. Increasing the coverage of the five selected interventions produced various levels of improvement in breastfeeding practices in the target population. Specifically, improving breastfeeding knowledge had a positive impact on women\u2019s intent to breastfeed, while increasing the availability of the Baby-Friendly Hospital Initiative improved breastfeeding initiation rates. However, neither of these two interventions showed a significant impact on breastfeeding maintenance, which was supported by postpartum breastfeeding counseling, partner support and a supportive workplace environment. These three intervention strategies each improved breastfeeding rates at 6 months from 55.6% to 57.1%, 59.5% and 59.3%, respectively. Increasing the coverage of multiple interventions simultaneously had a synergistic effect on breastfeeding maintenance with their effects being greater than the cumulative effects of increasing the coverage of these interventions individually. Conclusion The ABM we developed was helpful for understanding the dynamic process of decision-making regarding infant feeding modalities in a low-income population, and for evaluating the aggregated population-level impact of breastfeeding promotion interventions.",
+        "date": "Apr 9, 2020",
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLOS ONE",
+        "volume": "15",
+        "issue": "4",
+        "pages": "e0231134",
+        "ISSN": "1932-6203",
+        "language": "en",
+        "libraryCatalog": "PLoS Journals",
+        "accessDate": "2023-11-10T13:23:37Z",
+        "shortTitle": "Estimating the population impact of hypothetical breastfeeding interventions in a low-income population in Los Angeles County"
+    },
+    {
+        "key": "XYLVYU6S",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Jiaqi",
+                "lastName": "Ge",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "Polhill",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Wander",
+                "lastName": "Jager",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Rineke",
+                "lastName": "Verbrugge",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Flache",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Gert",
+                "lastName": "de Roo",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Lex",
+                "lastName": "Hoogduin",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Charlotte",
+                "lastName": "Hemelrijk",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Daily commute",
+                "type": 1
+            },
+            {
+                "tag": "Flexible work scheme",
+                "type": 1
+            },
+            {
+                "tag": "Road infrastructure",
+                "type": 1
+            }
+        ],
+        "date": "2017",
+        "title": "Preliminary Results from an Agent-Based Model of the Daily Commute in Aberdeen and Aberdeenshire, UK",
+        "pages": "129-142",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "Rapid economic and population growth have posed challenges to Aberdeen City and Shire in UK. Some social policies can potentially be helpful to alleviate traffic congestion and help people maintain a healthy work\u2013life balance. In this initial model, we study the impact of flexi-time work arrangement and the construction of a new bypass on average daily commute time and CO2 emissions. We find that both flexi-time scheme and the new bypass will effectively reduce average daily commute time. Introducing a 30-min flexi-time range will reduce daily commute time by 6.5\u00a0min on average. However, further increasing flexi-time range will produce smaller saving in commute time. The new bypass will also reduce daily commute time, but only by one minute on average. As for environmental impact, introducing a 30-min flexi-time range will decrease CO2 emissions by 7\u2009%. Not only that, it also flattens the peak emission at rush hour. The bypass, on the other hand, will increase CO2 emissions by roughly 2\u2009%.",
+        "ISBN": "9783319472539",
+        "place": "Cham",
+        "proceedingsTitle": "Advances in Social Simulation 2015",
+        "DOI": "10.1007/978-3-319-47253-9_11",
+        "language": "en",
+        "series": "Advances in Intelligent Systems and Computing",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "TBWAE3HQ",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Shah Jamal",
+                "lastName": "Alam",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Armando",
+                "lastName": "Geller",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison J.",
+                "lastName": "Heppenstall",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Linda M.",
+                "lastName": "See",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Batty",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Social Network",
+                "type": 1
+            },
+            {
+                "tag": "Geographic Information System",
+                "type": 1
+            },
+            {
+                "tag": "Random Graph",
+                "type": 1
+            },
+            {
+                "tag": "Multiagent System",
+                "type": 1
+            },
+            {
+                "tag": "Social Network Analysis",
+                "type": 1
+            }
+        ],
+        "date": "2012",
+        "title": "Networks in Agent-Based Social Simulation",
+        "pages": "199-216",
+        "publisher": "Springer Netherlands",
+        "abstractNote": "Computational social science and in particular agent-based social simulation continue to gain momentum in the academic community. Social network analysis enjoys even more popularity. They both have much in common. In agent-based models, individual interactions are simulated to generate social patterns of all kinds, including relationships that can then be analyzed by social network analysis. This chapter describes and discusses the role of agent-based modeling in the generative-analytical part of this symbiosis. More precisely, we look at what concepts are used, how they are used (implemented), and what kind of validation procedures can be applied.",
+        "ISBN": "9789048189274",
+        "url": "https://doi.org/10.1007/978-90-481-8927-4_11",
+        "extra": "DOI: 10.1007/978-90-481-8927-4_11",
+        "bookTitle": "Agent-Based Models of Geographical Systems",
+        "place": "Dordrecht",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-11-10T13:29:43Z"
+    },
+    {
+        "key": "KLU4NN75",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "William A.",
+                "lastName": "Griffin",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "abductive reasoning",
+                "type": 1
+            },
+            {
+                "tag": "agents",
+                "type": 1
+            },
+            {
+                "tag": "agent-based model (ABM)",
+                "type": 1
+            },
+            {
+                "tag": "complexity",
+                "type": 1
+            },
+            {
+                "tag": "computer model",
+                "type": 1
+            },
+            {
+                "tag": "scale",
+                "type": 1
+            },
+            {
+                "tag": "simulation",
+                "type": 1
+            }
+        ],
+        "date": "2006-12-01",
+        "title": "Agent-Based Modeling for the Theoretical Biologist",
+        "pages": "404-409",
+        "abstractNote": "Herein is provided a brief overview of agent-based modeling (ABM), with a particular slant toward its potential as a tool for the theoretical biologist. Of course, its use for experimentalists is obvious; they are, as a group, already using agent-based models (ABMs) to examine contemporary biological questions ranging from molecular processes (e.g., stem cell and totipotency) to evolving ecological landscapes (Grimm and Railsback 2005). For the modeler-theoretician, ABMs offer a new tool for thinking about the structure of biological processes, thus creating a conduit for integrative perspective taking between the experimentalist and the theoretician.",
+        "ISSN": "1555-5550",
+        "url": "https://doi.org/10.1162/biot.2006.1.4.404",
+        "DOI": "10.1162/biot.2006.1.4.404",
+        "journalAbbreviation": "Biol Theory",
+        "volume": "1",
+        "issue": "4",
+        "publicationTitle": "Biological Theory",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-11-10T13:29:46Z"
+    },
+    {
+        "key": "N9IDHKFC",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Shah Jamal",
+                "lastName": "Alam",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Armando",
+                "lastName": "Geller",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alison J.",
+                "lastName": "Heppenstall",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Andrew T.",
+                "lastName": "Crooks",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Linda M.",
+                "lastName": "See",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Batty",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Social Network",
+                "type": 1
+            },
+            {
+                "tag": "Geographic Information System",
+                "type": 1
+            },
+            {
+                "tag": "Random Graph",
+                "type": 1
+            },
+            {
+                "tag": "Multiagent System",
+                "type": 1
+            },
+            {
+                "tag": "Social Network Analysis",
+                "type": 1
+            }
+        ],
+        "date": "2012",
+        "title": "Networks in Agent-Based Social Simulation",
+        "pages": "199-216",
+        "publisher": "Springer Netherlands",
+        "abstractNote": "Computational social science and in particular agent-based social simulation continue to gain momentum in the academic community. Social network analysis enjoys even more popularity. They both have much in common. In agent-based models, individual interactions are simulated to generate social patterns of all kinds, including relationships that can then be analyzed by social network analysis. This chapter describes and discusses the role of agent-based modeling in the generative-analytical part of this symbiosis. More precisely, we look at what concepts are used, how they are used (implemented), and what kind of validation procedures can be applied.",
+        "ISBN": "9789048189274",
+        "url": "https://doi.org/10.1007/978-90-481-8927-4_11",
+        "extra": "DOI: 10.1007/978-90-481-8927-4_11",
+        "bookTitle": "Agent-Based Models of Geographical Systems",
+        "place": "Dordrecht",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2023-11-10T13:31:49Z"
+    },
+    {
+        "key": "3D2ZKN3S",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Ying",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Qi",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Srikanta",
+                "lastName": "Sannigrahi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Qirui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Shiqi",
+                "lastName": "Tao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Richard",
+                "lastName": "Bilsborrow",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jiangfeng",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Conghe",
+                "lastName": "Song",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "J Artif Soc Soc Simul",
+        "publicationTitle": "Journal of artificial societies and social simulation : JASSS",
+        "ISSN": "1460-7425",
+        "abstractNote": "Understanding household labor and land allocation decisions under agro-environmental policies is challenging due to complex human-environment interactions. Here, we develop a spatially explicit agent-based model based on spatial and socioeconomic data to simulate households\u2019 land and labor allocation decisions and investigate the impacts of two forest restoration and conservation programs and one agricultural subsidy program in rural China. Simulation outputs reveal that the forest restoration program accelerates labor out-migration and cropland shrink, while the forest conservation program promotes livelihood diversification via increasing non-farm employment. Meanwhile, the agricultural subsidy program keeps labor for cultivation on land parcels with good quality, but appears less effective for preventing marginal croplands from being abandoned. The policy effects on labor allocation substantially differ between rules based on bounded rational and empirical knowledge of defining household decisions, particularly on sending labor out-migrants and engaging in local off-farm jobs. Land use patterns show that the extent to which households pursue economic benefits through shrinking cultivated land is generally greater under bounded rationality than empirical knowledge. Findings demonstrate nonlinear social-ecological impacts of the agro-environmental policies through time, which can deviate from expectations due to complex interplays between households and land. This study also suggests that the spatial agent-based model can represent adaptive decision-making and interactions of human agents and their interactions in dynamic social and physical environments.",
+        "DOI": "10.18564/jasss.4589",
+        "extra": "PMID: 34992496\nPMCID: PMC8726010",
+        "title": "Understanding the Effects of China\u2019s Agro-Environmental Policies on Rural Households\u2019 Labor and Land Allocation with a Spatially Explicit Agent-Based Model",
+        "volume": "24",
+        "issue": "3",
+        "pages": "10.18564/jasss.4589",
+        "date": "2021-6",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726010/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2023-11-10T13:33:52Z"
     }
 ]
