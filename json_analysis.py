@@ -171,9 +171,10 @@ def main(file_address):
 if __name__ == '__main__':
     f = 'results_no_duplicates.json'
     k, j, abst, aut, aut_net, g, t = main(f)
+    k = [w for w in k if w not in ['agent', 'based', 'model']]
     # plot_graph(g)
-    # word_cloud(k)
-    # word_cloud(t, 'title_image')
+    word_cloud(k)
+    word_cloud(t, 'title_image')
     policy_papers = words_in_(t, 'polic')
     oil = words_in_(t, 'oil')
     causal = words_in_(t, 'causal')

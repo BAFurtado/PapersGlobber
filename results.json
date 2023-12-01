@@ -65936,5 +65936,828 @@
         "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726010/",
         "libraryCatalog": "PubMed Central",
         "accessDate": "2023-11-10T13:33:52Z"
+    },
+    {
+        "key": "LCVWKS9S",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Philip",
+                "lastName": "Leifeld",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Political discourse",
+                "type": 1
+            },
+            {
+                "tag": "Policy debates",
+                "type": 1
+            },
+            {
+                "tag": "Discourse coalitions",
+                "type": 1
+            },
+            {
+                "tag": "Advocacy coalitions",
+                "type": 1
+            },
+            {
+                "tag": "Polarization",
+                "type": 1
+            },
+            {
+                "tag": "Social balance",
+                "type": 1
+            }
+        ],
+        "date": "2014-12-10",
+        "title": "Polarization of coalitions in an agent-based model of political discourse",
+        "pages": "7",
+        "abstractNote": "Political discourse is the verbal interaction between political actors in a policy domain. This article explains the formation of polarized advocacy or discourse coalitions in this complex phenomenon by presenting a dynamic, stochastic, and discrete agent-based model based on graph theory and local optimization. In a series of thought experiments, actors compute their utility of contributing a specific statement to the discourse by following ideological criteria, preferential attachment, agenda-setting strategies, governmental coherence, or other mechanisms. The evolving macro-level discourse is represented as a dynamic network and evaluated against arguments from the literature on the policy process. A simple combination of four theoretical mechanisms is already able to produce artificial policy debates with theoretically plausible properties. Any sufficiently realistic configuration must entail innovative and path-dependent elements as well as a blend of exogenous preferences and endogenous opinion formation mechanisms.",
+        "ISSN": "2197-4314",
+        "url": "https://doi.org/10.1186/s40649-014-0007-y",
+        "DOI": "10.1186/s40649-014-0007-y",
+        "journalAbbreviation": "Computational Social Networks",
+        "volume": "1",
+        "issue": "1",
+        "publicationTitle": "Computational Social Networks",
+        "libraryCatalog": "BioMed Central",
+        "accessDate": "2023-12-01T13:45:36Z"
+    },
+    {
+        "key": "Q9W75FYJ",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Hal T. Nelson, Nicholas L. Cain, Zining",
+                "lastName": "Yang",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "All politics is spatial : Integrating an agent-based model with spatially explicit landscape data",
+        "bookTitle": "Rethinking Environmental Justice in Sustainable Cities",
+        "abstractNote": "\u201cAll politics is local.\u201d",
+        "shortTitle": "All politics is spatial"
+    },
+    {
+        "key": "IXS8BTGR",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Luci",
+                "lastName": "Leykum",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Pradeep",
+                "lastName": "Kumar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Parchman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Reuben R.",
+                "lastName": "McDaniel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Holly",
+                "lastName": "Lanham",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Agar",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Use of an Agent-Based Model to Understand Clinical Systems",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2011",
+        "volume": "15",
+        "issue": "3",
+        "pages": "2"
+    },
+    {
+        "key": "SINS76JT",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Richard A.",
+                "lastName": "Williams",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Model development",
+                "type": 1
+            },
+            {
+                "tag": "Simulation-based experimentation",
+                "type": 1
+            },
+            {
+                "tag": "Complex dynamical systems",
+                "type": 1
+            }
+        ],
+        "pages": "201-212",
+        "date": "2018-04-01",
+        "ISSN": "1569-190X",
+        "DOI": "10.1016/j.simpat.2017.11.001",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1569190X17301557",
+        "abstractNote": "The field of agent-based modelling (ABM) has gained a significant following in recent years, and it is often marketed as an excellent introduction to modelling for the novice modeller or non-programmer. The typical objective of developing an agent-based model is to either increase our mechanistic understanding of a real-world system, or to predict how the dynamics of the real-world system are likely to be affected by changes to internal or external factors. Although there are some excellent ABMs that have been used in a predictive capacity across a number of domains, we believe that the promotion of ABM as an \u2018accessible to all\u2019 approach, could potentially lead to models being published that are flawed and therefore generate inaccurate predictions of real-world systems. The purpose of this article is to use our experiences in modelling complex dynamical systems, to reinforce the view that agent-based models can be useful for answering questions of the real-world domain through predictive modelling, but also to emphasise that all modellers, expert and novice alike, must make a concerted effort to adopt robust methods and techniques for constructing, validating and analysing their models, if the result is to be meaningful and grounded in the system of interest.",
+        "title": "Lessons learned on development and application of agent-based models of complex dynamical systems",
+        "journalAbbreviation": "Simulation Modelling Practice and Theory",
+        "volume": "83",
+        "series": "Agent-based Modelling and Simulation",
+        "publicationTitle": "Simulation Modelling Practice and Theory",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T13:47:48Z"
+    },
+    {
+        "key": "IMBN84QN",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877042816307777/pdf?md5=504924437addbd0bbf99f2ac0a3c637c&pid=1-s2.0-S1877042816307777-main.pdf",
+        "title": "",
+        "accessDate": "2023-12-01T13:49:49Z"
+    },
+    {
+        "key": "BU6UNJJS",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Sebastian",
+                "lastName": "Achter",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Melania",
+                "lastName": "Borit",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Cl\u00e9mentine",
+                "lastName": "Cottineau",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "J. Gareth",
+                "lastName": "Polhill",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Viktoriia",
+                "lastName": "Radchuk",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "Meyer",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Systematic literature review",
+                "type": 1
+            },
+            {
+                "tag": "Literature review",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Model design",
+                "type": 1
+            },
+            {
+                "tag": "Theory development",
+                "type": 1
+            },
+            {
+                "tag": "Cumulative science",
+                "type": 1
+            }
+        ],
+        "pages": "105867",
+        "date": "2023-11-15",
+        "ISSN": "1364-8152",
+        "DOI": "10.1016/j.envsoft.2023.105867",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1364815223002530",
+        "abstractNote": "Agent-based models (ABMs) are increasingly utilized in ecology and related fields, yet concerns persist regarding the lack of consideration for lessons learned from previous models. This study explores the potential of systematically conducted ABM reviews to contribute to cumulative science and theory development by synthesizing individual ABM findings more effectively. We are conducting a meta-review of ABM reviews to assess current practices, compare them to systematic literature review (SLR) literature recommendations, and evaluate their engagement with theory and theory development. Our analysis of the ecology and social science sample reveals that many reviews are not conducted systematically and lack transparency. The analysis step of SLRs holds significant potential to advance theory development. Reviews primarily focus on model design, while other avenues of theory development receive less attention. Our findings suggest ways to improve current practices and may guide future ABM reviews via benchmarks for methodological decisions and dimensions for advancing theory development.",
+        "title": "How to conduct more systematic reviews of agent-based models and foster theory development - Taking stock and looking ahead",
+        "journalAbbreviation": "Environmental Modelling & Software",
+        "publicationTitle": "Environmental Modelling & Software",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T13:49:50Z"
+    },
+    {
+        "key": "TFEDKF3Z",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Neiler",
+                "lastName": "Medina",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Arlex",
+                "lastName": "Sanchez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zoran",
+                "lastName": "Vojinovic",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent based Models",
+                "type": 1
+            },
+            {
+                "tag": "ABM",
+                "type": 1
+            },
+            {
+                "tag": "Evacuation",
+                "type": 1
+            },
+            {
+                "tag": "Flood Risk",
+                "type": 1
+            }
+        ],
+        "pages": "765-772",
+        "date": "2016-01-01",
+        "ISSN": "1877-7058",
+        "DOI": "10.1016/j.proeng.2016.07.581",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877705816319701",
+        "abstractNote": "This paper explores the uses of Agent Based Models (ABM) and its potential to test large scale evacuation strategies in coastal cities under threat of an imminent flooding due to extreme hydro-meteorological events. The first part of the paper is an introduction to the field of complex adaptive systems (CAS) and the principles and uses of ABM in this field. It is also presented the benefits and limitations of such models. The second part of the paper focuses on the theory used to build the ABM. For this study, theories and frameworks of human behaviour and disaster psychology were used. To feed the ABM model qualitative and quantitative attributes or characteristics of human beings are abstracted from literature review, fieldwork and expert's knowledge. The third part of the paper shows the methodology used to build and implement the ABM model using Repast Symphony, a Java based modelling system. The results of the initial experiments implemented in a region of the city of Marbella, southern Spain, are presented and discussed. The preliminary results are promising to further enhance the development of the model and its implementation and testing at full city scale.",
+        "title": "The Potential of Agent Based Models for Testing City Evacuation Strategies Under a Flood Event",
+        "journalAbbreviation": "Procedia Engineering",
+        "volume": "154",
+        "series": "12th International Conference on Hydroinformatics (HIC 2016) - Smart Water for the Future",
+        "publicationTitle": "Procedia Engineering",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T13:51:51Z"
+    },
+    {
+        "key": "5W48N2SI",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Dan",
+                "lastName": "Goldhaber",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Matt",
+                "lastName": "Kasman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Vanessa",
+                "lastName": "Quince",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Roddy",
+                "lastName": "Theobald",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Malcolm",
+                "lastName": "Wolff",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "pages": "102941",
+        "date": "2023-11-01",
+        "ISSN": "0049-089X",
+        "DOI": "10.1016/j.ssresearch.2023.102941",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0049089X23000960",
+        "abstractNote": "We develop a novel simulation methodology to study the extent to which three interrelated processes\u2014teacher attrition from the state teaching workforce, teacher mobility between teaching positions, and teacher hiring for open positions\u2014contribute to \u201cteacher quality gaps\u201d (TQGs) between students of color and other students in K\u201312 public schools. We apply this methodology to data from Washington State to provide estimates that eliminating inequities in teacher mobility and hiring across different schools would close TQGs within 5 years, while just eliminating inequities in teacher hiring would close gaps within 10 years. On the other hand, eliminating inequities in teacher attrition without addressing mobility and hiring does little to close gaps.",
+        "title": "How did it get this way? Disentangling the sources of teacher quality gaps through agent-based modeling",
+        "journalAbbreviation": "Social Science Research",
+        "volume": "116",
+        "publicationTitle": "Social Science Research",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T13:53:54Z",
+        "shortTitle": "How did it get this way?"
+    },
+    {
+        "key": "XL3JG3BW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jule",
+                "lastName": "Thober",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nina",
+                "lastName": "Schwarz",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kathleen",
+                "lastName": "Hermans",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-based modeling of environment-migration linkages: a review",
+        "publicationTitle": "Ecology and Society",
+        "rights": "\u00a9 2018 by the author(s)",
+        "date": "2018/06/12",
+        "DOI": "10.5751/ES-10200-230241",
+        "language": "en",
+        "volume": "23",
+        "issue": "2",
+        "ISSN": "1708-3087",
+        "url": "https://www.ecologyandsociety.org/vol23/iss2/art41/",
+        "abstractNote": "Thober, J., N. Schwarz, and K. Hermans. 2018. Agent-based modeling of environment-migration linkages: a review. Ecology and Society 23(2):41. https://doi.org/10.5751/ES-10200-230241",
+        "libraryCatalog": "www.ecologyandsociety.org",
+        "accessDate": "2023-12-01T13:57:56Z",
+        "shortTitle": "Agent-based modeling of environment-migration linkages"
+    },
+    {
+        "key": "Y4CNL2FF",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "James R.",
+                "lastName": "Thompson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Damon",
+                "lastName": "Frezza",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Burhan",
+                "lastName": "Necioglu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael L.",
+                "lastName": "Cohen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kenneth",
+                "lastName": "Hoffman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kristine",
+                "lastName": "Rosfjord",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Critical infrastructure",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Long-term planning",
+                "type": 1
+            }
+        ],
+        "pages": "144-165",
+        "date": "2019-03-01",
+        "ISSN": "1874-5482",
+        "DOI": "10.1016/j.ijcip.2018.12.002",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1874548218300659",
+        "abstractNote": "The comfort, mobility, and economic well-being of a population depends on reliable and affordable electric power services, which in turn requires a sustainable water supply. It is therefore increasingly important to analyze the sustainability and resilience of mid- and long-term electric utility and water system capacity expansion plans. Due to the inherent interdependency between power and water critical infrastructure, these expansion plans should be analyzed with respect to potential challenges posed by climate change and other risks. Decision-makers therefore require tools that facilitate an integrated analysis that captures the interdependency of power and water to better inform future expansion plans. Here we develop an agent-based model of a typical regional power system that incorporates the features of specific plant types and their cooling systems that are dependent on adequate water supplies at appropriate temperatures to support full power operation. The effects of capacity expansion plans, power demand growth, climate change, and extreme events are analyzed through different scenarios designed to illustrate the utility of such a model and show where it can aid in mid- and long-term planning.",
+        "title": "Interdependent Critical Infrastructure Model (ICIM): An agent-based model of power and water infrastructure",
+        "journalAbbreviation": "International Journal of Critical Infrastructure Protection",
+        "volume": "24",
+        "publicationTitle": "International Journal of Critical Infrastructure Protection",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T14:02:00Z",
+        "shortTitle": "Interdependent Critical Infrastructure Model (ICIM)"
+    },
+    {
+        "key": "9TYQ249D",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Annie",
+                "lastName": "Waldherr",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Martin",
+                "lastName": "Wettstein",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Computational Communication Science| Bridging the Gaps: Using Agent-Based Modeling to Reconcile Data and Theory in Computational Communication Science",
+        "publicationTitle": "International Journal of Communication",
+        "rights": "The  International Journal of Communication  is an academic journal. As such, it is dedicated to the open exchange of information. For this reason, IJoC is freely available to individuals and institutions. Copies of this journal or articles in this journal may be distributed for research or educational purposes free of charge and without permission. However, commercial use of the IJoC website or the articles contained herein is expressly prohibited without the written consent of the editor. Authors who publish in The  International Journal of Communication  will release their articles under the   Creative Commons Attribution Non-Commercial No Derivatives (by-nc-nd) license  . This license allows anyone to copy and distribute the article for non-commercial purposes provided that appropriate attribution is given. For details of the rights authors grants users of their work, see the  \"human-readable summary\" of the license , with a link to the full license. (Note that \"you\" refers to a user, not an author, in the summary.) This journal utilizes the  LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the journal for purposes of preservation and restoration. The publisher perpetually authorizes participants in the LOCKSS system to archive and restore our publication through the LOCKSS System for the benefit of all LOCKSS System participants. Specifically participating libraries may:  Collect and preserve currently accessible materials;  Use material consistent with original license terms;  Provide copies to other LOCKSS appliances for purposes of audit and repair.   \u00a0    Fair Use The U.S. Copyright Act of 1976 specifies, in Section 107, the terms of the Fair Use exception: Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include:  the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;  the nature of the copyrighted work;  the amount and substantiality of the portion used in relation to the copyrighted work as a whole; &amp;  the effect of the use upon the potential market for or value of the copyrighted work.   The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors. In accord with these provisions, the  International Journal of Communication  believes in the vigorous assertion and defense of Fair Use by scholars engaged in academic research, teaching and non-commercial publishing. Thus, we view the inclusion of \u201cquotations\u201d from existing print, visual, audio and audio-visual texts to be appropriate examples of Fair Use, as are reproductions of visual images for the purpose of scholarly analysis. We encourage authors to obtain appropriate permissions to use materials originally produced by others, but do not require such permissions as long as the usage of such materials falls within the boundaries of Fair Use.  The  International Journal of Communication  encourages authors to employ fair use in their scholarly publishing wherever appropriate. Fair use is the right to use unlicensed copyrighted material (whether it is text, images, audio-visual, or other) in your own work, in some circumstances. We consult the  Code of Best Practices in Fair Use for Scholarly Research in Communication , created by the International Communication Association and endorsed by the National Communication Association, and you should too. If you have any questions about whether fair use applies to your uses of copyrighted material (whether it is text, images, audio-visual, or other) in your scholarship, simply include your rationale, grounded in the Best Practices, as a supplementary document with your submission.",
+        "volume": "13",
+        "issue": "0",
+        "pages": "24",
+        "date": "2019/09/08",
+        "ISSN": "1932-8036",
+        "abstractNote": "In various branches of the social sciences, agent-based models (ABMs) have long been applied to enhance researchers\u2019 understanding of complex systems and processes. However, in communication science, this approach is rarely used. In this article, we argue that ABMs have the potential to advance communication research in general, and computational communication science (CCS) in particular, by helping scholars address two major gaps. First, by generating emergent global phenomena from individual interactions, ABMs make it possible to explicitly link micro and macro perspectives in communication research. Second, by formalizing theories, ABMs offer mechanism-based explanations for observed empirical patterns in data. To familiarize more communication scholars with this approach, this article provides a systematic overview of the potentials, applications, and challenges of ABMs in communication science. Special attention is paid to the criteria of reliability and validity.",
+        "language": "en",
+        "url": "https://ijoc.org/index.php/ijoc/article/view/10588",
+        "libraryCatalog": "ijoc.org",
+        "accessDate": "2023-12-01T14:04:02Z",
+        "shortTitle": "Computational Communication Science| Bridging the Gaps"
+    },
+    {
+        "key": "ZZKB5V82",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Fran\u00e7ois",
+                "lastName": "Rebaudo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Olivier",
+                "lastName": "Dangles",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Socio-ecological systems",
+                "type": 1
+            },
+            {
+                "tag": "Pest control",
+                "type": 1
+            },
+            {
+                "tag": "Farmers",
+                "type": 1
+            },
+            {
+                "tag": "Information diffusion",
+                "type": 1
+            },
+            {
+                "tag": "Behavioral heterogeneity",
+                "type": 1
+            }
+        ],
+        "pages": "141-149",
+        "date": "2013-07-01",
+        "ISSN": "1364-8152",
+        "DOI": "10.1016/j.envsoft.2012.06.014",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1364815212001971",
+        "abstractNote": "The study of how people acquire and diffuse information among heterogeneous populations has a rich history in the social sciences. However, few approaches have been developed to better understand how information diffusion patterns and processes affect resource management in complex socio-ecological systems. This is a timely issue for crop protection diffusion programs, which have a larger place than ever on the international policy agenda due to the growing number of challenges related to controlling agricultural pests. To assess the impact of heterogeneous farmer behaviors (receptivity toward IPM practices) and types of information diffusion (either active or passive) on the success of integrated pest management (IPM) programs, we developed a socio-ecological model coupling a pest model (population growth and dispersion) with a farmer behavioral model (pest control and diffusion of pest management practices). The main objective of the model was to provide insights to explore effective IPM information diffusion strategies at the farmer community level. Our simulations revealed 1) that passive IPM information diffusion among agents seemed to be more effective to control pests over the community of agents than active diffusion and 2) that increasing levels of agent heterogeneity would significantly slow down pest control dynamics at the community level, but to a lower extent in the case of passive IPM information diffusion. Our findings therefore suggest that IPM diffusion programs should focus their efforts in developing methods to create purposefully the conditions for social learning as a deliberate pest control mechanism, while taking into account potential limitations related to the commonly reported farmer heterogeneity. Our study further stresses the need to develop a comprehensive and empirically based framework for linking the social and ecological disciplines across space and time in agricultural system management. While we specifically focus on pest infestation levels and IPM information diffusion strategies in this study, our approach to understand information diffusion within heterogeneous human populations in interaction with environmental features would be applicable to a much wider range of both social and resource management issues.",
+        "title": "An agent-based modeling framework for integrated pest management dissemination programs",
+        "journalAbbreviation": "Environmental Modelling & Software",
+        "volume": "45",
+        "series": "Thematic Issue on Spatial Agent-Based Models for Socio-Ecological Systems",
+        "publicationTitle": "Environmental Modelling & Software",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T14:04:06Z"
+    },
+    {
+        "key": "EVZ6C3SL",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Andrew",
+                "lastName": "Collins",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mikel",
+                "lastName": "Petty",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Daniele",
+                "lastName": "Vernon-Bido",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Solomon",
+                "lastName": "Sherfey",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "A Call to Arms:  Standards for Agent-Based Modeling and Simulation",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2015",
+        "volume": "18",
+        "issue": "3",
+        "pages": "12",
+        "shortTitle": "A Call to Arms"
+    },
+    {
+        "key": "8UT9KHN7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Aaron D.",
+                "lastName": "Wood",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Berry",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "resource dependent community",
+                "type": 1
+            },
+            {
+                "tag": "fishery",
+                "type": 1
+            },
+            {
+                "tag": "heterogeneous populations",
+                "type": 1
+            },
+            {
+                "tag": "virus transmission",
+                "type": 1
+            },
+            {
+                "tag": "public health",
+                "type": 1
+            },
+            {
+                "tag": "public policy",
+                "type": 1
+            }
+        ],
+        "pages": "101314",
+        "date": "2023-11-19",
+        "ISSN": "1570-677X",
+        "DOI": "10.1016/j.ehb.2023.101314",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1570677X23000953",
+        "abstractNote": "Outbreaks of COVID-19 in crowded work locations led to mass infection events during the pandemic that stressed health capacity in rural communities. This led to disparate responses \u2013 either isolating and restricting workers to facilities and potentially amplifying spread between them, more intense community wide restrictions, or an acceptance of higher disease spread. An extreme case is the salmon fishery in Bristol Bay, Alaska, where fishermen, factory workers, and residents all interact during the summer fishing season. During the pandemic, policy measures were debated, including community mask mandates, restricting workers to their boats and factories, and even closing the valuable seasonal fishery. We develop an agent-based SIR model (ABM) to examine COVID-19 transmission in a resource-dependent community populated by distinct subgroups. The model includes a virus spreading within and between three heterogenous populations who interact with other members of their type in their home location, and with different types of agents when out in the community. We simulate various non-pharmaceutical interventions and vaccination rates across these groups. Results demonstrate the efficacy of non-pharmaceutical interventions and vaccinations, as well as tradeoffs between duration and intensity and tradeoffs between groups impacted by the outbreak. This ABM demonstrates the impact of public policy mechanisms on health outcomes in resource-dependent communities with distinct populations.",
+        "title": "COVID-19 Transmission in a Resource Dependent Community with Heterogeneous Populations: An Agent-Based Modeling Approach",
+        "journalAbbreviation": "Economics & Human Biology",
+        "publicationTitle": "Economics & Human Biology",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T14:08:10Z",
+        "shortTitle": "COVID-19 Transmission in a Resource Dependent Community with Heterogeneous Populations"
+    },
+    {
+        "key": "RBBFGVL7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Luyao",
+                "lastName": "Kou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Xinzhi",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yang",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Xiaojing",
+                "lastName": "Guo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hui",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Public health",
+                "type": 1
+            },
+            {
+                "tag": "Transmission risk",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Epidemic simulation",
+                "type": 1
+            },
+            {
+                "tag": "Policy assessment",
+                "type": 1
+            }
+        ],
+        "pages": "199-207",
+        "date": "2021-12-01",
+        "ISSN": "2666-4496",
+        "DOI": "10.1016/j.jnlssr.2021.08.005",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2666449621000335",
+        "abstractNote": "Mathematical and computational models are useful tools for virtual policy experiments on infectious disease control. Most models fail to provide flexible and rapid simulation of various epidemic scenarios for policy assessment. This paper establishes a multi-scale agent-based model to investigate the infectious disease propagation between cities and within a city using the knowledge from person-to-person transmission. In the model, the contact and infection of individuals at the micro scale where an agent represents a person provide insights for the interactions of agents at the meso scale where an agent refers to hundreds of individuals. Four cities with frequent population movements in China are taken as an example and actual data on traffic patterns and demographic parameters are adopted. The scenarios for dynamic propagation of infectious disease with no external measures are compared versus the scenarios with vaccination and non-pharmaceutical interventions. The model predicts that the peak of infections will decline by 67.37% with 80% vaccination rate, compared to a drop of 89.56% when isolation and quarantine measures are also in place. The results highlight the importance of controlling the source of infection by isolation and quarantine throughout the epidemic. We also study the effect when cities implement inconsistent public health interventions, which is common in practical situations. Based on our results, the model can be applied to COVID-19 and other infectious diseases according to the various needs of government agencies.",
+        "title": "A multi-scale agent-based model of infectious disease transmission to assess the impact of vaccination and non-pharmaceutical interventions: The COVID-19 case",
+        "journalAbbreviation": "Journal of Safety Science and Resilience",
+        "volume": "2",
+        "issue": "4",
+        "publicationTitle": "Journal of Safety Science and Resilience",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T14:10:11Z",
+        "shortTitle": "A multi-scale agent-based model of infectious disease transmission to assess the impact of vaccination and non-pharmaceutical interventions"
+    },
+    {
+        "key": "7M2YPQEM",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Paul",
+                "lastName": "Python Ndekou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Archie",
+                "lastName": "Drake",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jake",
+                "lastName": "Lomax",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michel",
+                "lastName": "Dione",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ardiouma",
+                "lastName": "Faye",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Mohamed Daly",
+                "lastName": "Njiemessa Nsangou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lilian",
+                "lastName": "Korir",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Sklar",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Antibiotics",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Poultry",
+                "type": 1
+            },
+            {
+                "tag": "Livestock systems",
+                "type": 1
+            },
+            {
+                "tag": "Policy",
+                "type": 1
+            }
+        ],
+        "pages": "100051",
+        "date": "2023-01-01",
+        "ISSN": "2949-7043",
+        "DOI": "10.1016/j.soh.2023.100051",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2949704323000458",
+        "abstractNote": "Antimicrobial resistance (AMR) is a substantial global One Health problem. This paper reports on initial, proof-of-concept development of an agent-based model (ABM) as part of wider modelling efforts to support collaborations between groups interested in policy development for animal health and food systems. The model simulates AMR in poultry production in Senegal. It simultaneously addresses current policy issues, builds on existing modelling in the domain and describes AMR in the broiler chicken production cycle as seen by producers and veterinarians. This enables implementation and assessment of producer antimicrobial use and infection prevention and control strategies in terms of immediate economic incentives, potentially helping to advance conversations by addressing national policy priorities. Our model is presented as a flexible tool with promise for extension as part of AMR policy development in Senegal and West Africa, using participatory approaches. This work indicates that ABM can potentially play a useful role in fostering counter-AMR initiatives driven by food system actor behaviour in lower- and middle-income countries more generally.",
+        "title": "An agent-based model for collaborative learning to combat antimicrobial resistance: Proof of concept based on broiler production in Senegal",
+        "journalAbbreviation": "Science in One Health",
+        "volume": "2",
+        "publicationTitle": "Science in One Health",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2023-12-01T14:12:12Z",
+        "shortTitle": "An agent-based model for collaborative learning to combat antimicrobial resistance"
+    },
+    {
+        "key": "UGJZ44SN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Pinar",
+                "lastName": "Kocabey Ciftci",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zeynep Didem",
+                "lastName": "Unutmaz Durmusoglu",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Fuzzy cognitive map",
+                "type": 1
+            },
+            {
+                "tag": "Nonlinear Hebbian learning",
+                "type": 1
+            },
+            {
+                "tag": "Extended great deluge algorithm",
+                "type": 1
+            },
+            {
+                "tag": "Tobacco use",
+                "type": 1
+            }
+        ],
+        "abstractNote": "Purpose This article proposes a novel hybrid simulation model for understanding the complex tobacco use behavior. Design/methodology/approach The model is developed by embedding the concept of the multistage learning-based fuzzy cognitive map (FCM) into the agent-based model (ABM) in order to benefit from advantageous of each methodology. The ABM is used to represent individual level behaviors while the FCM is used as a decision support mechanism for individuals. In this study, socio-demographic characteristics of individuals, tobacco control policies, and social network effect are taken into account to reflect the current tobacco use system of Turkey. The effects of plain package and COVID-19 on tobacco use behaviors of individuals are also searched under different scenarios. Findings The findings indicate that the proposed model provides promising results for representing the mental models of agents. Besides, the scenario analyses help to observe the possible reactions of people to new conditions according to characteristics. Originality/value The proposed method combined ABM and FCM with a multi-stage learning phases for modeling a complex and dynamic social problem as close as real life. It is expected to contribute for both ABM and tobacco use literature.",
+        "ISSN": "0368-492X",
+        "DOI": "10.1108/K-01-2023-0104",
+        "url": "https://doi.org/10.1108/K-01-2023-0104",
+        "title": "A hybrid agent-based model integrated with a multi-stage learning-based fuzzy cognitive map",
+        "volume": "ahead-of-print",
+        "issue": "ahead-of-print",
+        "date": "2023-01-01",
+        "publicationTitle": "Kybernetes",
+        "libraryCatalog": "Emerald Insight",
+        "accessDate": "2023-12-01T14:14:15Z"
     }
 ]
