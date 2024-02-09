@@ -66759,5 +66759,2450 @@
         "publicationTitle": "Kybernetes",
         "libraryCatalog": "Emerald Insight",
         "accessDate": "2023-12-01T14:14:15Z"
+    },
+    {
+        "key": "MDWJX54D",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Ashok Kay",
+                "lastName": "Kanagarajah",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Lindsay",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Anne",
+                "lastName": "Miller",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Parker",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ali",
+                "lastName": "Minai",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Dan",
+                "lastName": "Braha",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Yaneer",
+                "lastName": "Bar-Yam",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent Base Modeling",
+                "type": 1
+            },
+            {
+                "tag": "Complex Adaptive System",
+                "type": 1
+            },
+            {
+                "tag": "Treatment Room",
+                "type": 1
+            },
+            {
+                "tag": "Healthcare Delivery System",
+                "type": 1
+            },
+            {
+                "tag": "Real Life Environment",
+                "type": 1
+            }
+        ],
+        "date": "2008",
+        "title": "An Exploration into the Uses of Agent-Based Modeling to Improve Quality of Healthcare",
+        "pages": "471-478",
+        "publisher": "Springer",
+        "abstractNote": "Healthcare is a complex adaptive system. This paper discusses, healthcare in the context of complex systems architecture and an agent based modeling framework. The paper demonstrates complications of healthcare system improvement and it\u2019s impact on patient safety, economics and workloads. Further an application of safety dynamics model proposed by Cook and Rasmussen4 is explored using a hypothetical simulation of an emergency department. By means of simulation, this paper demonstrates the nonlinear behaviors of a health service unit and its complexities; and how the safety dynamic model may be used to evaluate various aspects of healthcare. Further work is required to apply this concept in a \u2018real life environment\u2019 and its consequence to societal, organizational and operational levels of healthcare.",
+        "ISBN": "9783540850816",
+        "place": "Berlin, Heidelberg",
+        "proceedingsTitle": "Unifying Themes in Complex Systems",
+        "DOI": "10.1007/978-3-540-85081-6_58",
+        "language": "en",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "3JNJ2933",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Hunter",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian Mac",
+                "lastName": "Namee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Kelleher",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Towns",
+                "type": 1
+            },
+            {
+                "tag": "Vaccination and immunization",
+                "type": 1
+            },
+            {
+                "tag": "Epidemiology",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Economic agents",
+                "type": 1
+            },
+            {
+                "tag": "Measles",
+                "type": 1
+            },
+            {
+                "tag": "MMR vaccine",
+                "type": 1
+            },
+            {
+                "tag": "Ireland",
+                "type": 1
+            }
+        ],
+        "title": "An open-data-driven agent-based model to simulate infectious disease outbreaks",
+        "DOI": "10.1371/journal.pone.0208775",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208775",
+        "abstractNote": "Agent-based models are a tool that can be used to better understand the dynamics of an infectious disease outbreak. An infectious disease outbreak is influenced by many factors including vaccination or immunity levels, population density, and the age structure of the population. We hypothesize that these factors along with interactions of factors and the actions of individuals would lead to outbreaks of different size and severity even in two towns that appear similar on paper. Thus, it is necessary to implement a model that is able to capture these interactions and the actions of individuals. Using openly available data we create a data-driven agent-based model to simulate the spread of an airborne infectious disease in an Irish town. Agent-based models have been known to produce results that include the emergence of patterns and behaviours that are not directly programmed into the model. Our model is tested by simulating an outbreak of measles that occurred in Schull, Ireland in 2012. We simulate the same outbreak in 33 different towns and look at the correlations between the model results and the town characteristics (population, area, vaccination rates, age structure) to determine if the results of the model are affected by interactions of those town characteristics and the decisions on the agents in the model. As expected our results show that the outbreaks are not strongly correlated with any of the main characteristics of the towns and thus the model is most likely capturing such interactions and the agent-based model is successful in capturing the differences in the outbreaks.",
+        "date": "Dec 19, 2018",
+        "publicationTitle": "PLOS ONE",
+        "journalAbbreviation": "PLOS ONE",
+        "volume": "13",
+        "issue": "12",
+        "pages": "e0208775",
+        "ISSN": "1932-6203",
+        "language": "en",
+        "libraryCatalog": "PLoS Journals",
+        "accessDate": "2024-01-05T15:02:20Z"
+    },
+    {
+        "key": "QJDIB2H6",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Karthik",
+                "lastName": "Nagarajan",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Congjian",
+                "lastName": "Ni",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ting",
+                "lastName": "Lu",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "ACS Synth Biol",
+        "publicationTitle": "ACS synthetic biology",
+        "ISSN": "2161-5063",
+        "abstractNote": "Microbial communities are complex living systems that populate the planet with diverse functions and are increasingly harnessed for practical human needs. To deepen the fundamental understanding of their organization and functioning as well as to facilitate their engineering for applications, mathematical modelling has played an increasingly important role. Agent-based models represent a class of powerful quantitative frameworks for investigating microbial communities owing to their individuality nature in describing cells, mechanistic characterization of molecular and cellular processes, and the intrinsic ability to produce emergent system properties. This article presents a comprehensive review for recent advances on the agent-based modeling of microbial communities. It surveys the state-of-the-art algorithms employed to simulate intracellular biomolecular events, single-cell behaviors, intercellular interactions, and interactions between cells and their environments which collectively serve as the driving forces of community behaviors. It also highlights three lines of applications of agent-based modeling, including the elucidation of microbial range expansion and colony ecology, design of synthetic gene circuits and microbial populations for desired behaviors, and characterization of biofilm formation and dispersal. The article concludes with a discussion of existing challenges, including the computational cost of the modeling, and potential mitigation strategies.",
+        "DOI": "10.1021/acssynbio.2c00411",
+        "extra": "PMID: 36315012\nPMCID: PMC10129392",
+        "title": "Agent-based Modeling of Microbial Communities",
+        "volume": "11",
+        "issue": "11",
+        "pages": "3564-3574",
+        "date": "2022-11-18",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10129392/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2024-01-05T15:06:23Z"
+    },
+    {
+        "key": "4XHA35VM",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Karun",
+                "lastName": "Kaniyamattam",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Luis O",
+                "lastName": "Tedeschi",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "DOI": "10.1093/jas/skad321",
+        "pages": "skad321",
+        "ISSN": "1525-3163",
+        "abstractNote": "Over the last three decades, agent-based modeling/model (ABM) has been one of the most powerful and valuable simulation-based decision modeling techniques used to study the complex dynamic interactions between animals and their environment. ABM is a relatively new modeling technique in the animal research arena, with immense potential for routine decision-making in livestock systems. We describe ABM\u2019s fundamental characteristics for developing intelligent modeling systems, exemplify its use for livestock production, and describe commonly used software for designing and developing ABM. After that, we discuss several aspects of the developmental mechanics of an ABM, including (1) how livestock researchers can conceptualize and design a model, (2) the main components of an ABM, (3) different statistical methods of analyzing the outputs, and (4) verification, validation, and replication of an ABM. Then, we perform an overall analysis of the utilities of ABM in different subsystems of the livestock systems ranging from epidemiological prediction to nutritional management to livestock market dynamics. Finally, we discuss the concept of hybrid intelligent models (i.e., merging real-time data streams with intelligent ABM), which have applications in artificial intelligence-based decision-making for precision livestock farming. ABM captures individual agents\u2019 characteristics, interactions, and the emergent properties that arise from these interactions; thus, animal scientists can benefit from ABM in multiple ways, including understanding system-level outcomes, analyzing agent behaviors, exploring different scenarios, and evaluating policy interventions. Several platforms for building ABM exist (e.g., NetLogo, Repast J, and AnyLogic), but they have unique features making one more suitable for solving specific problems. The strengths of ABM can be combined with other modeling approaches, including artificial intelligence, allowing researchers to advance our understanding further and contribute to sustainable livestock management practices. There are many ways to develop and apply mathematical models in livestock production that might assist with sustainable development. However, users must be experienced when choosing the appropriate modeling technique and computer platform (i.e., modeling development tool) that will facilitate the adoption of mathematical models by certifying that the model is field-ready and versatile enough for untrained users.Agent-based modeling (ABM) is a well-known simulation technique that decision-makers of livestock systems can use to develop holistic, long-term, and well-informed decisions. This modeling technique facilitates the investigation of complex systems of different individuals, given its capability to simulate individual agents, their specific characteristics, and their inherent capacity to memorize individuals\u2019 past behaviors. Livestock systems are complex systems involving multiple stakeholders with collaborative and sometimes competing interests; thus, ABM might aid in achieving sustainability goals of interest to livestock systems. The modeling processes involved in developing a generic ABM and its utilities are described, so that livestock researchers can build multiple models customized for their research needs. We discuss numerous software platforms that livestock systems modelers can utilize towards this goal. A brief overview of the state-of-the-art ABM developed by different domain experts researching livestock systems was done so that decision modelers working in the field can use those models to conceptualize and design their models for their specific research needs. We also made a case for hybridizing the ABM with real-time data streaming technology to support precision livestock sensor initiatives to enhance the utility of agent-based models for real-time decision-making.",
+        "url": "https://doi.org/10.1093/jas/skad321",
+        "title": "ASAS-NANP symposium: mathematical modeling in animal nutrition: agent-based modeling for livestock systems: the mechanics of development and application",
+        "date": "2023-01-01",
+        "journalAbbreviation": "Journal of Animal Science",
+        "volume": "101",
+        "publicationTitle": "Journal of Animal Science",
+        "libraryCatalog": "Silverchair",
+        "accessDate": "2024-01-05T15:08:29Z",
+        "shortTitle": "ASAS-NANP symposium"
+    },
+    {
+        "key": "FX6F8BNB",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jennifer",
+                "lastName": "Badham",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Edmund",
+                "lastName": "Chattoe-Brown",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nigel",
+                "lastName": "Gilbert",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zaid",
+                "lastName": "Chalabi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frank",
+                "lastName": "Kee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ruth F.",
+                "lastName": "Hunter",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modelling",
+                "type": 1
+            },
+            {
+                "tag": "Health behaviour",
+                "type": 1
+            },
+            {
+                "tag": "Complex systems",
+                "type": 1
+            },
+            {
+                "tag": "Spatial modelling",
+                "type": 1
+            },
+            {
+                "tag": "Modelling non-communicable diseases",
+                "type": 1
+            }
+        ],
+        "pages": "170-177",
+        "date": "2018-11-01",
+        "ISSN": "1353-8292",
+        "DOI": "10.1016/j.healthplace.2018.08.022",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1353829218301047",
+        "abstractNote": "Managing non-communicable diseases requires policy makers to adopt a whole systems perspective that adequately represents the complex causal architecture of human behaviour. Agent-based modelling is a computational method to understand the behaviour of complex systems by simulating the actions of entities within the system, including the way these individuals influence and are influenced by their physical and social environment. The potential benefits of this method have led to several calls for greater use in public health research. We discuss three challenges facing potential modellers: model specification, obtaining required data, and developing good practices. We also present steps to assist researchers to meet these challenges and implement their agent-based model.",
+        "title": "Developing agent-based models of complex health behaviour",
+        "journalAbbreviation": "Health & Place",
+        "volume": "54",
+        "publicationTitle": "Health & Place",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:10:30Z"
+    },
+    {
+        "key": "KDBZLEEI",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [],
+        "tags": [],
+        "title": "Uncovering physical activity tradeoffs in transportation policy: A spatial agent-based model of Bogot\u00e1, Colombia",
+        "url": "https://www.researchsquare.com",
+        "abstractNote": "Background: Transportation policies can impact health outcomes while simultaneously promoting social equity and environmental sustainability. We developed an agent-based model (ABM) to simulate the impacts of fare subsidies and congestion taxes on commuter decision-making and ...",
+        "date": "2023-11-03",
+        "language": "en",
+        "accessDate": "2024-01-05T15:18:32Z",
+        "extra": "DOI: 10.21203/rs.3.rs-3539008/v1",
+        "shortTitle": "Uncovering physical activity tradeoffs in transportation policy"
+    },
+    {
+        "key": "2N2Z5C8F",
+        "version": 0,
+        "itemType": "bookSection",
+        "creators": [
+            {
+                "firstName": "Scott",
+                "lastName": "Christley",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yoram",
+                "lastName": "Vodovotz",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Gary",
+                "lastName": "An",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Cellular Automaton",
+                "type": 1
+            },
+            {
+                "tag": "Multiagent System",
+                "type": 1
+            },
+            {
+                "tag": "Cellular Automaton",
+                "type": 1
+            },
+            {
+                "tag": "Agent Class",
+                "type": 1
+            },
+            {
+                "tag": "Computational Agent",
+                "type": 1
+            }
+        ],
+        "date": "2013",
+        "title": "Agent-Based Modeling in Translational Systems Biology",
+        "pages": "29-49",
+        "publisher": "Springer",
+        "abstractNote": "Agent-based modeling is an object-oriented, discrete event, population-focused method for the computational representation of dynamic systems. Agent-based models (ABMs) treat systems as aggregates of populations of interacting components governed by rules. This means of system representation allows ABMs to map well to how biological knowledge is represented and communicated. As a result, agent-based modeling is an intuitive means by which biomedical researchers can represent their knowledge in a dynamic computational form and in so doing can lower the threshold for the general biological researcher to engage in computational modeling. ABMs are particularly suited for representing the behavior of populations of cells (i.e., \u201ccell-as-agents\u201d) but have also been used to model lower level processes, such as molecular interactions when spatial and structural properties are involved, as well as higher level systems, such as in human populations in epidemiological studies. For purposes of its use in translational systems biology, we focus on the use of cell/tissue-as-agent ABMs and demonstrate how agent-based modeling can serve as an integrating framework for dynamic knowledge representation of biological systems.",
+        "ISBN": "9781461480082",
+        "url": "https://doi.org/10.1007/978-1-4614-8008-2_3",
+        "extra": "DOI: 10.1007/978-1-4614-8008-2_3",
+        "bookTitle": "Complex Systems and Computational Biology Approaches to Acute Inflammation",
+        "place": "New York, NY",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2024-01-05T15:18:40Z"
+    },
+    {
+        "key": "3XWZG8DD",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Tae-Sub",
+                "lastName": "Yun",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Dongjun",
+                "lastName": "Kim",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Il-Chul",
+                "lastName": "Moon",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jang Won",
+                "lastName": "Bae",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-Based Model for Urban Administration: A Case Study of Bridge Construction and its Traffic Dispersion Effect",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2022",
+        "volume": "25",
+        "issue": "4",
+        "pages": "5",
+        "shortTitle": "Agent-Based Model for Urban Administration"
+    },
+    {
+        "key": "75ND7C4M",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Reyhaneh",
+                "lastName": "Zafarnejad",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Paul M.",
+                "lastName": "Griffin",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "SARS-CoV-2 (COVID-19)",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based simulation",
+                "type": 1
+            },
+            {
+                "tag": "Virus airborne transmission",
+                "type": 1
+            },
+            {
+                "tag": "Social distancing",
+                "type": 1
+            },
+            {
+                "tag": "Ventilation",
+                "type": 1
+            },
+            {
+                "tag": "Surveillance testing",
+                "type": 1
+            },
+            {
+                "tag": "Contact tracing",
+                "type": 1
+            }
+        ],
+        "pages": "104518",
+        "date": "2021-07-01",
+        "ISSN": "0010-4825",
+        "DOI": "10.1016/j.compbiomed.2021.104518",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0010482521003127",
+        "abstractNote": "Many schools and universities have seen a significant increase in the spread of COVID-19. As such, a number of non-pharmaceutical interventions have been proposed including distancing requirements, surveillance testing, and updating ventilation systems. Unfortunately, there is limited guidance for which policy or set of policies are most effective for a specific school system. We develop a novel approach to model the spread of SARS-CoV-2 quanta in a closed classroom environment that extends traditional transmission models that assume uniform mixing through air recirculation by including the local spread of quanta from a contagious source. In addition, the behavior of students with respect to guideline compliance was modeled through an agent-based simulation. Estimated infection rates were on average lower using traditional transmission models compared to our approach. Further, we found that although ventilation changes were effective at reducing mean transmission risk, it had much less impact than distancing practices. Duration of the class was an important factor in determining the transmission risk. For the same total number of semester hours for a class, delivering lectures more frequently for shorter durations was preferable to less frequently with longer durations. Finally, as expected, as the contact tracing level increased, more infectious students were identified and removed from the environment and the spread slowed, though there were diminishing returns. These findings can help provide guidance as to which school-based policies would be most effective at reducing risk and can be used in a cost/comparative effectiveness estimation study given local costs and constraints.",
+        "title": "Assessing school-based policy actions for COVID-19: An agent-based analysis of incremental infection risk",
+        "journalAbbreviation": "Computers in Biology and Medicine",
+        "volume": "134",
+        "publicationTitle": "Computers in Biology and Medicine",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:20:43Z",
+        "shortTitle": "Assessing school-based policy actions for COVID-19"
+    },
+    {
+        "key": "Y6KQ5ZP4",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jeetika",
+                "lastName": "Malik",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ardeshir",
+                "lastName": "Mahdavi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elie",
+                "lastName": "Azar",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Handi",
+                "lastName": "Chandra Putra",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christiane",
+                "lastName": "Berger",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Clinton",
+                "lastName": "Andrews",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tianzhen",
+                "lastName": "Hong",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Occupant behavior",
+                "type": 1
+            },
+            {
+                "tag": "Human\u2013building interaction",
+                "type": 1
+            },
+            {
+                "tag": "Built environment",
+                "type": 1
+            },
+            {
+                "tag": "Building performance simulation",
+                "type": 1
+            }
+        ],
+        "pages": "109016",
+        "date": "2022-06-01",
+        "ISSN": "0360-1323",
+        "DOI": "10.1016/j.buildenv.2022.109016",
+        "url": "https://www.sciencedirect.com/science/article/pii/S036013232200258X",
+        "abstractNote": "The complexity of occupant behavior is one of the major contributors to uncertainty in building performance simulation. Agent-based modeling (ABM), a computational simulation technique, has gained attention in the occupant modeling field due to its capability and flexibility to capture the heterogeneity and dynamics of human behavior and the emergent effects. While multiple efforts in the past decade have demonstrated the usefulness of the ABM approach for simulating occupants and their impacts on building performance, several crucial matters in the ABM research still remain unexplored. This paper presents ten questions that highlight the most important issues regarding ABM research and applications for occupant behavior in the context of building performance simulation. The questions and answers aim to provide insights into current and future ABM research, and more importantly to inspire new significant questions from young researchers in the field. This research is part of the IEA EBC Annex 79 project, occupant-centric building design and operation.",
+        "title": "Ten questions concerning agent-based modeling of occupant behavior for energy and environmental performance of buildings",
+        "journalAbbreviation": "Building and Environment",
+        "volume": "217",
+        "publicationTitle": "Building and Environment",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:22:46Z"
+    },
+    {
+        "key": "RM4F8E6A",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S0968090X17303194",
+        "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "accessDate": "2024-01-05T15:24:50Z"
+    },
+    {
+        "key": "LQUR79P8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Danhui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jia",
+                "lastName": "Yang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jin",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ning",
+                "lastName": "Zhao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Wensheng",
+                "lastName": "Ju",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Moning",
+                "lastName": "Guo",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Differentiated medical service prices",
+                "type": 1
+            },
+            {
+                "tag": "Simulation model",
+                "type": 1
+            },
+            {
+                "tag": "Behavior of seeking medical services",
+                "type": 1
+            },
+            {
+                "tag": "Simulation experiment",
+                "type": 1
+            }
+        ],
+        "date": "2023-08-30",
+        "title": "Agent-Based Modeling and Simulation (ABMS)on the influence of adjusting medical service fees on patients' choice of medical treatment",
+        "pages": "928",
+        "abstractNote": "We explored the impact of medical service fee adjustments on the choice of medical treatment for hypertensive patients in Beijing. We hope to provide decision-making reference to promote the realization of hierarchical diagnosis and treatment in Beijing.",
+        "ISSN": "1472-6963",
+        "url": "https://doi.org/10.1186/s12913-023-09933-3",
+        "DOI": "10.1186/s12913-023-09933-3",
+        "journalAbbreviation": "BMC Health Serv Res",
+        "volume": "23",
+        "issue": "1",
+        "publicationTitle": "BMC Health Services Research",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2024-01-05T15:28:53Z"
+    },
+    {
+        "key": "X7NWK8UR",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Mohammad Faiz",
+                "lastName": "Alam",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "McClain",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alok",
+                "lastName": "Sikka",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Saket",
+                "lastName": "Pande",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "DOI": "10.1088/1748-9326/ac91e1",
+        "url": "https://dx.doi.org/10.1088/1748-9326/ac91e1",
+        "volume": "17",
+        "issue": "10",
+        "pages": "103003",
+        "title": "Understanding human\u2013water feedbacks of interventions in agricultural systems with agent based models: a review",
+        "publicationTitle": "Environmental Research Letters",
+        "abstractNote": "Increased variability of the water cycle manifested by climate change is a growing global threat to agriculture with strong implications for food and livelihood security. Thus, there is an urgent need for adaptation in agriculture. Agricultural water management (AWM) interventions, interventions for managing water supply and demand, are extensively promoted and implemented as adaptation measures in multiple development programs globally. Studies assessing these adaptation measures overwhelmingly focus on positive impacts, however, there is a concern that these studies may be biased towards well-managed and successful projects and often miss out on reporting negative externalities. These externalities result from coevolutionary dynamics of human\u2013water systems as AWM interventions impact hydrological flows and their use and adoption is shaped by the societal response. We review the documented externalities of AWM interventions and present a conceptual framework classifying negative externalities linked to water and human systems into negative hydrological externalities and unexpected societal feedbacks. We show that these externalities can lead to long term unsustainable and inequitable outcomes. Understanding how the externalities lead to undesirable outcomes demands rigorous modeling of the feedbacks between human and water systems, for which we discuss the key criteria that such models should meet. Based on these criteria, we showcase that differentiated and limited inclusion of key feedbacks in current water modeling approaches (e.g. hydrological models, hydro-economic, and water resource models) is a critical limitation and bottleneck to understanding and predicting negative externalities of AWM interventions. To account for the key feedback, we find agent-based modeling (ABM) as the method that has the potential to meet the key criteria. Yet there are gaps that need to be addressed in the context of ABM as a tool to unravel the negative externalities of AWM interventions. We carry out a systemic review of ABM application to agricultural systems, capturing how it is currently being applied and identifying the knowledge gaps that need to be bridged to unravel the negative externalities of AWM interventions. We find that ABM has been extensively used to model agricultural systems and, in many cases, the resulting externalities with unsustainable and inequitable outcomes. However, gaps remain in terms of limited use of integrated surface\u2013groundwater hydrological models, inadequate representation of farmers\u2019 behavior with heavy reliance on rational choice or simple heuristics and ignoring heterogeneity of farmers\u2019 characteristics within a population.",
+        "date": "2022-10",
+        "ISSN": "1748-9326",
+        "language": "en",
+        "journalAbbreviation": "Environ. Res. Lett.",
+        "libraryCatalog": "Institute of Physics",
+        "accessDate": "2024-01-05T15:30:57Z",
+        "shortTitle": "Understanding human\u2013water feedbacks of interventions in agricultural systems with agent based models"
+    },
+    {
+        "key": "HI5V3AT7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Keumseok",
+                "lastName": "Koh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rebecca",
+                "lastName": "Reno",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ayaz",
+                "lastName": "Hyder",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "Group model building",
+                "type": 1
+            },
+            {
+                "tag": "Food insecurity",
+                "type": 1
+            },
+            {
+                "tag": "Systems science",
+                "type": 1
+            },
+            {
+                "tag": "System dynamics",
+                "type": 1
+            }
+        ],
+        "date": "2018-04-01",
+        "title": "Designing an Agent-Based Model Using Group Model Building: Application to Food Insecurity Patterns in a U.S. Midwestern Metropolitan City",
+        "pages": "278-289",
+        "abstractNote": "Recent advances in computing resources have increased interest in systems modeling and population health. While group model building (GMB) has been effectively applied in developing system dynamics models (SD), few studies have used GMB for developing an agent-based model (ABM). This article explores the use of a GMB approach to develop an ABM focused on food insecurity. In our GMB workshops, we modified a set of the standard GMB scripts to develop and validate an ABM in collaboration with local experts and stakeholders. Based on this experience, we learned that GMB is a useful collaborative modeling platform for modelers and community experts to address local population health issues. We also provide suggestions for increasing the use of the GMB approach to develop rigorous, useful, and validated ABMs.",
+        "ISSN": "1468-2869",
+        "url": "https://doi.org/10.1007/s11524-018-0230-1",
+        "DOI": "10.1007/s11524-018-0230-1",
+        "journalAbbreviation": "J Urban Health",
+        "volume": "95",
+        "issue": "2",
+        "publicationTitle": "Journal of Urban Health",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2024-01-05T15:32:59Z",
+        "shortTitle": "Designing an Agent-Based Model Using Group Model Building"
+    },
+    {
+        "key": "D5WPYXFQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Parisa",
+                "lastName": "Zare",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Simone",
+                "lastName": "Leao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ori",
+                "lastName": "Gudes",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Christopher",
+                "lastName": "Pettit",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Bicycling planning",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Simulation",
+                "type": 1
+            },
+            {
+                "tag": "Sydney",
+                "type": 1
+            }
+        ],
+        "pages": "102059",
+        "date": "2024-03-01",
+        "ISSN": "0198-9715",
+        "DOI": "10.1016/j.compenvurbsys.2023.102059",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0198971523001229",
+        "abstractNote": "Bicycling can improve the sustainability and liveability of cities, many of which desperately require better active transport infrastructure. Urban and transport planners need to examine how improvements in infrastructure change bicyclists' behaviour. With this knowledge, investment in bicycling networks can be more efficient and encourage the use of bicycling for transportation. This study developed a simple Agent-Based Model (ABM) to simulate bicyclists' movements in response to the built environment and road network characteristics in the City of Penrith, in the Greater Sydney Area, Australia. In this case study, the GAMA platform was used to build the ABM and Strava and Riderlog data were used to calibrate and validate the model. The model outputs give insights into bicyclist movements through the road network. The incorporated built environment characteristics include the type of bicycling infrastructure, tree canopy, slope, land use mix, and vehicle traffic. These choice factors also allowed the computation of rider levels of comfort and safety on each trip. Potential refinements of the model include additional bicycling behaviour factors (such as aesthetic preferences), and bicyclists' interactions with each other and other modes of transport.",
+        "title": "A simple agent-based model for planning for bicycling: Simulation of bicyclists' movements in urban environments",
+        "journalAbbreviation": "Computers, Environment and Urban Systems",
+        "volume": "108",
+        "publicationTitle": "Computers, Environment and Urban Systems",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:35:01Z",
+        "shortTitle": "A simple agent-based model for planning for bicycling"
+    },
+    {
+        "key": "5G6DV68J",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Peng",
+                "lastName": "Lu",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zhuo",
+                "lastName": "Zhang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Chiamaka Henrietta",
+                "lastName": "Onyebuchi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lifan",
+                "lastName": "Zheng",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Crowd dynamics",
+                "type": 1
+            },
+            {
+                "tag": "High-rise building fires",
+                "type": 1
+            },
+            {
+                "tag": "Social force model",
+                "type": 1
+            },
+            {
+                "tag": "Self-rescue behaviors",
+                "type": 1
+            }
+        ],
+        "pages": "107401",
+        "date": "2024-01-01",
+        "ISSN": "0952-1976",
+        "DOI": "10.1016/j.engappai.2023.107401",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0952197623015853",
+        "abstractNote": "It is always challenging to seek external rescue assistance in high-rise building fires. Therefore, it is critical for individuals to master survival skills. For crowd dynamics modeling, previous research focused on numerical simulations and building designs with little attention to the self-rescue mechanism. It is critical to understanding crowd evacuations and better response strategies. We modeled the Grenfell Tower (a high-rise building with a complicated structure) case in 2017. Based on the percolation and social force models, we build an agent-based model to simulate individual behaviors inside. We obtain the optimal solution and robust paralleled outcomes under all counterfactual situations based on precisely matching tangible case outcomes (fire duration, deaths, and injuries). For individuals, mastering self-rescue skills is better at reducing social losses (deaths & injuries). In terms of high-rise buildings design, the central alarm system is also useful to reduce them. Besides, the crowd evacuation guided by the social force model also reduces deaths & injuries. This work provides insight into better high-rise building design and practical response strategies for societies. The central alarm system and fire-proof materials should be used in high-rise buildings. The residents should have routine training in social force-based evacuations and survival (self-rescue) skills to better the evacuation process and outcome under natural disasters and social emergencies.",
+        "title": "Agent-based modeling of high-rise building fires reveals self-rescue behaviors and better fire protection designs",
+        "journalAbbreviation": "Engineering Applications of Artificial Intelligence",
+        "volume": "127",
+        "publicationTitle": "Engineering Applications of Artificial Intelligence",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:37:06Z"
+    },
+    {
+        "key": "4VQZFPIT",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Carlos F.",
+                "lastName": "Mena",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Stephen J.",
+                "lastName": "Walsh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian G.",
+                "lastName": "Frizzelle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yao",
+                "lastName": "Xiaozheng",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "George P.",
+                "lastName": "Malanson",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Household decision-making model",
+                "type": 1
+            },
+            {
+                "tag": "Northern Ecuadorian Amazon",
+                "type": 1
+            }
+        ],
+        "pages": "210-222",
+        "date": "2011-01-01",
+        "ISSN": "0143-6228",
+        "DOI": "10.1016/j.apgeog.2010.04.005",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0143622810000512",
+        "abstractNote": "This paper describes the design and implementation of an Agent-Based Model (ABM) used to simulate land use change on household farms in the Northern Ecuadorian Amazon (NEA). The ABM simulates decision-making processes at the household level that is examined through a longitudinal, socio-economic and demographic survey that was conducted in 1990 and 1999. Geographic Information Systems (GIS) are used to establish spatial relationships between farms and their environment, while classified Landsat Thematic Mapper (TM) imagery is used to set initial land-use/land-cover conditions for the spatial simulation, assess from-to land-use/land-cover change patterns, and describe trajectories of land use change at the farm and landscape levels. Results from prior studies in the NEA provide insights into the key social and ecological variables, describe human behavioral functions, and examine population\u2013environment interactions that are linked to deforestation and agricultural extensification, population migration, and demographic change. Within the architecture of the model, agents are classified as active or passive. The model comprises four modules, i.e., initialization, demography, agriculture, and migration that operate individually, but are linked through key household processes. The main outputs of the model include a spatially-explicit representation of the land use/land cover on survey and non-survey farms and at the landscape level for each annual time-step, as well as simulated socio-economic and demographic characteristics of households and communities. The work describes the design and implementation of the model and how population\u2013environment interactions can be addressed in a frontier setting. The paper contributes to land change science by examining important pattern\u2013process relations, advocating a spatial modeling approach that is capable of synthesizing fundamental relationships at the farm level, and links people and environment in complex ways.",
+        "title": "Land use change on household farms in the Ecuadorian Amazon: Design and implementation of an agent-based model",
+        "journalAbbreviation": "Applied Geography",
+        "volume": "31",
+        "issue": "1",
+        "series": "Hazards",
+        "publicationTitle": "Applied Geography",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:39:08Z",
+        "shortTitle": "Land use change on household farms in the Ecuadorian Amazon"
+    },
+    {
+        "key": "M6SZ883H",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. N.",
+                "lastName": "Uddin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Q.",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hsi Hsien",
+                "lastName": "Wei",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hung Lin",
+                "lastName": "Chi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meng",
+                "lastName": "Ni",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Office Building",
+                "type": 1
+            },
+            {
+                "tag": "BPS",
+                "type": 1
+            },
+            {
+                "tag": "BIM",
+                "type": 1
+            },
+            {
+                "tag": "SD",
+                "type": 1
+            },
+            {
+                "tag": "ABM & Occupant Comfort",
+                "type": 1
+            }
+        ],
+        "pages": "4261-4274",
+        "date": "2021-12-01",
+        "ISSN": "2090-4479",
+        "DOI": "10.1016/j.asej.2021.04.015",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2090447921001969",
+        "abstractNote": "Several frameworks are introduced to address occupancy-based building performance. However, the performance predictions obtained using these frameworks deviate from real performance. So, this study\u2019s aim is to represent a new framework for the automatic assessment of occupants\u2019 comfort and building indoor performance using BIM and the SD-ABM platform. Initially, an office space in Hong Kong, consisting of 10 occupants, was considered for the BIM model construction. The occupancy, indoor data and required equations are defined using the SD-ABM model. Essential data from the BIM model can be transferred using the Dynamo-Excel platform. Furthermore, a validation study was conducted using a paper-based survey from the occupants and sensor data for environmental data monitoring while error metrics were also calculated. The framework actively predicts occupant presence, comfort level, temperatures, and CO2 concentration in the office space. However, a comprehensive usability and feasibility study is required to assess the efficiency of the framework.",
+        "title": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM): Towards an integrated approach",
+        "journalAbbreviation": "Ain Shams Engineering Journal",
+        "volume": "12",
+        "issue": "4",
+        "publicationTitle": "Ain Shams Engineering Journal",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:43:10Z",
+        "shortTitle": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM)"
+    },
+    {
+        "key": "5KIK9R3A",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Firouzeh",
+                "lastName": "Taghikhah",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alexey",
+                "lastName": "Voinov",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tatiana",
+                "lastName": "Filatova",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "J. Gareth",
+                "lastName": "Polhill",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Behavioral analytics",
+                "type": 1
+            },
+            {
+                "tag": "Social communications",
+                "type": 1
+            },
+            {
+                "tag": "Interpretable artificial intelligence",
+                "type": 1
+            },
+            {
+                "tag": "Conceptual modeling",
+                "type": 1
+            },
+            {
+                "tag": "Systems thinking",
+                "type": 1
+            }
+        ],
+        "pages": "101854",
+        "date": "2022-10-01",
+        "ISSN": "1877-7503",
+        "DOI": "10.1016/j.jocs.2022.101854",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877750322002137",
+        "abstractNote": "While agent-based modeling (ABM) has become one of the most powerful tools in quantitative social sciences, it remains difficult to explain their structure and performance. We propose to use artificial intelligence both to build the models from data, and to improve the way we communicate models to stakeholders. Although machine learning is actively employed for pre-processing data, here for the first time, we used it to facilitate model development of a simulation model directly from data. Our suggested framework, ML-ABM accounts for causality and feedback loops in a complex nonlinear system and at the same time keeps it transparent for stakeholders. As a result, beside the development of a behavioral ABM, we open the \u2018blackbox\u2019 of purely empirical models. With our approach, artificial intelligence in the simulation field can open a new stream in modeling practices and provide insights for future applications.",
+        "title": "Machine-assisted agent-based modeling: Opening the black box",
+        "journalAbbreviation": "Journal of Computational Science",
+        "volume": "64",
+        "publicationTitle": "Journal of Computational Science",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T15:47:12Z",
+        "shortTitle": "Machine-assisted agent-based modeling"
+    },
+    {
+        "key": "LXV2BF24",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Stefani A.",
+                "lastName": "Crabtree",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kathryn",
+                "lastName": "Harris",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Benjamin",
+                "lastName": "Davies",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Iza",
+                "lastName": "Romanowska",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "agent-based modeling",
+                "type": 1
+            },
+            {
+                "tag": "policy",
+                "type": 1
+            },
+            {
+                "tag": "outreach",
+                "type": 1
+            },
+            {
+                "tag": "SHPO",
+                "type": 1
+            },
+            {
+                "tag": "THPO",
+                "type": 1
+            },
+            {
+                "tag": "CRM",
+                "type": 1
+            },
+            {
+                "tag": "computers",
+                "type": 1
+            },
+            {
+                "tag": "models",
+                "type": 1
+            },
+            {
+                "tag": "museums",
+                "type": 1
+            },
+            {
+                "tag": "modelos basados en agentes",
+                "type": 1
+            },
+            {
+                "tag": "divulgaci\u00f3n arqueol\u00f3gica",
+                "type": 1
+            },
+            {
+                "tag": "experimento",
+                "type": 1
+            },
+            {
+                "tag": "herramientas digitales",
+                "type": 1
+            }
+        ],
+        "title": "Outreach in Archaeology with Agent-Based Modeling: Part 3 of 3",
+        "DOI": "10.1017/aap.2019.4",
+        "url": "https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/abs/outreach-in-archaeology-with-agentbased-modeling-part-3-of-3/CF17C24826753D58A882333AA565B7AE",
+        "abstractNote": "A major challenge facing archaeologists is communicating our research to the\npublic. Thankfully, new computational tools have enabled the testing and\nvisualization of complex ideas in an easily packageable format. In this article\nwe illustrate not only how agent-based modeling provides a platform for\ncommunicating complex ideas, but also how these game-like computer models can be\nexplored and manipulated by members of the public therefore increasing their\nengagement in archaeological explanations. We suggest that these new digital\ntools serve as an excellent aid for education on the importance of\narchaeological sites and artifacts. To illustrate the above we walk the reader\nthrough a step-by-step pipeline of how to run an ABM model as an experiment and\nhow to export it into a form ready to be sent to SHPO and THPO offices in tandem\nwith reports. Ultimately, we hope that this work will help demystify the\ncomputational archaeology process and lead to more fluency in using agent-based\nmodeling in research and outreach., Uno de los mayores desaf\u00edos a los que se enfrentan los\narque\u00f3logos es hacer llegar nuestra disciplina al p\u00fablico.\nAfortunadamente, las nuevas herramientas computacionales nos permiten examinar y\nvisualizar ideas complejas en un formato m\u00e1s accesible. En este\nart\u00edculo demostramos como los modelos basados en agentes pueden ser\nuna plataforma eficaz para la comunicaci\u00f3n de ideas complejas,\nas\u00ed como accesibles al consumo p\u00fablico gracias a su\nsimilitud con los videojuegos. Aqu\u00ed sugerimos que estas nuevas\nherramientas digitales pueden ser usadas de forma did\u00e1ctica para\neducar en la importancia de los yacimientos y artefactos\narqueol\u00f3gicos. De esta manera, se pretende guiar al lector paso a\npaso para ejecutar un modelo como experimento que le permita exportar a las\noficinas del gobierno local (SHPO y THPO) en conjunto con los informes\narqueol\u00f3gicos. En \u00faltima instancia, esperamos que este\ntrabajo pueda ayudar a desmitificar el m\u00e9todo de la\narqueolog\u00eda computacional y permita su uso m\u00e1s frecuente\nen la investigaci\u00f3n y divulgaci\u00f3n\narqueol\u00f3gica.",
+        "date": "2019/05",
+        "publicationTitle": "Advances in Archaeological Practice",
+        "volume": "7",
+        "issue": "2",
+        "pages": "194-202",
+        "ISSN": "2326-3768",
+        "language": "en",
+        "libraryCatalog": "Cambridge University Press",
+        "accessDate": "2024-01-05T15:59:17Z",
+        "shortTitle": "Outreach in Archaeology with Agent-Based Modeling"
+    },
+    {
+        "key": "WB3VHI3N",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. N.",
+                "lastName": "Uddin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Q.",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hsi Hsien",
+                "lastName": "Wei",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hung Lin",
+                "lastName": "Chi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meng",
+                "lastName": "Ni",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Office Building",
+                "type": 1
+            },
+            {
+                "tag": "BPS",
+                "type": 1
+            },
+            {
+                "tag": "BIM",
+                "type": 1
+            },
+            {
+                "tag": "SD",
+                "type": 1
+            },
+            {
+                "tag": "ABM & Occupant Comfort",
+                "type": 1
+            }
+        ],
+        "pages": "4261-4274",
+        "date": "2021-12-01",
+        "ISSN": "2090-4479",
+        "DOI": "10.1016/j.asej.2021.04.015",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2090447921001969",
+        "abstractNote": "Several frameworks are introduced to address occupancy-based building performance. However, the performance predictions obtained using these frameworks deviate from real performance. So, this study\u2019s aim is to represent a new framework for the automatic assessment of occupants\u2019 comfort and building indoor performance using BIM and the SD-ABM platform. Initially, an office space in Hong Kong, consisting of 10 occupants, was considered for the BIM model construction. The occupancy, indoor data and required equations are defined using the SD-ABM model. Essential data from the BIM model can be transferred using the Dynamo-Excel platform. Furthermore, a validation study was conducted using a paper-based survey from the occupants and sensor data for environmental data monitoring while error metrics were also calculated. The framework actively predicts occupant presence, comfort level, temperatures, and CO2 concentration in the office space. However, a comprehensive usability and feasibility study is required to assess the efficiency of the framework.",
+        "title": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM): Towards an integrated approach",
+        "journalAbbreviation": "Ain Shams Engineering Journal",
+        "volume": "12",
+        "issue": "4",
+        "publicationTitle": "Ain Shams Engineering Journal",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T16:01:23Z",
+        "shortTitle": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM)"
+    },
+    {
+        "key": "Q8X9IQGN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Bilal Ahmad",
+                "lastName": "Munir",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sidrah",
+                "lastName": "Hafeez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sajid",
+                "lastName": "Rashid",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rabia",
+                "lastName": "Iqbal",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Muhammad Asif",
+                "lastName": "Javed",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Network analyst",
+                "type": 1
+            },
+            {
+                "tag": "Location-allocation",
+                "type": 1
+            },
+            {
+                "tag": "GIS",
+                "type": 1
+            },
+            {
+                "tag": "Agent analyst",
+                "type": 1
+            }
+        ],
+        "date": "2020-06-01",
+        "title": "Geospatial assessment of physical accessibility of healthcare and agent-based modeling for system efficacy",
+        "pages": "665-680",
+        "abstractNote": "\u201cHealthcare for all\u201d is integral to achieve social equity. The geographical network of point of health care (POHC) is often limited by connectivity, accessibility and equity issues in developing areas. Matured spatial analysis techniques make ease in the identification of gaps and help to improve the healthcare system. This study sought to analyze inadequacy and equity issues in physical accessibility of POHC system in a developing area, Muzaffargarh, Pakistan by data variables representing the aggregated population, road network, travel time and transportation mode using network analyst in ArcGIS. Potential service catchment areas are delineated for a geographic network of existing POHCs\u2019 at 5, 10, and 15\u00a0min of travel time. Further Agent-Based Model (ABM), a python script-based program in the ArcGIS environment, as the computational method is used for the location-allocation of new POHC to suggest improvements in the efficacy of the existing healthcare system. The proposed ABM approach has improved the overall efficacy of the system by identifying 13 new sites for POHC. Urban areas (zone 3, 5) are observed to have large service catchment and high accessibility for the community due to an efficient road network. However, rural areas (zone 1, 2, and 4) are identified as weak accessibility regions due to the poor road network and inadequate distribution of existing POHCs.",
+        "ISSN": "1572-9893",
+        "url": "https://doi.org/10.1007/s10708-019-09987-z",
+        "DOI": "10.1007/s10708-019-09987-z",
+        "journalAbbreviation": "GeoJournal",
+        "volume": "85",
+        "issue": "3",
+        "publicationTitle": "GeoJournal",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2024-01-05T16:05:25Z"
+    },
+    {
+        "key": "S4T7MTWL",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Andr\u00e9",
+                "lastName": "Calero Valdez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Johannes",
+                "lastName": "Nakayama",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Luisa",
+                "lastName": "Vervier",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hendrik",
+                "lastName": "Nunner",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Martina",
+                "lastName": "Ziefle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Vincent G.",
+                "lastName": "Duffy",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            }
+        ],
+        "date": "2023",
+        "title": "Using Agent-Based Modeling to Understand Complex Social Phenomena - A Curriculum Approach",
+        "pages": "368-377",
+        "publisher": "Springer Nature Switzerland",
+        "abstractNote": "Agent-based modeling (ABM) is a powerful tool for studying complex systems that involve multiple agents interacting with each other and their environment. However, there is a lack of comprehensive and easily accessible resources for learning about ABM and its applications. To address this issue, collaboration on developing an open curriculum on ABM for university seminars is proposed. An open curriculum would allow for the sharing of expertise and knowledge across disciplines and institutions, be more accessible to a broader audience, and foster greater collaboration and cooperation among researchers and practitioners in the field of ABM. This would ultimately improve the accessibility and impact of ABM as a tool for understanding and predicting the behavior of complex systems. We propose a curriculum comprising six modules covering the introduction to ABM, building an ABM, analyzing and interpreting results, real-world applications, advanced topics, and future directions.",
+        "ISBN": "9783031357480",
+        "place": "Cham",
+        "proceedingsTitle": "Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management",
+        "DOI": "10.1007/978-3-031-35748-0_27",
+        "language": "en",
+        "series": "Lecture Notes in Computer Science",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "FE279GT4",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "M. N.",
+                "lastName": "Uddin",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Q.",
+                "lastName": "Wang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hsi Hsien",
+                "lastName": "Wei",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Hung Lin",
+                "lastName": "Chi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meng",
+                "lastName": "Ni",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Office Building",
+                "type": 1
+            },
+            {
+                "tag": "BPS",
+                "type": 1
+            },
+            {
+                "tag": "BIM",
+                "type": 1
+            },
+            {
+                "tag": "SD",
+                "type": 1
+            },
+            {
+                "tag": "ABM & Occupant Comfort",
+                "type": 1
+            }
+        ],
+        "pages": "4261-4274",
+        "date": "2021-12-01",
+        "ISSN": "2090-4479",
+        "DOI": "10.1016/j.asej.2021.04.015",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2090447921001969",
+        "abstractNote": "Several frameworks are introduced to address occupancy-based building performance. However, the performance predictions obtained using these frameworks deviate from real performance. So, this study\u2019s aim is to represent a new framework for the automatic assessment of occupants\u2019 comfort and building indoor performance using BIM and the SD-ABM platform. Initially, an office space in Hong Kong, consisting of 10 occupants, was considered for the BIM model construction. The occupancy, indoor data and required equations are defined using the SD-ABM model. Essential data from the BIM model can be transferred using the Dynamo-Excel platform. Furthermore, a validation study was conducted using a paper-based survey from the occupants and sensor data for environmental data monitoring while error metrics were also calculated. The framework actively predicts occupant presence, comfort level, temperatures, and CO2 concentration in the office space. However, a comprehensive usability and feasibility study is required to assess the efficiency of the framework.",
+        "title": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM): Towards an integrated approach",
+        "journalAbbreviation": "Ain Shams Engineering Journal",
+        "volume": "12",
+        "issue": "4",
+        "publicationTitle": "Ain Shams Engineering Journal",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-01-05T16:15:29Z",
+        "shortTitle": "Building information modeling (BIM), System dynamics (SD), and Agent-based modeling (ABM)"
+    },
+    {
+        "key": "HEIJD4M5",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Barbara",
+                "lastName": "Entwisle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nathalie E.",
+                "lastName": "Williams",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ashton M.",
+                "lastName": "Verdery",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ronald R.",
+                "lastName": "Rindfuss",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Stephen J.",
+                "lastName": "Walsh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "George P.",
+                "lastName": "Malanson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Peter J.",
+                "lastName": "Mucha",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian G.",
+                "lastName": "Frizzelle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Philip M.",
+                "lastName": "McDaniel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Xiaozheng",
+                "lastName": "Yao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Benjamin W.",
+                "lastName": "Heumann",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Pramote",
+                "lastName": "Prasartkul",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yothin",
+                "lastName": "Sawangdee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Aree",
+                "lastName": "Jampaklay",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Popul Environ",
+        "publicationTitle": "Population and environment",
+        "ISSN": "0199-0039",
+        "abstractNote": "This is a study of migration responses to climate shocks. We construct an agent-based model that incorporates dynamic linkages between demographic behaviors, such as migration, marriage, and births, and agriculture and land use, which depend on rainfall patterns. The rules and parameterization of our model are empirically derived from qualitative and quantitative analyses of a well-studied demographic field site, Nang Rong district, Northeast Thailand. With this model, we simulate patterns of migration under four weather regimes in a rice economy: 1) a reference, \u2018normal\u2019 scenario; 2) seven years of unusually wet weather; 3) seven years of unusually dry weather; and 4) seven years of extremely variable weather. Results show relatively small impacts on migration. Experiments with the model show that existing high migration rates and strong selection factors, which are unaffected by climate change, are likely responsible for the weak migration response.",
+        "DOI": "10.1007/s11111-016-0254-y",
+        "extra": "PMID: 27594725\nPMCID: PMC5004973",
+        "title": "Climate Shocks and Migration: An Agent-Based Modeling Approach",
+        "volume": "38",
+        "issue": "1",
+        "pages": "47-71",
+        "date": "2016-9",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5004973/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2024-02-09T12:47:33Z",
+        "shortTitle": "Climate Shocks and Migration"
+    },
+    {
+        "key": "6LDC77S5",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Davide",
+                "lastName": "Calvaresi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Schumacher",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jean-Paul",
+                "lastName": "Calbimonte",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Patient trajectories",
+                "type": 1
+            },
+            {
+                "tag": "Semantic modeling",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modeling",
+                "type": 1
+            }
+        ],
+        "date": "2020-08-02",
+        "title": "Agent-based Modeling for Ontology-driven Analysis of Patient Trajectories",
+        "pages": "158",
+        "abstractNote": "Patients are often required to follow a medical treatment after discharge, e.g., for a chronic condition, rehabilitation after surgery, or for cancer survivor therapies. The need to adapt to new lifestyles, medication, and treatment routines, can produce an individual burden to the patient, who is often at home without the full support of healthcare professionals. Although technological solutions \u2013in the form of mobile apps and wearables\u2013 have been proposed to mitigate these issues, it is essential to consider individual characteristics, preferences, and the context of a patient in order to offer personalized and effective support. The specific events and circumstances linked to an individual profile can be abstracted as a patient trajectory, which can contribute to a better understanding of the patient, her needs, and the most appropriate personalized support. Although patient trajectories have been studied for different illnesses and conditions, it remains challenging to effectively use them as the basis for data analytics methodologies in decentralized eHealth systems. In this work, we present a novel approach based on the multi-agent paradigm, considering patient trajectories as the cornerstone of a methodology for modelling eHealth support systems. In this design, semantic representations of individual treatment pathways are used in order to exchange patient-relevant information, potentially fed to AI systems for prediction and classification tasks. This paper describes the major challenges in this scope, as well as the design principles of the proposed agent-based architecture, including an example of its use through a case scenario for cancer survivors support.",
+        "ISSN": "1573-689X",
+        "url": "https://doi.org/10.1007/s10916-020-01620-8",
+        "DOI": "10.1007/s10916-020-01620-8",
+        "journalAbbreviation": "J Med Syst",
+        "volume": "44",
+        "issue": "9",
+        "publicationTitle": "Journal of Medical Systems",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "accessDate": "2024-02-09T12:49:36Z"
+    },
+    {
+        "key": "WQURQDY3",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Elena",
+                "lastName": "Maggi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elena",
+                "lastName": "Vallino",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Urban mobility",
+                "type": 1
+            },
+            {
+                "tag": "Transport mode choice",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Price-based policies",
+                "type": 1
+            },
+            {
+                "tag": "Motivation-based policies",
+                "type": 1
+            }
+        ],
+        "pages": "100588",
+        "date": "2021-06-01",
+        "ISSN": "2210-5395",
+        "DOI": "10.1016/j.rtbm.2020.100588",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2210539520301255",
+        "abstractNote": "The paper aims to assess the potential impact of different public policies for transport sustainability on the commuters' mode choice in an urban area and on the associated PM emissions. An agent-based model simulates the choice of the transport means by a sample of Italian urban commuters according to the means relative price, social influence dynamics, psychological dimensions, and the policy intensity. The results show that the price-based policies seem less effective than the preference-based ones and that the best outputs are produced by a combination of the two policies, which allows a more efficient utilization and management of scarce public and private resources.",
+        "title": "Price-based and motivation-based policies for sustainable urban commuting: An agent-based model",
+        "journalAbbreviation": "Research in Transportation Business & Management",
+        "volume": "39",
+        "series": "Urban Transport Planning and Policy in a changing world: bridging the gap between theory and practice",
+        "publicationTitle": "Research in Transportation Business & Management",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-02-09T12:51:39Z",
+        "shortTitle": "Price-based and motivation-based policies for sustainable urban commuting"
+    },
+    {
+        "key": "N2UJMTUA",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Sandhya",
+                "lastName": "Sethuraman",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Julien",
+                "lastName": "Walzberg",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tapajyoti",
+                "lastName": "Ghosh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Taylor",
+                "lastName": "Uekert",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alberta",
+                "lastName": "Carpenter",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Combining Agent Based Modeling and System Dynamics to Investigate the Circularity of Plastics",
+        "DOI": "10.1115/MSEC2023-101736",
+        "url": "https://dx.doi.org/10.1115/MSEC2023-101736",
+        "abstractNote": "Abstract. The United States currently produces about 1 million metric ton of ocean plastic pollution annually. One proposed solution to combat plastic waste is a circular economy (CE), which aims to transition from today\u2019s take-make-waste linear pattern of production and consumption to a system where the value of resources is maximized over time. Two key methods in industrial ecology are useful in assessing the viability of CE: (1) System Dynamics (SD) and (2) Agent Based Modeling (ABM). In prior work, the plastic life cycle was modeled with SD and ABM. The two models calculate recycling rates and costs in different ways, making it difficult to pinpoint necessary next steps. We integrate the ABM and SD models \u2014 linking the emergent patterns from micro-level human decisions to system level processes \u2014 which allows a more comprehensive understanding of feedbacks, costs, and environmental impacts. The integrated model is more accurate, and can be used to visualize recycling rates and human health and environmental impacts over time. The difference between the integrated and original SD model prompts a Sobol sensitivity analysis, which is used to understand which behavioral factors most affect plastic recycling patterns. We find that the habitual component is typically the most influential in promoting positive recycling behavior. Additionally, we utilize the combined model to understand and visualize how various behavioral intervention scenarios, like improved access to recycling programs and cart tagging, influence recycling patterns; these results can guide future policy-making.",
+        "date": "2023/09/28",
+        "conferenceName": "ASME 2023 18th International Manufacturing Science and Engineering Conference",
+        "publisher": "American Society of Mechanical Engineers Digital Collection",
+        "language": "en",
+        "libraryCatalog": "asmedigitalcollection.asme.org",
+        "accessDate": "2024-02-09T12:59:41Z"
+    },
+    {
+        "key": "56EFBNSQ",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Giovanni",
+                "lastName": "Dosi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Elisa",
+                "lastName": "Palagi",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Andrea",
+                "lastName": "Roventini",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emanuele",
+                "lastName": "Russo",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Innovation",
+                "type": 1
+            },
+            {
+                "tag": "Intellectual property rights",
+                "type": 1
+            },
+            {
+                "tag": "Market power",
+                "type": 1
+            },
+            {
+                "tag": "Pharmaceutical sector",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based models",
+                "type": 1
+            }
+        ],
+        "pages": "564-589",
+        "date": "2023-08-01",
+        "ISSN": "0167-2681",
+        "DOI": "10.1016/j.jebo.2023.05.039",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167268123001920",
+        "abstractNote": "The role of the patent system in the pharmaceutical sector is highly debated also due to its strong public health implications. In this paper we develop an evolutionary, agent-based model of the pharmaceutical industry to explore the impact of different configurations of the patent system upon innovation and competition. The model is able to replicate the main stylized facts of the drug industry as emergent properties. We perform policy experiments to assess the impact of different Intellectual Property Rights (IPR) regimes changing the breadth and length of patents. Results tend to point against a strong patent system. Simulation experiments suggest that the extent and duration of patents shall, if anything, be set to minimum levels. This holds even when one assumes a strong response of R&D incentives to appropriability conditions and when taking into account information disclosure effects triggered by patents.",
+        "title": "Do patents really foster innovation in the pharmaceutical sector? Results from an evolutionary, agent-based model",
+        "journalAbbreviation": "Journal of Economic Behavior & Organization",
+        "volume": "212",
+        "publicationTitle": "Journal of Economic Behavior & Organization",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-02-09T13:01:44Z",
+        "shortTitle": "Do patents really foster innovation in the pharmaceutical sector?"
+    },
+    {
+        "key": "FUW9JYL4",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Vijay",
+                "lastName": "Kothari",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jim",
+                "lastName": "Blythe",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sean W.",
+                "lastName": "Smith",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ross",
+                "lastName": "Koppel",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Measuring the security impacts of password policies using cognitive behavioral agent-based modeling",
+        "proceedingsTitle": "Proceedings of the 2015 Symposium and Bootcamp on the Science of Security",
+        "series": "HotSoS '15",
+        "publisher": "Association for Computing Machinery",
+        "place": "Urbana, Illinois",
+        "pages": "1\u20139",
+        "abstractNote": "Agent-based modeling can serve as a valuable asset to security personnel who wish to better understand the security landscape within their organization, especially as it relates to user behavior and circumvention. In this paper, we argue in favor of cognitive behavioral agent-based modeling for usable security, report on our work on developing an agent-based model for a password management scenario, perform a sensitivity analysis, which provides us with valuable insights into improving security (e.g., an organization that wishes to suppress one form of circumvention may want to endorse another), and provide directions for future work.",
+        "url": "https://doi.org/10.1145/2746194.2746207",
+        "DOI": "10.1145/2746194.2746207",
+        "ISBN": "9781450333764",
+        "date": "April 21, 2015",
+        "accessDate": "2024-02-09",
+        "libraryCatalog": "ACM Digital Library"
+    },
+    {
+        "key": "NRWKLB8P",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [
+            {
+                "firstName": "Claudia Biancotti",
+                "lastName": "Luca Arciero",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Exploring Agent-Based Methods for the Analysis of Payment Systems: A Crisis Model for StarLogo TNG",
+        "rights": "JASSS@soc.surrey.ac.uk",
+        "date": "2009-01-31",
+        "abstractNote": "This paper presents an exploratory agent-based model of a real time gross settlement (RTGS) payment system. Banks are represented as agents who exchange payment requests, which are then settled according to a set of simple rules. The model features the main elements of a real-life system, including a central bank acting as liquidity provider, and a simplified money market. A simulation exercise using synthetic data of BI-REL (the Italian RTGS) predicts the macroscopic impact of a disruptive event on the flow of interbank payments. In our reduced-scale system, three hypothetical distinct phases emerge after the disruptive event: 1) a liquidity sink effect is generated and the participants' liquidity expectations turn out to be excessive; 2) an illusory thickening of the money market follows, along with increased payment delays; and, finally 3) defaulted obligations dramatically rise. The banks cannot staunch the losses accruing on defaults, even after they become fully aware of the critical event, and a scenario emerges in which it might be necessary for the central bank to step in as liquidity provider.",
+        "websiteType": "Text.Article",
+        "language": "en",
+        "url": "https://www.jasss.org/12/1/2.html",
+        "accessDate": "2024-02-09T13:07:50Z",
+        "shortTitle": "Exploring Agent-Based Methods for the Analysis of Payment Systems"
+    },
+    {
+        "key": "BLZQ2BRY",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Vittorio",
+                "lastName": "Nespeca",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Tina",
+                "lastName": "Comes",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Frances",
+                "lastName": "Brazier",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marcin",
+                "lastName": "Czupryna",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Bogumi\u0142",
+                "lastName": "Kami\u0144ski",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Qualitative research",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modelling",
+                "type": 1
+            },
+            {
+                "tag": "Exploratory research",
+                "type": 1
+            },
+            {
+                "tag": "Disaster information management",
+                "type": 1
+            }
+        ],
+        "date": "2022",
+        "title": "A Methodology to Develop Agent-Based Models for Policy Design in Socio-Technical Systems Based on Qualitative Inquiry",
+        "pages": "453-468",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "Agent-based models (ABM) for policy design need to be grounded in empirical data. While many ABMs rely on quantitative data such as surveys, much empirical research in the social sciences is based on qualitative research methods such as interviews or observations that are hard to translate into a set of quantitative rules, leading to a gap in the phenomena that ABM can explain. As such, there is a lack of a clear methodology to systematically develop ABMs for policy design on the basis of qualitative empirical research. In this paper, a two-stage methodology is proposed that takes an exploratory approach to the development of ABMs in socio-technical systems based on qualitative data. First, a conceptual framework centered on a particular policy design problem is developed based on empirical insights from one or more case studies. Second, the framework is used to guide the development of an ABM. This step is sensitive to the purpose of the model, which can be theoretical or empirical. The proposed methodology is illustrated by an application for disaster information management in Jakarta, resulting in an empirical descriptive ABM.",
+        "ISBN": "9783030928438",
+        "place": "Cham",
+        "proceedingsTitle": "Advances in Social Simulation",
+        "DOI": "10.1007/978-3-030-92843-8_34",
+        "language": "en",
+        "series": "Springer Proceedings in Complexity",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "ABPHCTIW",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Agnieszka",
+                "lastName": "Truszkowska",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Lorenzo",
+                "lastName": "Zino",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sachit",
+                "lastName": "Butail",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Emanuele",
+                "lastName": "Caroppo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Zhong-Ping",
+                "lastName": "Jiang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Alessandro",
+                "lastName": "Rizzo",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Maurizio",
+                "lastName": "Porfiri",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Predicting the Effects of Waning Vaccine Immunity Against COVID\u201019 through High\u2010Resolution Agent\u2010Based Modeling",
+        "date": "2022/06",
+        "DOI": "10.1002/adts.202100521",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9073999/",
+        "abstractNote": "The potential waning of the vaccination immunity to COVID\u201019 could pose threats to public health, as it is tenable that the timing of such waning would synchronize with the near\u2010complete restoration of normalcy. Should also testing be ...",
+        "language": "en",
+        "publicationTitle": "Advanced Theory and Simulations",
+        "volume": "5",
+        "issue": "6",
+        "extra": "PMID: 35540703",
+        "libraryCatalog": "www.ncbi.nlm.nih.gov",
+        "accessDate": "2024-02-09T13:09:58Z"
+    },
+    {
+        "key": "7AZ5ZEG8",
+        "version": 0,
+        "itemType": "webpage",
+        "creators": [
+            {
+                "firstName": "Claudia Biancotti",
+                "lastName": "Luca Arciero",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Exploring Agent-Based Methods for the Analysis of Payment Systems: A Crisis Model for StarLogo TNG",
+        "rights": "JASSS@soc.surrey.ac.uk",
+        "date": "2009-01-31",
+        "abstractNote": "This paper presents an exploratory agent-based model of a real time gross settlement (RTGS) payment system. Banks are represented as agents who exchange payment requests, which are then settled according to a set of simple rules. The model features the main elements of a real-life system, including a central bank acting as liquidity provider, and a simplified money market. A simulation exercise using synthetic data of BI-REL (the Italian RTGS) predicts the macroscopic impact of a disruptive event on the flow of interbank payments. In our reduced-scale system, three hypothetical distinct phases emerge after the disruptive event: 1) a liquidity sink effect is generated and the participants' liquidity expectations turn out to be excessive; 2) an illusory thickening of the money market follows, along with increased payment delays; and, finally 3) defaulted obligations dramatically rise. The banks cannot staunch the losses accruing on defaults, even after they become fully aware of the critical event, and a scenario emerges in which it might be necessary for the central bank to step in as liquidity provider.",
+        "websiteType": "Text.Article",
+        "language": "en",
+        "url": "https://www.jasss.org/12/1/2.html",
+        "accessDate": "2024-02-09T13:16:01Z",
+        "shortTitle": "Exploring Agent-Based Methods for the Analysis of Payment Systems"
+    },
+    {
+        "key": "KT4G5QU8",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jeon-Young",
+                "lastName": "Kang",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jared",
+                "lastName": "Aldstadt",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Int J Geogr Inf Sci",
+        "publicationTitle": "International journal of geographical information science : IJGIS",
+        "ISSN": "1365-8816",
+        "abstractNote": "Spatially explicit agent-based models (ABMs) have been widely utilized to simulate the dynamics of spatial processes that involve the interactions of individual agents. The assumptions embedded in the ABMs may be responsible for uncertainty in the model outcomes. To ensure the reliability of the outcomes in terms of their space-time patterns, model validation should be performed. In this paper, we propose the use of multiple scale spatio-temporal patterns for validating spatially explicit ABMs. We evaluated several specifications of vector-borne disease transmission models by comparing space-time patterns of model outcomes to observations at multiple scales via the sum of root mean square error (RMSE) measurement. The results indicate that specifications of the spatial configurations of residential area and immunity status of individual humans are of importance to reproduce observed patterns of dengue outbreaks at multiple space-time scales. Our approach to using multiple scale spatio-temporal patterns can help not only to understand the dynamic associations between model specifications and model outcomes, but also to validate spatially explicit ABMs.",
+        "DOI": "10.1080/13658816.2018.1535121",
+        "extra": "PMID: 31695574\nPMCID: PMC6834355",
+        "title": "Using Multiple Scale Spatio-Temporal Patterns for Validating Spatially Explicit Agent-Based Models",
+        "volume": "33",
+        "issue": "1",
+        "pages": "193-213",
+        "date": "2019",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6834355/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2024-02-09T13:16:03Z"
+    },
+    {
+        "key": "QABRUBCK",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Patrick",
+                "lastName": "Taillandier",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nicolas",
+                "lastName": "Salliou",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Rallou",
+                "lastName": "Thomopoulos",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Petra",
+                "lastName": "Ahrweiler",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Martin",
+                "lastName": "Neumann",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Opinion dynamics",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based simulation",
+                "type": 1
+            },
+            {
+                "tag": "Argumentation framework",
+                "type": 1
+            },
+            {
+                "tag": "GAMA platform",
+                "type": 1
+            },
+            {
+                "tag": "Vegetarian diets",
+                "type": 1
+            }
+        ],
+        "date": "2021",
+        "title": "Coupling Agent-Based Models and Argumentation Framework to Simulate Opinion Dynamics: Application to Vegetarian Diet Diffusion",
+        "pages": "341-353",
+        "publisher": "Springer International Publishing",
+        "abstractNote": "Taillandier, PatrickSalliou, NicolasThomopoulos, RallouAgent-based simulation has been extensively used to study opinion dynamics. However, the vast majority of the existing models have been limited to extremely abstract and simplified representations of the diffusion process, which impairs the realism of the simulations and disables the understanding of the reasons for the shift of an actor\u2019s opinion. This paper presents a generic framework implemented in the GAMA platform allowing to explicitly represent exchanges of arguments between actors in a context of an opinion dynamic model. More precisely, we propose to formalize the inner attitude towards an opinion of each agent as an argumentation graph and give them the possibility to share arguments with other agents. We present an application of the framework to study the evolution of the vegetarian diet at a city level.",
+        "ISBN": "9783030615031",
+        "place": "Cham",
+        "proceedingsTitle": "Advances in Social Simulation",
+        "DOI": "10.1007/978-3-030-61503-1_33",
+        "language": "en",
+        "series": "Springer Proceedings in Complexity",
+        "libraryCatalog": "Springer Link",
+        "shortTitle": "Coupling Agent-Based Models and Argumentation Framework to Simulate Opinion Dynamics"
+    },
+    {
+        "key": "IPENB8S8",
+        "version": 0,
+        "itemType": "webpage",
+        "url": "https://www.sciencedirect.com/science/article/am/pii/S0959652619329932",
+        "title": "ScienceDirect.com | Science, health and medical journals, full text articles and books.",
+        "accessDate": "2024-02-09T13:22:07Z"
+    },
+    {
+        "key": "NICFT7C7",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Jule",
+                "lastName": "Thober",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nina",
+                "lastName": "Schwarz",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Kathleen",
+                "lastName": "Hermans",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Agent-based modeling of environment-migration linkages: a review",
+        "publicationTitle": "Ecology and Society",
+        "rights": "\u00a9 2018 by the author(s)",
+        "date": "2018/06/12",
+        "DOI": "10.5751/ES-10200-230241",
+        "language": "en",
+        "volume": "23",
+        "issue": "2",
+        "ISSN": "1708-3087",
+        "url": "https://www.ecologyandsociety.org/vol23/iss2/art41/",
+        "abstractNote": "Thober, J., N. Schwarz, and K. Hermans. 2018. Agent-based modeling of environment-migration linkages: a review. Ecology and Society 23(2):41. https://doi.org/10.5751/ES-10200-230241",
+        "libraryCatalog": "www.ecologyandsociety.org",
+        "accessDate": "2024-02-09T13:22:12Z",
+        "shortTitle": "Agent-based modeling of environment-migration linkages"
+    },
+    {
+        "key": "YIRYFE2V",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Le Khanh Ngan",
+                "lastName": "Nguyen",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Susan",
+                "lastName": "Howick",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Itamar",
+                "lastName": "Megiddo",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "System dynamics",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based modelling",
+                "type": 1
+            },
+            {
+                "tag": "Hybrid simulation",
+                "type": 1
+            },
+            {
+                "tag": "Conceptual modelling",
+                "type": 1
+            }
+        ],
+        "date": "2024-01-20",
+        "ISSN": "0377-2217",
+        "DOI": "10.1016/j.ejor.2024.01.027",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0377221724000468",
+        "abstractNote": "The growing complexity of systems and problems that stakeholders from the private and public sectors have sought advice on has led systems modellers to increasingly use multimethodology and to combine multiple OR/MS methods. This includes hybrid simulation that combines two or more of the following methods: system dynamics (SD), discrete-event simulation, and agent-based models (ABM). Although a significant number of studies describe the application of hybrid simulation across different domains, research on the theoretical and practical aspects of combining simulation modelling methods, particularly the combining of SD and ABM, is still limited. Existing frameworks for combining simulation methods are high-level and lack methodological clarity and practical guidance on modelling decisions and elements specific to hybrid simulation that modellers need to consider. This paper proposes a practical framework for developing a conceptual hybrid simulation model that is built on reviews and reflections of theoretical and application literature on combining methods. The framework is then used to inform and guide the process of conceptual model building for a case study in controlling the spread of COVID-19 in care homes. In addition, reflection on the use of the framework for the case study led to refining the framework itself. This case study is also used to demonstrate how the framework informs the structural design of a hybrid simulation model and relevant modelling decisions during the conceptualisation phase.",
+        "title": "A framework for conceptualising hybrid system dynamics and agent-based simulation models",
+        "journalAbbreviation": "European Journal of Operational Research",
+        "publicationTitle": "European Journal of Operational Research",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-02-09T13:26:13Z"
+    },
+    {
+        "key": "M46QTG2D",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Barbara",
+                "lastName": "Entwisle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nathalie E.",
+                "lastName": "Williams",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ashton M.",
+                "lastName": "Verdery",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ronald R.",
+                "lastName": "Rindfuss",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Stephen J.",
+                "lastName": "Walsh",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "George P.",
+                "lastName": "Malanson",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Peter J.",
+                "lastName": "Mucha",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Brian G.",
+                "lastName": "Frizzelle",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Philip M.",
+                "lastName": "McDaniel",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Xiaozheng",
+                "lastName": "Yao",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Benjamin W.",
+                "lastName": "Heumann",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Pramote",
+                "lastName": "Prasartkul",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Yothin",
+                "lastName": "Sawangdee",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Aree",
+                "lastName": "Jampaklay",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "journalAbbreviation": "Popul Environ",
+        "publicationTitle": "Population and environment",
+        "ISSN": "0199-0039",
+        "abstractNote": "This is a study of migration responses to climate shocks. We construct an agent-based model that incorporates dynamic linkages between demographic behaviors, such as migration, marriage, and births, and agriculture and land use, which depend on rainfall patterns. The rules and parameterization of our model are empirically derived from qualitative and quantitative analyses of a well-studied demographic field site, Nang Rong district, Northeast Thailand. With this model, we simulate patterns of migration under four weather regimes in a rice economy: 1) a reference, \u2018normal\u2019 scenario; 2) seven years of unusually wet weather; 3) seven years of unusually dry weather; and 4) seven years of extremely variable weather. Results show relatively small impacts on migration. Experiments with the model show that existing high migration rates and strong selection factors, which are unaffected by climate change, are likely responsible for the weak migration response.",
+        "DOI": "10.1007/s11111-016-0254-y",
+        "extra": "PMID: 27594725\nPMCID: PMC5004973",
+        "title": "Climate Shocks and Migration: An Agent-Based Modeling Approach",
+        "volume": "38",
+        "issue": "1",
+        "pages": "47-71",
+        "date": "2016-9",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5004973/",
+        "libraryCatalog": "PubMed Central",
+        "accessDate": "2024-02-09T13:34:18Z",
+        "shortTitle": "Climate Shocks and Migration"
+    },
+    {
+        "key": "CLQAHXZS",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Chunhui",
+                "lastName": "Li",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Meike",
+                "lastName": "Will",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Nastasija",
+                "lastName": "Gruji\u0107",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jiaqi",
+                "lastName": "Ge",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Birgit",
+                "lastName": "M\u00fcller",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Arjan",
+                "lastName": "Gosal",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Guy",
+                "lastName": "Ziv",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Flaminio",
+                "lastName": "Squazzoni",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Agri-environment schemes",
+                "type": 1
+            },
+            {
+                "tag": "Agricultural agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Decision-making",
+                "type": 1
+            }
+        ],
+        "date": "2023",
+        "title": "An Agent-Based Model of UK Farmers\u2019 Decision-Making on Adoption of Agri-environment Schemes",
+        "pages": "463-475",
+        "publisher": "Springer Nature Switzerland",
+        "abstractNote": "Agri-environment schemes (AES) are government-funded voluntary programs that incentivise farmers and land managers for environmental friendly farming practices. Understanding farmers\u2019 decision-making process and its impact on AES adoption can aid policy makers in designing AES schemes that meet adoption goals and environmental targets. Farmers\u2019 decision-making is complex and involves a range of social, behavioural, economic and ecological factors. In this paper, we present a spatially explicit agent-based model (ABM)\u2014BESTMAP-ABM-UK that simulates farmers\u2019 decision-making process, inclusive of farmers\u2019 social, behavioural and economic factors, on adopting buffer strips, cover crops, grassland management and arable land conversion to grassland schemes in the UK. The model produces farmers\u2019 AES adoption under varied AES scheme designs in term of the contract length, the offered payment level, the bureaucracy level and the required minimal area. We apply the Morris screening method to analyse the importance of the model parameters in a status quo scenario, in which current UK AES designs are used. The results show that the average accepted payments of farmers for buffer strips and grassland management and farmers\u2019 intrinsic openness to buffer strips have the most significant impact on the farm adoption rate in the model.",
+        "ISBN": "9783031349201",
+        "place": "Cham",
+        "proceedingsTitle": "Advances in Social Simulation",
+        "DOI": "10.1007/978-3-031-34920-1_37",
+        "language": "en",
+        "series": "Springer Proceedings in Complexity",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "JLWF5AUL",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Vijay",
+                "lastName": "Kothari",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Jim",
+                "lastName": "Blythe",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Sean W.",
+                "lastName": "Smith",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Ross",
+                "lastName": "Koppel",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Measuring the security impacts of password policies using cognitive behavioral agent-based modeling",
+        "proceedingsTitle": "Proceedings of the 2015 Symposium and Bootcamp on the Science of Security",
+        "series": "HotSoS '15",
+        "publisher": "Association for Computing Machinery",
+        "place": "Urbana, Illinois",
+        "pages": "1\u20139",
+        "abstractNote": "Agent-based modeling can serve as a valuable asset to security personnel who wish to better understand the security landscape within their organization, especially as it relates to user behavior and circumvention. In this paper, we argue in favor of cognitive behavioral agent-based modeling for usable security, report on our work on developing an agent-based model for a password management scenario, perform a sensitivity analysis, which provides us with valuable insights into improving security (e.g., an organization that wishes to suppress one form of circumvention may want to endorse another), and provide directions for future work.",
+        "url": "https://doi.org/10.1145/2746194.2746207",
+        "DOI": "10.1145/2746194.2746207",
+        "ISBN": "9781450333764",
+        "date": "April 21, 2015",
+        "accessDate": "2024-02-09",
+        "libraryCatalog": "ACM Digital Library"
+    },
+    {
+        "key": "FA2MWR86",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Maria",
+                "lastName": "Fonoberova",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Vladimir A.",
+                "lastName": "Fonoberov",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Igor",
+                "lastName": "Mezi\u0107",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Global sensitivity analysis",
+                "type": 1
+            },
+            {
+                "tag": "Uncertainty analysis",
+                "type": 1
+            },
+            {
+                "tag": "Agent-based model",
+                "type": 1
+            },
+            {
+                "tag": "Variance-based global sensitivity",
+                "type": 1
+            },
+            {
+                "tag": "Derivative-based global sensitivity",
+                "type": 1
+            },
+            {
+                "tag": "Model reduction",
+                "type": 1
+            }
+        ],
+        "pages": "8-17",
+        "date": "2013-10-01",
+        "ISSN": "0951-8320",
+        "DOI": "10.1016/j.ress.2013.04.004",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0951832013000999",
+        "abstractNote": "Agent-based models simulate simultaneous actions and interactions of multiple agents, in an attempt to re-create and predict the appearance of complex phenomena. We propose to use global sensitivity analysis as a tool for analyzing and evaluating agent-based models. A general approach for applying the global sensitivity analysis to agent-based models is presented and tested on the example of a socio-cultural agent-based model we developed earlier [45]. We identify the most significant parameters in the model and uncover their contributions to the outputs of interest. Methodology of model reduction for agent-based models is discussed and demonstrated for the aforementioned model.",
+        "title": "Global sensitivity/uncertainty analysis for agent-based models",
+        "journalAbbreviation": "Reliability Engineering & System Safety",
+        "volume": "118",
+        "publicationTitle": "Reliability Engineering & System Safety",
+        "libraryCatalog": "ScienceDirect",
+        "accessDate": "2024-02-09T13:42:27Z"
+    },
+    {
+        "key": "M8339FRB",
+        "version": 0,
+        "itemType": "conferencePaper",
+        "creators": [
+            {
+                "firstName": "Jairo E.",
+                "lastName": "Serrano",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Enrique",
+                "lastName": "Gonz\u00e1lez",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Marta",
+                "lastName": "Tabares",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Paola",
+                "lastName": "Vallejo",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Biviana",
+                "lastName": "Suarez",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Marco",
+                "lastName": "Suarez",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Oscar",
+                "lastName": "Ruiz",
+                "creatorType": "editor"
+            },
+            {
+                "firstName": "Jose",
+                "lastName": "Aguilar",
+                "creatorType": "editor"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "Social Simulation",
+                "type": 1
+            },
+            {
+                "tag": "Multi-agent systems",
+                "type": 1
+            },
+            {
+                "tag": "Emotional BDI",
+                "type": 1
+            },
+            {
+                "tag": "Multi-agent simulation",
+                "type": 1
+            },
+            {
+                "tag": "BDI agent",
+                "type": 1
+            },
+            {
+                "tag": "Fuzzy Logic",
+                "type": 1
+            }
+        ],
+        "date": "2024",
+        "title": "BDI Peasants Model for\u00a0the\u00a0WellProdSim Agent-Based Social Simulator",
+        "pages": "367-379",
+        "publisher": "Springer Nature Switzerland",
+        "abstractNote": "This article describes the design and implementation of BDI agents for the WellProdSim Social Simulator, a system that assesses the productivity and social wellbeing of Peasant Families. A first BDI emotional reasoning model was designed to incorporate personal and social wellbeing components in the agent that represents a Peasant Family. Furthermore, decision-making mechanisms based on variable modulation and fuzzy logic evaluation of human welfare were added. The evaluation aspects include health state, knowledge and skills, food consumption, emotional state and expected productivity. Preliminary results demonstrate a high quality in the proposed model; although, some elements with potential for improvement, in future work, were also identified.",
+        "ISBN": "9783031473722",
+        "place": "Cham",
+        "proceedingsTitle": "Advances in Computing",
+        "DOI": "10.1007/978-3-031-47372-2_29",
+        "language": "en",
+        "series": "Communications in Computer and Information Science",
+        "libraryCatalog": "Springer Link"
+    },
+    {
+        "key": "U24LPYWN",
+        "version": 0,
+        "itemType": "journalArticle",
+        "creators": [
+            {
+                "firstName": "Barbara",
+                "lastName": "Llacay",
+                "creatorType": "author"
+            },
+            {
+                "firstName": "Gilbert",
+                "lastName": "Peffer",
+                "creatorType": "author"
+            }
+        ],
+        "tags": [],
+        "title": "Impact of Basel III Countercyclical Measures on Financial Stability: An Agent-Based Model",
+        "publicationTitle": "Journal of Artificial Societies and Social Simulation",
+        "journalAbbreviation": "JASSS",
+        "ISSN": "1460-7425",
+        "date": "2019",
+        "volume": "22",
+        "issue": "1",
+        "pages": "6",
+        "shortTitle": "Impact of Basel III Countercyclical Measures on Financial Stability"
     }
 ]
